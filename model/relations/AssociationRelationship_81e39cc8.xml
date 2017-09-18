@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definierar"
+    id="81e39cc8">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_39054335.xml#39054335"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a5372f3e.xml#a5372f3e"/>
+</archimate:AssociationRelationship>

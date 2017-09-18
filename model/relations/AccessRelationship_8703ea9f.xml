@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levererar"
+    id="8703ea9f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_857f9b87.xml#857f9b87"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3b0d44e8.xml#3b0d44e8"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vidarebefordrad autensiering"
+    id="3542dbb8">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_7b405ebb.xml#7b405ebb"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_33f8f721.xml#33f8f721"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kompletterande information"
+    id="d1549520-c610-4b9d-adfd-9d2b686e267a">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_1406fcec.xml#1406fcec"/>
+  <target
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_9b040e00.xml#9b040e00"/>
+</archimate:ServingRelationship>

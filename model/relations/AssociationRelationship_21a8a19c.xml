@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="står bakom"
+    id="21a8a19c">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_d3c2fa88.xml#d3c2fa88"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ec046099.xml#ec046099"/>
+</archimate:AssociationRelationship>

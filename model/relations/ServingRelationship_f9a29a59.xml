@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handtering av TOTP"
+    id="f9a29a59">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_0a2b81ec.xml#0a2b81ec"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_4f1f3ec5.xml#4f1f3ec5"/>
+</archimate:ServingRelationship>

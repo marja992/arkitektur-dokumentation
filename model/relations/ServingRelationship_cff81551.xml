@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verifiering av TOTP"
+    id="cff81551">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_22d24730.xml#22d24730"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_027f2c71.xml#027f2c71"/>
+</archimate:ServingRelationship>

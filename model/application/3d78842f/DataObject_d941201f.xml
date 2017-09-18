@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utbildnings-information"
+    id="d941201f"
+    documentation="Information om utbud av utbildningar (kursens namn och antal hp) och hur de är sammansatta (program- och kursrelationer) och vad de innehåller och hur de är utformade. Det aktuella utbudet benämns allmänt som ”utbildningskatalogen”."/>

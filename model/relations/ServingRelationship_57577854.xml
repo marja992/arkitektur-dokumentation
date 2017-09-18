@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begäran om styrkt återautensering"
+    id="57577854">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_61453bd3.xml#61453bd3"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_7b8cd1bf.xml#7b8cd1bf"/>
+</archimate:ServingRelationship>

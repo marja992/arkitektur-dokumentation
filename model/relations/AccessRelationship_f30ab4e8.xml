@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="designar och förvaltar"
+    id="f30ab4e8">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_00484ab5.xml#00484ab5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_60384b0f-c107-478a-83cb-9911b85f4328.xml#60384b0f-c107-478a-83cb-9911b85f4328"/>
+</archimate:AccessRelationship>

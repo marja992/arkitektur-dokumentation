@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="formar"
+    id="8ca9153b">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d9692412.xml#d9692412"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_de2eaa71.xml#de2eaa71"/>
+</archimate:AssociationRelationship>

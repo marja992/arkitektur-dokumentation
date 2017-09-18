@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beslutar"
+    id="48aa43bf">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_8dce3cbf.xml#8dce3cbf"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d9692412.xml#d9692412"/>
+</archimate:AssociationRelationship>

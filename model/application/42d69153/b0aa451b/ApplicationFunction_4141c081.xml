@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konto-förlängning"
+    id="4141c081"
+    documentation="För anställda, funktioner och externa gäller att rutinen läser i &quot;person-trädet&quot; för att avgöra om personen är anställd eller inte och genom det kan uppdatera giltighetstiden för identiteten."/>

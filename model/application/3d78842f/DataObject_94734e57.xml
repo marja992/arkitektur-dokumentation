@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Person"
+    id="94734e57"
+    documentation="Informationsområdet innefattar information om studenter, anställda och övriga verksamma, alumner samt presumtiva studenter. Informationen gäller attribut som beskriver personen (ex. namn, personnummer, adress etc.) och dess relation till universitetet (roll, anställning, befattning etc.)."/>

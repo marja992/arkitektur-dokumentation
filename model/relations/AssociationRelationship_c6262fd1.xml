@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förvaltning"
+    id="c6262fd1">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_110721e3.xml#110721e3"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_88a4b94c.xml#88a4b94c"/>
+</archimate:AssociationRelationship>

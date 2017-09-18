@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Easit Självservice"
+    id="03fa25f7"
+    documentation="Autensierar genom SAML2-baserad gemensam inloggning."/>

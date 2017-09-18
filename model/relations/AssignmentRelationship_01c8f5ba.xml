@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="01c8f5ba">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_a004bb24.xml#a004bb24"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_60bc0c2c.xml#60bc0c2c"/>
+</archimate:AssignmentRelationship>

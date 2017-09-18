@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="git pull"
+    id="6063704a">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_bb5a1669.xml#bb5a1669"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_956cba8f.xml#956cba8f"/>
+</archimate:ServingRelationship>

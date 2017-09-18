@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="baseras på"
+    id="4536e58c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_857f9b87.xml#857f9b87"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_764afc30.xml#764afc30"/>
+</archimate:SpecializationRelationship>

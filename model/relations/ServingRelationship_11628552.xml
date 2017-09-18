@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="feature &amp; bundle transfer"
+    id="11628552">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_7c32c8a7.xml#7c32c8a7"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_002f84c7.xml#002f84c7"/>
+</archimate:ServingRelationship>

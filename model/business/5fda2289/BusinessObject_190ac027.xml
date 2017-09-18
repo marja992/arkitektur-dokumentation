@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-behörighet"
+    id="190ac027"
+    documentation="Informationsbärare som beskriver ett förhållande mellan en IT-användare och behörighet i ett IT-system"/>

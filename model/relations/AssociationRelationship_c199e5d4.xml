@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ansvarar för"
+    id="c199e5d4">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3b0d44e8.xml#3b0d44e8"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_3838052c.xml#3838052c"/>
+</archimate:AssociationRelationship>

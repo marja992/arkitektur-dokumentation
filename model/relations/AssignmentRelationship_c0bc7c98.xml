@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="deltar i"
+    id="c0bc7c98">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_d3c2fa88.xml#d3c2fa88"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_857f9b87.xml#857f9b87"/>
+</archimate:AssignmentRelationship>

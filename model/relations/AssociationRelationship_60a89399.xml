@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avser"
+    id="60a89399">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_554ebe8a.xml#554ebe8a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_af9bbbdf.xml#af9bbbdf"/>
+</archimate:AssociationRelationship>

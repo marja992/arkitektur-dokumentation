@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generic Functions"
+    id="db591dc5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3448d4a3">
+    <bounds
+        x="96"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_e66a2cd4.xml#e66a2cd4"/>
+  </children>
+</archimate:ArchimateDiagramModel>
