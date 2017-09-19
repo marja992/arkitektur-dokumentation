@@ -58,12 +58,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9d5838eb-b787-4f08-9006-2929addc8d8a"
+        id="3901b96d-8e3a-4dcb-b24e-f9c9b48040b2"
         source="e974c8a9-4bc9-4044-afa5-8fa00c34056f"
-        target="3391ef33-7a2f-4ef3-8294-50a321b59348">
+        target="c12a491d-315a-4d7d-9a4e-de4fe7445484">
       <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_23a0b97a-3e94-45cf-8208-f07e825fcc5b.xml#23a0b97a-3e94-45cf-8208-f07e825fcc5b"/>
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_ae29ca38-88af-49b4-a76b-a090d9c6c1aa.xml#ae29ca38-88af-49b4-a76b-a090d9c6c1aa"/>
     </sourceConnections>
     <bounds
         x="12"
@@ -96,15 +96,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4bbf5e0b-2d50-4b43-889e-f976f61af107"
         targetConnections="30a2b939-5b6d-495b-aa4b-0df74a105f33">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="3901b96d-8e3a-4dcb-b24e-f9c9b48040b2"
-          source="4bbf5e0b-2d50-4b43-889e-f976f61af107"
-          target="c12a491d-315a-4d7d-9a4e-de4fe7445484">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_ae29ca38-88af-49b4-a76b-a090d9c6c1aa.xml#ae29ca38-88af-49b4-a76b-a090d9c6c1aa"/>
-      </sourceConnections>
       <bounds
           x="432"
           y="48"
@@ -510,7 +501,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3391ef33-7a2f-4ef3-8294-50a321b59348"
-        targetConnections="9d5838eb-b787-4f08-9006-2929addc8d8a 24871c68-ce04-4522-b171-79f4041ae036 6cc7e0fa-f681-4673-ac6e-771173e04cf4">
+        targetConnections="24871c68-ce04-4522-b171-79f4041ae036 6cc7e0fa-f681-4673-ac6e-771173e04cf4">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ddbe0d98-4603-49e0-b447-f418306df0d6"
