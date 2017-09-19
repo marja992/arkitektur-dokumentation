@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrationsplattform"
-    id="0992192a">
+    id="0992192a"
+    viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="663fe52e">
@@ -162,7 +163,7 @@
         x="24"
         y="276"
         width="220"
-        height="80"/>
+        height="85"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -174,11 +175,12 @@
         x="24"
         y="408"
         width="220"
-        height="146"/>
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1ac18444"
+      targetConnections="9de70265-6e4b-4bcf-909c-a31778a535ca"
       font="1|Lucida Grande|16.0|1|COCOA|1|LucidaGrande-Bold">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -192,7 +194,7 @@
     <bounds
         x="816"
         y="192"
-        width="745"
+        width="901"
         height="625"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -288,23 +290,20 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="cfed33d2">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="597b17e7-fa55-4550-933c-2b1c804e7d42"
+            source="cfed33d2"
+            target="844fd771">
+          <archimateRelationship
+              xsi:type="archimate:CompositionRelationship"
+              href="CompositionRelationship_e406104c.xml#e406104c"/>
+        </sourceConnections>
         <bounds
             x="492"
             y="36"
             width="157"
             height="126"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="844fd771">
-          <bounds
-              x="12"
-              y="48"
-              width="120"
-              height="55"/>
-          <archimateElement
-              xsi:type="archimate:TechnologyInterface"
-              href="TechnologyInterface_c613e135.xml#c613e135"/>
-        </children>
         <archimateElement
             xsi:type="archimate:Node"
             href="Node_ebc2d57b.xml#ebc2d57b"/>
@@ -359,7 +358,13 @@
       <sourceConnections
           id="d1a9d64a"
           source="b479dabc"
-          target="ecf1088f"/>
+          target="ecf1088f">
+        <bendpoints
+            startX="439"
+            startY="-29"
+            endX="-188"
+            endY="-24"/>
+      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="5f109723"
@@ -368,6 +373,15 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_72967442.xml#72967442"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="1bd55b2d-115f-482e-8f52-ae91bbc025a5"
+          source="b479dabc"
+          target="3409dd0b-fd02-4996-9160-3a1271766247">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_25375f5f-3fec-4e2e-b270-bb29128e89f2.xml#25375f5f-3fec-4e2e-b270-bb29128e89f2"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -464,6 +478,24 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_abfaba47.xml#abfaba47"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="21138e7e-a895-44ee-a49b-4567dfaf0d61"
+          source="85f852f4"
+          target="044dd244-75e9-4a39-bc01-f43f08e0888d">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_6bb61b3d-817a-450e-aae1-bc258b006b84.xml#6bb61b3d-817a-450e-aae1-bc258b006b84"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="34ebe099-89af-40ae-add0-8c158777cd1a"
+          source="85f852f4"
+          target="dd19cf22-7425-4957-9b0c-d561fc4726e5">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_cf838073-13ab-4e8e-9fe3-563d34e91241.xml#cf838073-13ab-4e8e-9fe3-563d34e91241"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="360"
@@ -510,6 +542,58 @@
           xsi:type="archimate:Node"
           href="Node_b2e33461.xml#b2e33461"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="844fd771"
+        targetConnections="597b17e7-fa55-4550-933c-2b1c804e7d42">
+      <bounds
+          x="744"
+          y="132"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyInterface"
+          href="TechnologyInterface_c613e135.xml#c613e135"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3409dd0b-fd02-4996-9160-3a1271766247"
+        targetConnections="1bd55b2d-115f-482e-8f52-ae91bbc025a5">
+      <bounds
+          x="744"
+          y="276"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyInterface"
+          href="TechnologyInterface_d48cd27b.xml#d48cd27b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="044dd244-75e9-4a39-bc01-f43f08e0888d"
+        targetConnections="21138e7e-a895-44ee-a49b-4567dfaf0d61">
+      <bounds
+          x="744"
+          y="348"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyInterface"
+          href="TechnologyInterface_c1b5596f-bef0-487a-9e7e-2afc01cf9b7d.xml#c1b5596f-bef0-487a-9e7e-2afc01cf9b7d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="dd19cf22-7425-4957-9b0c-d561fc4726e5"
+        targetConnections="34ebe099-89af-40ae-add0-8c158777cd1a">
+      <bounds
+          x="744"
+          y="426"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyInterface"
+          href="TechnologyInterface_7ee114ac-8caf-4bd8-a65d-918a527f9e1c.xml#7ee114ac-8caf-4bd8-a65d-918a527f9e1c"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_41294122.xml#41294122"/>
@@ -521,7 +605,7 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;Application server&quot;. Implementerade delar som inte kan hanteras av annan integrationsteknik och behöver exekveras inom ramen för integration. ">
     <bounds
-        x="1620"
+        x="1740"
         y="684"
         width="185"
         height="120"/>
@@ -533,10 +617,10 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;Message broker&quot;. Dvs. meddelandeförmedling inkluderat rutiner för exempelvis transformation och filtrering.">
     <bounds
-        x="1620"
+        x="1740"
         y="432"
         width="185"
-        height="80"/>
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -545,7 +629,7 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;File mediation&quot;.  Dvs. en filbaserad frikopplad kommunikation mellan system.&#xA;">
     <bounds
-        x="1620"
+        x="1740"
         y="240"
         width="185"
         height="85"/>
@@ -697,7 +781,7 @@
     <bounds
         x="817"
         y="888"
-        width="744"
+        width="900"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -759,10 +843,10 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;RPI proxy&quot;. Dvs. en förmedling av direkta funktionsanrop innebär en mellanhand som skiljer den hårda kopplingen mellan pruducent och konsument.">
     <bounds
-        x="1617"
+        x="1740"
         y="552"
         width="185"
-        height="109"/>
+        height="121"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -774,5 +858,20 @@
         y="903"
         width="257"
         height="139"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7dfffa64-afe4-4c62-ab23-be08c779917f"
+      textAlignment="1"
+      content="Den här infrastrukturvyn behöver kompletteras med utpekade interface som REST, SOAP och AMQP.">
+    <sourceConnections
+        id="9de70265-6e4b-4bcf-909c-a31778a535ca"
+        source="7dfffa64-afe4-4c62-ab23-be08c779917f"
+        target="1ac18444"/>
+    <bounds
+        x="853"
+        y="79"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
