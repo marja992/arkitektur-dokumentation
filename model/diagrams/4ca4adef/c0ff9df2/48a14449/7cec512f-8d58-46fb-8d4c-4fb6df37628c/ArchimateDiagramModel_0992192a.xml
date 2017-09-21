@@ -29,7 +29,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="81fae6f9"
       targetConnections="01fb9a1d 2fc60717"
-      font="1|Lucida Grande|16.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|16.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#66ccff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7c7689fc"
@@ -180,13 +181,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1ac18444"
-      targetConnections="9de70265-6e4b-4bcf-909c-a31778a535ca"
-      font="1|Lucida Grande|16.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|16.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#008040">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2fc60717"
         source="1ac18444"
         target="81fae6f9">
+      <bendpoints
+          startX="-510"
+          startY="-36"
+          endX="252"
+          endY="-36"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_126c9332.xml#126c9332"/>
@@ -217,6 +223,11 @@
           id="c5a35dc7"
           source="6914044e"
           target="0f5a6f6c">
+        <bendpoints
+            startX="-437"
+            startY="-17"
+            endX="240"
+            endY="-12"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_7219f8f7.xml#7219f8f7"/>
@@ -370,6 +381,16 @@
           id="5f109723"
           source="b479dabc"
           target="0f5a6f6c">
+        <bendpoints
+            startX="-401"
+            startY="-29"
+            endX="276"
+            endY="132"/>
+        <bendpoints
+            startX="-437"
+            startY="-137"
+            endX="240"
+            endY="24"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_72967442.xml#72967442"/>
@@ -424,6 +445,21 @@
             id="f1069e0b"
             source="60a7ac55"
             target="7ea5cb3f">
+          <bendpoints
+              startX="-85"
+              startY="33"
+              endX="576"
+              endY="-75"/>
+          <bendpoints
+              startX="-456"
+              startY="34"
+              endX="204"
+              endY="-74"/>
+          <bendpoints
+              startX="-492"
+              startY="106"
+              endX="168"
+              endY="-2"/>
           <archimateRelationship
               xsi:type="archimate:RealizationRelationship"
               href="RealizationRelationship_148c61ea.xml#148c61ea"/>
@@ -465,6 +501,16 @@
           id="e4707463"
           source="85f852f4"
           target="a891df1c">
+        <bendpoints
+            startX="-402"
+            startY="-30"
+            endX="204"
+            endY="118"/>
+        <bendpoints
+            startX="-438"
+            startY="-126"
+            endX="168"
+            endY="22"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_43480671.xml#43480671"/>
@@ -861,16 +907,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="7dfffa64-afe4-4c62-ab23-be08c779917f"
+      id="644292e4-a81b-4bf3-a12f-ed37afe248d6"
       textAlignment="1"
-      content="Den här infrastrukturvyn behöver kompletteras med utpekade interface som REST, SOAP och AMQP.">
-    <sourceConnections
-        id="9de70265-6e4b-4bcf-909c-a31778a535ca"
-        source="7dfffa64-afe4-4c62-ab23-be08c779917f"
-        target="1ac18444"/>
+      content="I meddelandeförmedling borde vi nog även få in N4.">
     <bounds
-        x="853"
-        y="79"
+        x="912"
+        y="53"
         width="185"
         height="80"/>
   </children>
