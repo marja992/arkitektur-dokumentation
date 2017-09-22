@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="förvaltar"
     id="e5092a8f-4db6-42b5-b764-0820f6fae48c">
   <source
       xsi:type="archimate:ApplicationComponent"
