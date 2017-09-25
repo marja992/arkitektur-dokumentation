@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-avdelningens beslutsprocess"
     id="cb22c931-43d6-40a2-920c-ba8ba9f992eb"
+    documentation="Enda beslutsfattande instans vid IT-avdelningen är IT-avdelningens ledningsgrupp. Förutbestämda beslutsområden är:&#xA; - e-förvaltningsplaner&#xA; - projektplaner&#xA; - arkitekturstyrmodell&#xA;&#xA;Vidare finns andra oförutsedda frågor som behöver beslut vilka också via IT-avdelningens beslutsprocess kan beslutas."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -53,7 +54,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8ffdf3d1-7568-4885-ad3e-2c015b56909c"
-      targetConnections="a39d0512-5af8-4f56-a225-39a91a2a6b10 b203b341-83ec-4a71-9d4d-0c941b272198">
+      targetConnections="a39d0512-5af8-4f56-a225-39a91a2a6b10 b203b341-83ec-4a71-9d4d-0c941b272198"
+      textPosition="1">
     <bounds
         x="1224"
         y="783"
@@ -233,7 +235,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c9916f5b-2781-4371-bfdd-377d77b36952"
-      targetConnections="e1b34b19-49ec-4d0d-ba9b-1c665b8c2846">
+      targetConnections="e1b34b19-49ec-4d0d-ba9b-1c665b8c2846"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="697a617a-a342-4dd2-b3a9-1ccb4137f733"
@@ -375,7 +378,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="81687cf4-520e-4b51-85ad-5385c3dc872e"
-      targetConnections="e14b2dc3-fa7e-478e-a32d-eb0e430fd1bd">
+      targetConnections="e14b2dc3-fa7e-478e-a32d-eb0e430fd1bd"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="a39d0512-5af8-4f56-a225-39a91a2a6b10"
@@ -410,7 +414,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="108e3fcc-0ccb-4d6b-bbf1-dad0f599564e"
-      targetConnections="b4890567-6038-4251-a1e9-25bb39343e22 697a617a-a342-4dd2-b3a9-1ccb4137f733 8e7caf91-0e07-4247-9ebe-16f833ded1cd 0299cd69-69a1-402d-8191-de5b73a772ad 972f655b-5e67-4407-bbca-21158b0108f1">
+      targetConnections="b4890567-6038-4251-a1e9-25bb39343e22 697a617a-a342-4dd2-b3a9-1ccb4137f733 8e7caf91-0e07-4247-9ebe-16f833ded1cd 0299cd69-69a1-402d-8191-de5b73a772ad 972f655b-5e67-4407-bbca-21158b0108f1"
+      textPosition="1">
     <bounds
         x="696"
         y="612"
@@ -450,7 +455,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="2c5c23a0-47c1-47a7-a26a-5ef64b6f911a">
+      id="2c5c23a0-47c1-47a7-a26a-5ef64b6f911a"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="972f655b-5e67-4407-bbca-21158b0108f1"

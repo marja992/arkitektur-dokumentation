@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forsknings-ansökan-godkännande"
-    id="c4376278"/>
+    name="Forskningsansökan-godkännande"
+    id="c4376278"
+    documentation="En tjänst där KUF kan ta del av doktorandens material för respektive forskningssteg i syfte att bifalla eller avslå individuell studieplan, halvtidsgodkännande och disputationsansökan."/>

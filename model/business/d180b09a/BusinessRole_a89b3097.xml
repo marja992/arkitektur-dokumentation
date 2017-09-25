@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prefekt"
-    id="a89b3097"/>
+    id="a89b3097"
+    documentation="En prefekt är chef för en institution. "/>

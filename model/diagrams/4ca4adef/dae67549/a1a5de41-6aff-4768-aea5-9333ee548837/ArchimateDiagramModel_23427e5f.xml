@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System för organisation, användare och behörigheter"
     id="23427e5f"
+    documentation="Det här är en mycket initial modell för att prova att mappa universitets arkitektur mot stadsplanen. "
     viewpoint="12">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

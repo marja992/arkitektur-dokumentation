@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Handledare"
-    id="9483f432"/>
+    id="9483f432"
+    documentation="En handledare vägleder en doktorand i sitt forskningsarbete. "/>
