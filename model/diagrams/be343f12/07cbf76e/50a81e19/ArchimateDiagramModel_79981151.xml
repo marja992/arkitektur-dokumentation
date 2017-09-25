@@ -73,24 +73,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="298e985b">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2bd4d92b"
-          source="298e985b"
-          target="6ce21704">
-        <bendpoints
-            startX="-122"
-            endX="-108"
-            endY="220"/>
-        <bendpoints
-            startX="-122"
-            startY="-216"
-            endX="-108"
-            endY="4"/>
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_5a31140c.xml#5a31140c"/>
-      </sourceConnections>
       <bounds
           x="36"
           y="48"
@@ -103,25 +85,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="55550af8">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="bbd15280"
-          source="55550af8"
-          target="954781c8">
-        <bendpoints
-            startX="118"
-            startY="-1"
-            endX="112"
-            endY="207"/>
-        <bendpoints
-            startX="118"
-            startY="-212"
-            endX="112"
-            endY="-4"/>
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_3240c1d8.xml#3240c1d8"/>
-      </sourceConnections>
       <bounds
           x="204"
           y="48"
@@ -137,52 +100,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6ce21704"
-      targetConnections="2bd4d92b e6725ff2 3099f5dc">
-    <bounds
-        x="56"
-        y="24"
-        width="155"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_dacd2324.xml#dacd2324"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="954781c8"
-      targetConnections="bbd15280 babafc6a 41b2333d">
-    <bounds
-        x="243"
-        y="24"
-        width="155"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_78ee41fd.xml#78ee41fd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="f672e198"
       targetConnections="e2bda8af">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="e6725ff2"
-        source="f672e198"
-        target="6ce21704">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_f88b1386.xml#f88b1386"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="babafc6a"
-        source="f672e198"
-        target="954781c8">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_f26407ff.xml#f26407ff"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="867c2737"
@@ -205,24 +124,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f93990bf"
       targetConnections="bdfa00dc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3099f5dc"
-        source="f93990bf"
-        target="6ce21704">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_eff90ad4.xml#eff90ad4"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="41b2333d"
-        source="f93990bf"
-        target="954781c8">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_a450b471.xml#a450b471"/>
-    </sourceConnections>
     <bounds
         x="53"
         y="108"

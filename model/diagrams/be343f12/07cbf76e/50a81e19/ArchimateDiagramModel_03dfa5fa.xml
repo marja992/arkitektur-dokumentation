@@ -7,15 +7,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ff3389b6">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="cb20ef77"
-        source="ff3389b6"
-        target="5ab4e550">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_fb73be4b.xml#fb73be4b"/>
-    </sourceConnections>
     <bounds
         x="269"
         y="348"
@@ -28,15 +19,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bf08d314">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="582f7b4d"
-        source="bf08d314"
-        target="5ab4e550">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_9ed9e193.xml#9ed9e193"/>
-    </sourceConnections>
     <bounds
         x="72"
         y="348"
@@ -48,94 +30,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5ab4e550"
-      targetConnections="582f7b4d cb20ef77">
-    <bounds
-        x="24"
-        y="120"
-        width="637"
-        height="109"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="d2b75a51">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="f6ae1eef"
-          source="d2b75a51"
-          target="3b9a2c8c">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_d14afb53.xml#d14afb53"/>
-      </sourceConnections>
-      <bounds
-          x="36"
-          y="36"
-          width="169"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_7fbd66d5.xml#7fbd66d5"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="3b9a2c8c"
-        targetConnections="f6ae1eef">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="363de72b"
-          source="3b9a2c8c"
-          target="cdd67a96">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_edbaa6d3.xml#edbaa6d3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="24658ee4"
-          source="3b9a2c8c"
-          target="9987ee5b">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_93c11956.xml#93c11956"/>
-      </sourceConnections>
-      <bounds
-          x="240"
-          y="36"
-          width="169"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_76af18dc.xml#76af18dc"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="231cb9fe">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2848048c"
-          source="231cb9fe"
-          target="9987ee5b">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_4c6ecd2d.xml#4c6ecd2d"/>
-      </sourceConnections>
-      <bounds
-          x="432"
-          y="36"
-          width="169"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_e3ca785a.xml#e3ca785a"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_8e46f944.xml#8e46f944"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="9987ee5b"
-      targetConnections="24658ee4 2848048c 2197aff9">
+      targetConnections="2197aff9">
     <bounds
         x="480"
         y="264"
@@ -144,19 +40,6 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_fba2385b.xml#fba2385b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="cdd67a96"
-      targetConnections="363de72b">
-    <bounds
-        x="276"
-        y="36"
-        width="145"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_6d25a100.xml#6d25a100"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
