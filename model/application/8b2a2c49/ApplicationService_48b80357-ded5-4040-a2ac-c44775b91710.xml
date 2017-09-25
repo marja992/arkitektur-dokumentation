@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Koppla säkerhetsfaktor till IT-konto"
-    id="48b80357-ded5-4040-a2ac-c44775b91710"
-    documentation="Med säkerhetsfaktor avses motsvarande det engelska begreppet &quot;credentials&quot; dvs. en identifierare tillsammans med säkerställande faktor till identifieraren. Det här avser att vara ett samlingsbegrepp för såväl användarid/lösenord som andra typer av flerfaktorsidentifiering."/>

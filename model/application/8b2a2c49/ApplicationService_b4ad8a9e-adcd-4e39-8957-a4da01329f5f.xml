@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behörighets-tilldelning"
-    id="b4ad8a9e-adcd-4e39-8957-a4da01329f5f"
-    documentation="IT-tjänst har enligt implementationen i nya Ladok en tjänst (API) för att kunna lägga till behörigheter i sin egen behörighetsimplementation."/>
