@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration Base Structure"
-    id="8af24405">
+    id="8af24405"
+    documentation="Systemintegration handlar om att koppla system samman. Genom att koppla ihop systemen skapas beroenden mellan dem. Baserat på hur systemen är ihopkopplade får man hårda eller lösa beroenden där den hårda kopplingen ger ett fysiskt beroende och den lösa kopplingen baseras på förmedling enligt mönstret mediator(1).&#xA;&#xA;1. Gang of Four: Design Patterns, ISBN 0-201-63361-2"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="e6056a82"
@@ -524,7 +526,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="13d51965"
       textAlignment="1"
-      content="Mönster-implementationer för frikoppling av kommunikation mellan system.">
+      content="Mönster för frikoppliad kommunikation mellan system.">
     <sourceConnections
         id="f1c9dcca"
         source="13d51965"
@@ -579,7 +581,7 @@
       id="21b85aae"
       targetConnections="3190e53a"
       textAlignment="1"
-      content="En hård koppling mellan två olika system.">
+      content="En fysisk (hård) koppling mellan två olika system.">
     <bounds
         x="1796"
         y="225"

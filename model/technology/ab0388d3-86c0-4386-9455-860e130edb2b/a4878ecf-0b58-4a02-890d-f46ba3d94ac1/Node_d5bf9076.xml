@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Shared Database Mediator"
-    id="d5bf9076"/>
+    id="d5bf9076"
+    documentation="Kan vara en .NET- eller Java-batch som läser i en databas och skriver i en annan. Det måste för att vara en fristående förmedling exekveras från en tredje nod."/>

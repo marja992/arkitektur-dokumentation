@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RPI Proxy"
-    id="e296d499"/>
+    id="e296d499"
+    documentation="Förmedling av direkta funktionsanrop innebär en mellanhand som skiljer den hårda kopplingen mellan pruducent och konsument."/>

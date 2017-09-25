@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avgörande"
-    id="3d89f8f7-587c-4334-9344-d13ded418f2e"/>
+    id="3d89f8f7-587c-4334-9344-d13ded418f2e"
+    documentation="Ett avgörande relaterar alltid till ett beslut och indirekt också till ett förslag. Beslut och avgörande behöver inte gå i enlighet med förlag till beslut."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="e-förvaltningsarbete"
-    id="6d562788-9a72-4a79-9951-7d6bd9831fb0"/>
+    id="6d562788-9a72-4a79-9951-7d6bd9831fb0"
+    documentation="Uppsala universitets e-förvaltningsmodell, en metod och ett arbetssätt för hur IT-stödet ska förvaltas.&#xA;&#xA;En samverkans- och prioriteringsmodell för förvaltning och vidareutveckling av Universitetets IT-baserade verksamhetsstöd. Modellen syftar till att på ett kostnadseffektivt och målstyrt sätt arbeta med IT-stödet så att det ger nytta i verksamheterna. Den bygger på en strukturerad samverkan mellan verksamhetssidan och IT som tillsammans prioriterar så att rätt saker utförs."/>

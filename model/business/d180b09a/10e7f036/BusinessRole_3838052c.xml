@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arkitekt"
-    id="3838052c"/>
+    id="3838052c"
+    documentation="Arkitekt utsedd att leda arbetet inom ett givet arkitektursegment. "/>

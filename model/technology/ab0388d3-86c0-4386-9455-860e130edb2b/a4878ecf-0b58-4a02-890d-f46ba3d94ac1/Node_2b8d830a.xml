@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrator"
-    id="2b8d830a"/>
+    id="2b8d830a"
+    documentation="För att kategorisera integrationer och relatera till integrationsmönster har en förklaringsmodell tagits fram och som utgår från en implementerad integrationspunkt beskriven som Integrator."/>

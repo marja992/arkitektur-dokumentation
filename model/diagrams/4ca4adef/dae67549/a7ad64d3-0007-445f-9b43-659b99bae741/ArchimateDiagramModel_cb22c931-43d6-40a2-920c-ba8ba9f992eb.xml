@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-avdelningens beslutsprocess"
-    id="cb22c931-43d6-40a2-920c-ba8ba9f992eb">
+    id="cb22c931-43d6-40a2-920c-ba8ba9f992eb"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4a221944-9f0f-4e19-b2cc-7cf577ab2c2f"

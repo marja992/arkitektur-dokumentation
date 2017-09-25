@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integrationsarkitektur för TimeEdit"
+    name="Lokaltillträde, Informationsförsörjning"
     id="d17b6355">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

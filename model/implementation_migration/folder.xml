@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementation &amp; Migration"
     id="0a4d8ae3"
+    documentation="Beskriver hur arkitekturer kan implemeteras och migreras. "
     type="implementation_migration"/>
