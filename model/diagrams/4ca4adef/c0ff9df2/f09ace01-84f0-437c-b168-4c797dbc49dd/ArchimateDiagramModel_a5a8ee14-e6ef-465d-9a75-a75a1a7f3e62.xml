@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arkitekturarbete, Organisation, Förhållandet till e-förvaltning"
-    id="a5a8ee14-e6ef-465d-9a75-a75a1a7f3e62">
+    id="a5a8ee14-e6ef-465d-9a75-a75a1a7f3e62"
+    viewpoint="implementation_migration">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="354740ea-f541-44b0-be52-ad22c00130a1"
@@ -219,7 +220,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="99082d17-18b8-41a7-a714-a27b6aefb14a"
-      targetConnections="a36c5ffe-55e4-49c5-b0f5-cf114d0bdf62 01c8d8b5-4b52-4cb6-b70e-e8770f2b70e3 a5870e2e-a798-4dc5-ab7d-887df78ee300"
+      targetConnections="01c8d8b5-4b52-4cb6-b70e-e8770f2b70e3 a5870e2e-a798-4dc5-ab7d-887df78ee300 a36c5ffe-55e4-49c5-b0f5-cf114d0bdf62"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
