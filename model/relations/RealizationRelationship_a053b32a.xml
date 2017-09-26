@@ -3,8 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a053b32a">
   <source
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_ae16d067.xml#ae16d067"/>
+      xsi:type="archimate:Node"
+      href="Node_c29398fb.xml#c29398fb"/>
   <target
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_6b434b05.xml#6b434b05"/>

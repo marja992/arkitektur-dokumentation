@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrationsarkitektur för Schemaläggning implementerat med TimeEdit"
     id="38fb109c-c4da-410e-9128-ac3f158faef8"
-    viewpoint="technology_usage">
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ca715061-854f-431f-81d1-cc410ef337f6"
