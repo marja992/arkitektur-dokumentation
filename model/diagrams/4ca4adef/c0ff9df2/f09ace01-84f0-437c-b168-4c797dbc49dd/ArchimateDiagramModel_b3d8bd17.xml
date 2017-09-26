@@ -1,8 +1,10 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arkitekturarbete"
-    id="b3d8bd17">
+    name="Arkitekturstyrning, Metodbeskrivning"
+    id="b3d8bd17"
+    documentation="Organisationens arkitekturmetamodell baseras på metodbeskrivning samt hur arkitekturlandskapet innehållsmässigt ska delas upp och beskrivas. Det här är den arbetsmetod som arkitekturarbetet ska bedrivas med."
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="263f6479">
@@ -376,7 +378,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="b4e6da8f"
       textAlignment="1"
-      content="Organisationens arkitektur-&#xA;metamodell som genom den här modellen beskriver metod och som även innefattar en beskrivning av hur arkitekturlandskapet innehållsmässigt ska beskrivas.">
+      content="Organisationens arkitektur-metamodell som genom den här modellen beskriver metod och som även innefattar en beskrivning av hur arkitekturlandskapet innehållsmässigt ska beskrivas.">
     <sourceConnections
         id="b9c7cd95"
         source="b4e6da8f"

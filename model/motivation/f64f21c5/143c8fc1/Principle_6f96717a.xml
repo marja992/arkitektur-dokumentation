@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Responsiv IT-miljö"
-    id="6f96717a"/>
+    id="6f96717a"
+    documentation="Komponenterna i IT-miljön kan inte agera som enskilda komponenter utan som delar i en helhet. Händer någonting i ett IT-system måste andra IT-system kunna reagera på händelser. "/>

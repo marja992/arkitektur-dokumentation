@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Universitets-direktör"
-    id="f3e86d57"/>
+    id="f3e86d57"
+    documentation="Chef vid Universitetsförvaltningen."/>

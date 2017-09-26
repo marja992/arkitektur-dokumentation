@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arkitektur-landskap"
-    id="3b0d44e8"/>
+    id="3b0d44e8"
+    documentation="Landskapet beskrivs i ett enhetligt format för att relationen mellan segmenten ska vara tydliga. Den totala vyn delas in i befintliga, tänkta eller historiska beskrivningar."/>

@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SWAMID"
-    id="f79c800d"/>
+    id="f79c800d"
+    documentation="SWAMID är en identitetsfederation som omfattar de flesta lärosäten, forskningsinstitut och andra myndigheter som är relaterade till svensk forsknings- och utbildningssektor. SWAMID drivs av SUNET."/>

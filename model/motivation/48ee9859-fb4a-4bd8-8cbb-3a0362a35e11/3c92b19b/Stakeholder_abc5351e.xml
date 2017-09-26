@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Säkerhetschef"
-    id="abc5351e"/>
+    id="abc5351e"
+    documentation="Chef vid Universitetsförvaltningens Säkerhetsavdelning."/>

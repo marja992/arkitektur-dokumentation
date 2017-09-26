@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Målgrupps-anpassad dokumentation"
-    id="f4329d8f"/>
+    id="f4329d8f"
+    documentation="Abstraktioner genom vedertagna notationer är inte lämpliga i alla sammanhang. Därför måste varje arkitekurområde i olika situationer överväga hur arkitekturområdet på bästa sätt presenteras."/>
