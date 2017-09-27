@@ -475,15 +475,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ce584d78"
       targetConnections="4070b023">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6ccf94d0"
-        source="ce584d78"
-        target="6c04b4ca">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_bc22bf59.xml#bc22bf59"/>
-    </sourceConnections>
     <bounds
         x="1267"
         y="833"
@@ -545,19 +536,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_56131a38.xml#56131a38"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6c04b4ca"
-      targetConnections="6ccf94d0">
-    <bounds
-        x="1267"
-        y="734"
-        width="170"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

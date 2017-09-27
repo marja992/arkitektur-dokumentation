@@ -664,9 +664,9 @@
               href="AccessRelationship_223fae84-6c0c-44c9-98fb-5a08003f926c.xml#223fae84-6c0c-44c9-98fb-5a08003f926c"/>
         </sourceConnections>
         <bounds
-            x="120"
+            x="96"
             y="144"
-            width="132"
+            width="180"
             height="55"/>
         <archimateElement
             xsi:type="archimate:TechnologyFunction"
@@ -2104,10 +2104,10 @@
           endX="163"
           endY="190"/>
       <bendpoints
-          startX="-84"
-          startY="-432"
-          endX="91"
-          endY="-2"/>
+          startX="-60"
+          startY="-420"
+          endX="115"
+          endY="-4"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_fa77facd-3b21-4c3f-b8d7-6b746d8d39ec.xml#fa77facd-3b21-4c3f-b8d7-6b746d8d39ec"/>

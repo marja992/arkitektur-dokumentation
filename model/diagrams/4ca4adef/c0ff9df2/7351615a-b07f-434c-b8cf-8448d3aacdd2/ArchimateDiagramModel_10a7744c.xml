@@ -107,6 +107,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="53589f6a"
         targetConnections="b550cbf6 89b029eb"
+        textPosition="1"
         type="1">
       <bounds
           x="324"
@@ -121,6 +122,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ff8694f0"
         targetConnections="bd5b12b7"
+        textPosition="1"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

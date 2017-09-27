@@ -146,29 +146,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="fd811964">
-    <bounds
-        x="34"
-        y="22"
-        width="187"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="53801cc1"
       targetConnections="4788c07b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="347c1c05"
-        source="53801cc1"
-        target="af3a097d">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_fcceb7dd.xml#fcceb7dd"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2279b838"
@@ -243,19 +222,6 @@
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_3c396678.xml#3c396678"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="af3a097d"
-      targetConnections="347c1c05">
-    <bounds
-        x="662"
-        y="22"
-        width="187"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -16,15 +16,6 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_1fa56a8b.xml#1fa56a8b"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b6e6c425-c88c-47dd-b108-24c1450be346"
-        source="09deae71"
-        target="3b51a2ec">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_071ae130-a578-48f7-8048-ef33a28016a2.xml#071ae130-a578-48f7-8048-ef33a28016a2"/>
-    </sourceConnections>
     <bounds
         x="715"
         y="135"
@@ -54,15 +45,6 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_6fbbead9.xml#6fbbead9"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5fc30914-cbb3-411d-879d-6ea09052dd81"
-        source="f08b8d67"
-        target="0720a532">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_478823e1-48dd-47d7-9b88-2d3b0c47b1da.xml#478823e1-48dd-47d7-9b88-2d3b0c47b1da"/>
     </sourceConnections>
     <bounds
         x="37"
@@ -199,19 +181,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="0720a532"
-      targetConnections="5fc30914-cbb3-411d-879d-6ea09052dd81">
-    <bounds
-        x="37"
-        y="33"
-        width="120"
-        height="63"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="a38a16cd"
       targetConnections="6eb4d3bc">
     <sourceConnections
@@ -271,19 +240,6 @@
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_d5618723.xml#d5618723"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="3b51a2ec"
-      targetConnections="b6e6c425-c88c-47dd-b108-24c1450be346">
-    <bounds
-        x="715"
-        y="33"
-        width="120"
-        height="63"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

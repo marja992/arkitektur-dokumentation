@@ -315,15 +315,6 @@
       targetConnections="5ec49e26">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="997b0479"
-        source="4ba4f311"
-        target="0a4d347c">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_bc22bf59.xml#bc22bf59"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="adde0605-2f68-4f1d-be8b-375f345529b4"
         source="4ba4f311"
         target="3898eff5">
@@ -393,44 +384,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_56131a38.xml#56131a38"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="9406882b">
-    <bounds
-        x="13"
-        y="129"
-        width="160"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5fb90408"
-      targetConnections="03772563">
-    <bounds
-        x="1270"
-        y="129"
-        width="171"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0a4d347c"
-      targetConnections="997b0479">
-    <bounds
-        x="1271"
-        y="634"
-        width="170"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_4fd101de.xml#4fd101de"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -780,24 +733,6 @@
       id="060a0bf6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="03772563"
-        source="060a0bf6"
-        target="5fb90408">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_473cbc34.xml#473cbc34"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4937b777"
-        source="060a0bf6"
-        target="4d5ffb53">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_3ebc0606.xml#3ebc0606"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="6a72fc76"
         source="060a0bf6"
         target="73e4d15e">
@@ -830,8 +765,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5719f021"
-      targetConnections="49365383">
+      id="5719f021">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c8bb9654"
@@ -962,39 +896,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4d5ffb53"
-      targetConnections="4937b777 6a335796">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="49365383"
-        source="4d5ffb53"
-        target="5719f021">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_073b550c.xml#073b550c"/>
-    </sourceConnections>
-    <bounds
-        x="1109"
-        y="371"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_103f2043.xml#103f2043"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="73e4d15e"
       targetConnections="6a72fc76">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6a335796"
-        source="73e4d15e"
-        target="4d5ffb53">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_92c5e664.xml#92c5e664"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4df91775"
