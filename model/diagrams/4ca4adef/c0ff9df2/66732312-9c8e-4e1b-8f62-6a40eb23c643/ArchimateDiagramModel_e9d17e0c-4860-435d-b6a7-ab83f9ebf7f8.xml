@@ -55,9 +55,9 @@
         targetConnections="7b981a8d-a366-40b1-b6f1-d0cc9185ae95 1f0c4307-9b74-48d7-b88f-6c2a05682576 dd1da945-188e-4636-af62-bdeb9d1fb997 d93e3473-f9f3-4f8b-b9cc-4c6ade0b8c13"
         textPosition="1">
       <bounds
-          x="312"
+          x="276"
           y="48"
-          width="120"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
