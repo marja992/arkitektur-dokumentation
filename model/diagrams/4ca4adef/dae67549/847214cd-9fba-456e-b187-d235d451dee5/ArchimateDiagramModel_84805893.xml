@@ -163,12 +163,17 @@
           id="267af8fa"
           source="34c0e200"
           target="267a3ed4">
+        <bendpoints
+            startX="-16"
+            startY="-118"
+            endX="4"
+            endY="98"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_d2d0e2ff.xml#d2d0e2ff"/>
       </sourceConnections>
       <bounds
-          x="600"
+          x="624"
           y="84"
           width="139"
           height="97"/>

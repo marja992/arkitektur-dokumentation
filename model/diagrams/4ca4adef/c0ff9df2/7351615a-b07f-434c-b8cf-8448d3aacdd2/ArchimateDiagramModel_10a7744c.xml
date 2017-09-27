@@ -9,13 +9,48 @@
       font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
       fillColor="#ffcc66"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d10d01f7-cbcf-44b4-95ca-7cf012756425"
+        source="7fa23781"
+        target="ab10adf4">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_99d6c2e6-3ffb-4972-831d-4fcd05a69be0.xml#99d6c2e6-3ffb-4972-831d-4fcd05a69be0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c1604a93-ca21-4452-ba84-f4c876c94faa"
+        source="7fa23781"
+        target="b528642e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_feb75ca4-91da-4c6f-8a26-aff16a54dd0f.xml#feb75ca4-91da-4c6f-8a26-aff16a54dd0f"/>
+    </sourceConnections>
     <bounds
         x="48"
         width="757"
         height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
+        id="ab10adf4"
+        targetConnections="d44b32a4 d10d01f7-cbcf-44b4-95ca-7cf012756425"
+        textPosition="1"
+        type="1">
+      <bounds
+          x="324"
+          y="120"
+          width="208"
+          height="108"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_d9eb1265.xml#d9eb1265"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
         id="b528642e"
+        targetConnections="c1604a93-ca21-4452-ba84-f4c876c94faa"
+        textPosition="1"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -34,20 +69,6 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_5ca07b68.xml#5ca07b68"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="ab10adf4"
-        targetConnections="d44b32a4"
-        type="1">
-      <bounds
-          x="324"
-          y="120"
-          width="208"
-          height="108"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_d9eb1265.xml#d9eb1265"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

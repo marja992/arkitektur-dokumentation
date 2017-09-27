@@ -275,7 +275,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="41936d93"
       textAlignment="1"
-      content="Arkitektursegment:&#xA;&#xA;- Arkitektur för Identitets- och behörighetshantering&#xA;- Integrationsarkitektur&#xA;- Arkitektur för stöd till leverans av IT-tjänster&#xA;- Arkitektur för webbaserade huvudingångar&#xA;- Infrastrukturarkitektur&#xA;- Arkitektur för digitalisering av adminstrativa rutiner&#xA;- Arkitektur för utbildningsstöd&#xA;- Arkitektur för administrativt forskningsstöd&#xA;- System- och lösningsarkitektur">
+      content="Arkitektursegment:&#xA;&#xA;- Identitets- och behörighetsarkitektur (K&amp;I)&#xA;- Integrationsarkitektur (K&amp;I)&#xA;- Arkitektur för stöd av IT-leverans &#xA;- Webbarkitektur (GWF+ Lärande och utbildning)&#xA;- Infrastrukturarkitektur (Teknisk Plattform)&#xA;- Arkitektur för digitalisering (Ärende och dokumenthantering, IT-arbetsplats)&#xA;- System- och lösningsarkitektur (e-områdesövergripande)&#xA;">
     <sourceConnections
         id="72e757a3"
         source="41936d93"
@@ -397,9 +397,9 @@
       content="Landskapet beskrivs i ett enhetligt format för att relationen mellan segmenten ska vara tydliga. Den totala vyn delas in i befintliga, tänkta eller historiska beskrivningar.">
     <bounds
         x="852"
-        y="204"
+        y="192"
         width="205"
-        height="98"/>
+        height="110"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

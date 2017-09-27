@@ -331,7 +331,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a06dd781-a058-4fa0-aa12-f35f8f4b56cb"
-        targetConnections="b45fb6af-bd47-4f96-b6a0-a597f4c9488f"
+        targetConnections="b45fb6af-bd47-4f96-b6a0-a597f4c9488f b364558e-9118-4b4b-babc-f31c3114b0f5"
         textPosition="1"
         type="1">
       <bounds
@@ -486,6 +486,15 @@
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_feb53583-fd55-4641-803b-68631260e457.xml#feb53583-fd55-4641-803b-68631260e457"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="b364558e-9118-4b4b-babc-f31c3114b0f5"
+          source="37b576a8-dba7-429b-8dd1-71c58097177d"
+          target="a06dd781-a058-4fa0-aa12-f35f8f4b56cb">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_99b969a0-7f09-4fce-bbe8-515a430d77e6.xml#99b969a0-7f09-4fce-bbe8-515a430d77e6"/>
       </sourceConnections>
       <bounds
           x="60"
