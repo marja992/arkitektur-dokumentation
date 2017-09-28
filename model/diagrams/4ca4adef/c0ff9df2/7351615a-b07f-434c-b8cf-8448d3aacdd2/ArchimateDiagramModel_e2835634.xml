@@ -280,15 +280,6 @@
       fillColor="#0080ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="865c6f59"
-        source="a17ad14f"
-        target="0ea5f0a4">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_e764f938.xml#e764f938"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="92b647de"
         source="a17ad14f"
         target="2e5c6518">
@@ -339,7 +330,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0ea5f0a4"
-        targetConnections="865c6f59 1badc0bd"
+        targetConnections="1badc0bd"
         textPosition="1"
         type="1">
       <sourceConnections

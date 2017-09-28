@@ -281,15 +281,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_b2f69f76.xml#b2f69f76"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1ad1c518"
-        source="59b205fb"
-        target="8b6ed9ae">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_e764f938.xml#e764f938"/>
-    </sourceConnections>
     <bounds
         x="862"
         y="171"
@@ -407,7 +398,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8b6ed9ae"
-        targetConnections="1ad1c518 77d2f8d1">
+        targetConnections="77d2f8d1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d39e5d03"

@@ -196,15 +196,6 @@
       id="3f2b05de"
       font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
       fillColor="#66ccff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="cab9a5b8"
-        source="3f2b05de"
-        target="85cdeebb">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_e764f938.xml#e764f938"/>
-    </sourceConnections>
     <bounds
         x="612"
         y="432"
@@ -213,7 +204,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="85cdeebb"
-        targetConnections="cab9a5b8 216e1990"
+        targetConnections="216e1990"
         textPosition="1"
         type="1">
       <sourceConnections
