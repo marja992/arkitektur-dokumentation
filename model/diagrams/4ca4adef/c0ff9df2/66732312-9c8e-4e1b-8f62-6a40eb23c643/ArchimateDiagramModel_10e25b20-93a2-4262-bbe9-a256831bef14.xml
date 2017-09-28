@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d8e63b11-0e22-4fc4-80bc-c829a2497f14"
-      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#66ccff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5526f8cb-08cd-44ba-9d17-96b79c15f486"
@@ -310,7 +311,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f119a09a-359c-4356-8361-23deade3564f"
-      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#66ccff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="ad6f574e-c8a0-4f1f-9f1d-f1cb38cc579f"

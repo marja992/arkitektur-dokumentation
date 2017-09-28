@@ -45,9 +45,9 @@
         id="1efe2d4c-4c94-4f87-af15-03f63542b1ca"
         targetConnections="4565ea9a-3ce6-452b-8bc2-9b59b4820b07 aaa97d16-c5d7-47cc-b30c-d340014bd427 d2771614-16e2-491f-8914-3d216b5b4191">
       <bounds
-          x="72"
+          x="48"
           y="96"
-          width="120"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
@@ -102,7 +102,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="24cadef2-1311-4d80-a3de-e436bb4c3adc"
       font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
-      fillColor="#66ff66">
+      fillColor="#008040">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2d22bbf4-55fb-4a08-9b1b-75ed5daf6ce6"
