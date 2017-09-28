@@ -6,6 +6,6 @@
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_cfbba4f8.xml#cfbba4f8"/>
   <target
-      xsi:type="archimate:TechnologyService"
-      href="TechnologyService_a2d116ea-0b84-4de4-a320-1628b84c8fc1.xml#a2d116ea-0b84-4de4-a320-1628b84c8fc1"/>
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_ef7f468e-1501-4ede-b7b4-56550a143dee.xml#ef7f468e-1501-4ede-b7b4-56550a143dee"/>
 </archimate:ServingRelationship>

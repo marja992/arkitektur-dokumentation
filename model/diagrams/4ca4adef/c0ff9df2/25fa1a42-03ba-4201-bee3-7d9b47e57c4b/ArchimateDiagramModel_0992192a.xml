@@ -255,60 +255,8 @@
     <bounds
         x="816"
         y="192"
-        width="901"
+        width="745"
         height="625"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="844fd771"
-        targetConnections="597b17e7-fa55-4550-933c-2b1c804e7d42">
-      <bounds
-          x="744"
-          y="132"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyInterface"
-          href="TechnologyInterface_c613e135.xml#c613e135"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="3409dd0b-fd02-4996-9160-3a1271766247"
-        targetConnections="1bd55b2d-115f-482e-8f52-ae91bbc025a5">
-      <bounds
-          x="744"
-          y="276"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyInterface"
-          href="TechnologyInterface_d48cd27b.xml#d48cd27b"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="044dd244-75e9-4a39-bc01-f43f08e0888d"
-        targetConnections="21138e7e-a895-44ee-a49b-4567dfaf0d61">
-      <bounds
-          x="744"
-          y="348"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyInterface"
-          href="TechnologyInterface_c1b5596f-bef0-487a-9e7e-2afc01cf9b7d.xml#c1b5596f-bef0-487a-9e7e-2afc01cf9b7d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="dd19cf22-7425-4957-9b0c-d561fc4726e5"
-        targetConnections="34ebe099-89af-40ae-add0-8c158777cd1a">
-      <bounds
-          x="744"
-          y="426"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyInterface"
-          href="TechnologyInterface_7ee114ac-8caf-4bd8-a65d-918a527f9e1c.xml#7ee114ac-8caf-4bd8-a65d-918a527f9e1c"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="85f852f4"
@@ -391,7 +339,7 @@
           id="6f294ef1-3c89-4b5b-a656-7ba6338fdeaa"
           targetConnections="d62f631b-6b48-44fb-a1ba-82c674ce621a">
         <bounds
-            x="336"
+            x="276"
             y="36"
             width="120"
             height="55"/>
@@ -404,7 +352,7 @@
           id="73fae617"
           targetConnections="c36d95fe-f29e-45b7-90ac-a2bccd7b031e">
         <bounds
-            x="180"
+            x="144"
             y="36"
             width="120"
             height="55"/>
@@ -417,13 +365,39 @@
           id="71b66c7c"
           targetConnections="28401c24-8944-4b54-9374-ab222db09375">
         <bounds
-            x="24"
+            x="12"
             y="36"
             width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_b432c03e.xml#b432c03e"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="044dd244-75e9-4a39-bc01-f43f08e0888d"
+          targetConnections="21138e7e-a895-44ee-a49b-4567dfaf0d61">
+        <bounds
+            x="408"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:TechnologyInterface"
+            href="TechnologyInterface_c1b5596f-bef0-487a-9e7e-2afc01cf9b7d.xml#c1b5596f-bef0-487a-9e7e-2afc01cf9b7d"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="dd19cf22-7425-4957-9b0c-d561fc4726e5"
+          targetConnections="34ebe099-89af-40ae-add0-8c158777cd1a">
+        <bounds
+            x="540"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:TechnologyInterface"
+            href="TechnologyInterface_7ee114ac-8caf-4bd8-a65d-918a527f9e1c.xml#7ee114ac-8caf-4bd8-a65d-918a527f9e1c"/>
       </children>
       <archimateElement
           xsi:type="archimate:Node"
@@ -510,25 +484,19 @@
             href="SystemSoftware_360f2776.xml#360f2776"/>
       </children>
       <children
-          xsi:type="archimate:DiagramModelNote"
-          id="08e9653f"
-          targetConnections="cd4e3a85"
-          textAlignment="1"
-          content="Hur står sig StreamInsight i förhållande till NEsper och  kan ESB Toolkit erbjuda delar av CEP?">
-        <bounds
-            x="480"
-            y="24"
-            width="185"
-            height="80"/>
-      </children>
-      <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="60a7ac55"
           targetConnections="c4e8bed4-7f6e-49b8-b88f-013f36f50d0d">
         <sourceConnections
             id="cd4e3a85"
             source="60a7ac55"
-            target="08e9653f"/>
+            target="08e9653f">
+          <bendpoints
+              startX="84"
+              startY="-74"
+              endX="-288"
+              endY="36"/>
+        </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="f1069e0b"
@@ -561,6 +529,19 @@
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_27ecc3c0.xml#27ecc3c0"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="3409dd0b-fd02-4996-9160-3a1271766247"
+          targetConnections="1bd55b2d-115f-482e-8f52-ae91bbc025a5">
+        <bounds
+            x="504"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:TechnologyInterface"
+            href="TechnologyInterface_d48cd27b.xml#d48cd27b"/>
       </children>
       <archimateElement
           xsi:type="archimate:Node"
@@ -602,7 +583,7 @@
           id="e21927fa"
           targetConnections="25f7320b-83cf-4128-97b8-e970b534054d">
         <bounds
-            x="180"
+            x="408"
             y="36"
             width="120"
             height="55"/>
@@ -615,7 +596,7 @@
           id="36dff1a9"
           targetConnections="6aacf873-7b91-4edd-901d-c09b14081081">
         <bounds
-            x="24"
+            x="144"
             y="36"
             width="120"
             height="55"/>
@@ -765,6 +746,19 @@
             y="36"
             width="157"
             height="126"/>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="844fd771"
+            targetConnections="597b17e7-fa55-4550-933c-2b1c804e7d42">
+          <bounds
+              x="12"
+              y="48"
+              width="120"
+              height="55"/>
+          <archimateElement
+              xsi:type="archimate:TechnologyInterface"
+              href="TechnologyInterface_c613e135.xml#c613e135"/>
+        </children>
         <archimateElement
             xsi:type="archimate:Node"
             href="Node_ebc2d57b.xml#ebc2d57b"/>
@@ -810,7 +804,7 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;Application server&quot;. Implementerade delar som inte kan hanteras av annan integrationsteknik och behöver exekveras inom ramen för integration. ">
     <bounds
-        x="1740"
+        x="1584"
         y="684"
         width="185"
         height="120"/>
@@ -822,8 +816,8 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;Message broker&quot;. Dvs. meddelandeförmedling inkluderat rutiner för exempelvis transformation och filtrering.">
     <bounds
-        x="1740"
-        y="432"
+        x="1584"
+        y="444"
         width="185"
         height="97"/>
   </children>
@@ -834,8 +828,8 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;File mediation&quot;.  Dvs. en filbaserad frikopplad kommunikation mellan system.&#xA;">
     <bounds
-        x="1740"
-        y="240"
+        x="1584"
+        y="264"
         width="185"
         height="85"/>
   </children>
@@ -1022,7 +1016,7 @@
     <bounds
         x="817"
         y="888"
-        width="900"
+        width="744"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1087,7 +1081,7 @@
       textAlignment="1"
       content="Ref. ATI:s referensarkitektur &quot;RPI proxy&quot;. Dvs. en förmedling av direkta funktionsanrop innebär en mellanhand som skiljer den hårda kopplingen mellan pruducent och konsument.">
     <bounds
-        x="1740"
+        x="1584"
         y="552"
         width="185"
         height="121"/>
@@ -1113,5 +1107,17 @@
         y="53"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="08e9653f"
+      targetConnections="cd4e3a85"
+      textAlignment="1"
+      content="Hur står sig StreamInsight i förhållande till NEsper och  kan ESB Toolkit erbjuda delar av CEP?">
+    <bounds
+        x="1584"
+        y="360"
+        width="185"
+        height="72"/>
   </children>
 </archimate:ArchimateDiagramModel>
