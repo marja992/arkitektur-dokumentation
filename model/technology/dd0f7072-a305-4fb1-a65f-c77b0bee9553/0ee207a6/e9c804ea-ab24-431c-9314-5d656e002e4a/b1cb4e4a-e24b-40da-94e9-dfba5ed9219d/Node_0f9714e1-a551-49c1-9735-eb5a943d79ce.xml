@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anpassning av studiedokumentation till gruppinformation (sd-group-adapter)"
+    id="0f9714e1-a551-49c1-9735-eb5a943d79ce">
+  <properties
+      key="Integration adapter"
+      value="True"/>
+</archimate:Node>

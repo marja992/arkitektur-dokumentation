@@ -609,30 +609,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="48aaf331"
-      targetConnections="86078310">
-    <bounds
-        x="348"
-        y="718"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_9a718caa.xml#9a718caa"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="91d2e396"
       targetConnections="8dd1fd50 9afed0ec">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="86078310"
-        source="91d2e396"
-        target="48aaf331">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_da8e7cc2.xml#da8e7cc2"/>
-    </sourceConnections>
     <bounds
         x="347"
         y="613"
