@@ -18,15 +18,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="e3e37e93-65a3-438c-97a4-47d689fd2977"
-        source="de2d81ea"
-        target="b3c68e92">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_5245ddb0-0a0a-4255-b49e-a3594b826f64.xml#5245ddb0-0a0a-4255-b49e-a3594b826f64"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="3ab03cc1-b83a-4da2-85c2-ba09378ec923"
         source="de2d81ea"
         target="d7779922">
@@ -126,28 +117,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="b3c68e92"
-        targetConnections="e3e37e93-65a3-438c-97a4-47d689fd2977">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="9addbffb"
-          source="b3c68e92"
-          target="38a356be">
-        <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_c2746c7f.xml#c2746c7f"/>
-      </sourceConnections>
-      <bounds
-          x="48"
-          y="36"
-          width="130"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_22d0dd1d.xml#22d0dd1d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="c73c9268">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -159,8 +128,8 @@
             href="SpecializationRelationship_674d2b6f.xml#674d2b6f"/>
       </sourceConnections>
       <bounds
-          x="59"
-          y="146"
+          x="48"
+          y="108"
           width="130"
           height="55"/>
       <archimateElement
@@ -276,7 +245,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="38a356be"
-        targetConnections="623316ce 9addbffb e286012c 739e3d3f d440a466-fe89-4377-8dad-53cb4686e7c8">
+        targetConnections="623316ce e286012c 739e3d3f d440a466-fe89-4377-8dad-53cb4686e7c8">
       <bounds
           x="210"
           y="48"
