@@ -2098,9 +2098,9 @@
           id="dc6e7f57"
           targetConnections="9c124559 2fe18843 7cdd657e 30b48d86">
         <bounds
-            x="40"
-            y="101"
-            width="120"
+            x="24"
+            y="96"
+            width="157"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
