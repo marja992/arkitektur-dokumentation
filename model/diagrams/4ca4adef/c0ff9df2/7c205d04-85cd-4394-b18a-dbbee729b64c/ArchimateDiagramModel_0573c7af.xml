@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stärkt autensiering genom Shibboleth LoginHandler"
-    id="0573c7af">
+    name="Stärkt autensiering genom hantering i Gemensam webbinloggning"
+    id="0573c7af"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9f65f9ff"
@@ -217,9 +218,9 @@
             href="ServingRelationship_005da306.xml#005da306"/>
       </sourceConnections>
       <bounds
-          x="72"
+          x="60"
           y="36"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"

@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generaliserad tillämpning av styrkt autensiering"
-    id="d640bb80"/>
+    id="d640bb80"
+    documentation="Målet utgår från arkitekturprinciperna hög IT-säkerhet vid behov samt återanvändbarhet som är applicerbara från kraven att konstruera återanvändbara tjänster som gör det lätt att använda sig av stärkt autensiering där det i framtiden kommer att behövas."/>

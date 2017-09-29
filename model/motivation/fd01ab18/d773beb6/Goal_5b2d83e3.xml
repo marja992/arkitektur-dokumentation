@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillförlitlig nyckel-hantering"
-    id="5b2d83e3"/>
+    id="5b2d83e3"
+    documentation="Målet utgår ifrån arkitekturprincipen hög informationssäkerhet som härleds till myndighetens krav på rättssäker myndighetsutövning och SWAMID:s krav på tillförlitliga medlemmar."/>

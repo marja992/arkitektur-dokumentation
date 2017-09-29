@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identifiering med höjda krav på användning av konto"
-    id="b1bc86b6"/>
+    id="b1bc86b6"
+    documentation="Implementation för säker användning av ett IT-konto. &#xA;&#xA;Säker användning har i piloten som gjorts inom SWAMID definierats som ordinarie autensiering med en faktor (lösenord) tillsammans med en identifiering av personen. Identifieringen görs i piloten av att användaren vid aktivering av styrkt autensiering uppger serienummer på LU-kortet (motsv. Campus-kort vid UU) tillsammans med den PIN-kod som är knutet till kortet. Syftet är att underlätta och ta bort de administrativa uppgifter som annars kommer med ett införande. I förslaget till införande av stärkt autensiering vid UU föreslås samma angreppssätt, dvs. att använda det nya Campus-kortet tillsammans med dess PIN-kod för att vara säkrare på att det är rätt användare av e-identiteten som aktiverar den starkare formen av autensiering."/>

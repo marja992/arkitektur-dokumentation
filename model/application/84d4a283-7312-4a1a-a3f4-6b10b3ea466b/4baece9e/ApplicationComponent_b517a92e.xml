@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kontohanteringssystem"
-    id="b517a92e"/>
+    id="b517a92e"
+    documentation="System som hanterar IT-konton."/>

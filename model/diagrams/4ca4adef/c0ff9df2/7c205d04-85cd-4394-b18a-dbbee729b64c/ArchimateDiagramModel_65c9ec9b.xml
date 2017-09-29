@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Etablera stärkt autensiering"
-    id="65c9ec9b">
+    id="65c9ec9b"
+    documentation="Att knyta en stärkt autensiering till en aktör och en e-identitet är centralt i tillförlitligheten för en stark autensiering (Tillförlitlig nyckelhantering). Processen för att knyta en ytterligare faktor för autensiering måste därför baseras på en kontroll av identiteten som är starkare än att man uppger användarnamn och lösenord.&#xA;&#xA;För att få ett IT-konto vid UU måste den som vill ha ett IT-konto legitimera sig vid någon av Campus-receptionerna. Genom den processen uppnår vi tillitsnivån AL2. Samma process är från SWAMID helt acceptabel för aktivering av stärkt autensiering. "
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="31719ab3"

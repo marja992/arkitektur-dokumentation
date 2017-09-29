@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Delad hemlig 2FA TOTP nyckel"
-    id="dc02a7bd"/>
+    id="dc02a7bd"
+    documentation="Den hemliga nyckel som delas av verifieringstjänst och den användare som har ett tekniskt hjälpmedel för att skapa engångslösenord."/>

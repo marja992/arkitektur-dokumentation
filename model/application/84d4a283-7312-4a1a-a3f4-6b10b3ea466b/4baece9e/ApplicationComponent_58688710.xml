@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gemensam webbinloggning Shibboleth"
-    id="58688710"/>
+    name="Gemensam webbinloggning"
+    id="58688710"
+    documentation="Gemensam webbinloggning betyder att alla som använder sig av samma inloggningstjänst tar med sig inloggningen in i andra tjänster så länge inloggningssessionen är giltig. "/>

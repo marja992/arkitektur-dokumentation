@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GUI"
-    id="e0c54d2b"/>
+    id="e0c54d2b"
+    documentation="Graphical User Interface innebär att det finns ett grafiskt användargränssnitt där en användare genom dator eller mobil app kan interagera med tjänsten."/>

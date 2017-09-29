@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Målbild för stärkt autensiering med TOTP"
-    id="61f92779">
+    id="61f92779"
+    documentation="Föreslagen arkiektur som innebär en tvåfaktorsautensiering för webbaserade tillämpningar i syfte att vara förberett för de säkerhetskrav som bedöms ställas på myndigheten inom en snar framtid. Förslaget baseras på en arkitekturdesign som står i enlighet med hur SWAMID ser på tvåfaktorsautensiering. Förslaget innebär att UU:s IT-användare frivilligt får ansluta sig och att användandet av den ytterligare faktorn för autensiering i första skedet används vid det tillfälle som anslutna till tjänsten byter lösenord i AKKA.&#xA;&#xA;Förslaget har tagits fram i samarbete med Säkerhetsavdelningen som ställer sig bakom förslaget men som också har reflekterat kring frågan i ett separat utlåtande."
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b6efbee1"
@@ -188,8 +190,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="f806f8aa"
-      textAlignment="1"
-      content="Baseline architecture">
+      content="Nuläge">
     <sourceConnections
         id="9f0884d4"
         source="f806f8aa"
@@ -203,8 +204,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="ae57fe82"
-      textAlignment="1"
-      content="Target architecture">
+      content="Målarkitektur">
     <sourceConnections
         id="b1979b0a"
         source="ae57fe82"

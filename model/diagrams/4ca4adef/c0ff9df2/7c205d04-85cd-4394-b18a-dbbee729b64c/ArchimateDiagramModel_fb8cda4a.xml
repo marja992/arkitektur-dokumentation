@@ -182,9 +182,8 @@
       xsi:type="archimate:DiagramModelNote"
       id="a35b7eb8"
       targetConnections="37fd3005"
-      textAlignment="1"
       fillColor="#ffffff"
-      content="Baseline architecture">
+      content="Nuläge">
     <bounds
         x="12"
         y="517"
@@ -195,8 +194,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="63193581"
       targetConnections="3e486aa3"
-      textAlignment="1"
-      content="Target architecture">
+      content="Målarkitektur">
     <bounds
         x="1044"
         y="517"

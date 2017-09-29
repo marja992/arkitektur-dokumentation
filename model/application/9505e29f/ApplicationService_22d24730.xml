@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eduID Nyckel-hantering"
-    id="22d24730"/>
+    id="22d24730"
+    documentation="Extern tjänst från SUNET som skapar och lagrar nycklar och verifierar engångskoder."/>

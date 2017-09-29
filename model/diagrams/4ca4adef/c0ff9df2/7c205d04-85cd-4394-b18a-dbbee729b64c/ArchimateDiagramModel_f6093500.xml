@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stärkt autensiering för lösenordsbyte i AKKA genom AKKA-formulär"
-    id="f6093500">
+    name="Stärkt autensiering för lösenordsbyte av UU-konto genom eget formulär"
+    id="f6093500"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="14252291"
@@ -85,7 +86,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8292dde7"
-        targetConnections="a6c02aad 49c805f8 c7a6711d">
+        targetConnections="a6c02aad 49c805f8 c7a6711d"
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="94f5eaba"
@@ -142,7 +145,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="05d6f766"
-        targetConnections="c62339b3 ee3a3179 d640ba84-71ee-4e3a-b0d3-6456cd7c29fe">
+        targetConnections="c62339b3 ee3a3179 d640ba84-71ee-4e3a-b0d3-6456cd7c29fe"
+        textPosition="1"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="49c805f8"
@@ -292,7 +297,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="bfab4437">
+      id="bfab4437"
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f308cdea"

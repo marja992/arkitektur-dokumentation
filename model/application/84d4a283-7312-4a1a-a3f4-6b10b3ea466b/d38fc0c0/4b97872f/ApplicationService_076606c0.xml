@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nyckelhantering"
-    id="076606c0"/>
+    id="076606c0"
+    documentation="Tjänst som via kontakt med extern nyckelhanteringstjänst ser till att skapa och knyta en hemlig nyckel. Nyckeln fås tillbaka via en QR-kod som användaren sedan med sin engångslösenordshanterare kan läsa in i syfte att använda för att skapa engångslösenord som kan verifieras med en verifieringstjänst."/>

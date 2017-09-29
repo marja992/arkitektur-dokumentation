@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Google/Microsoft Authenticator"
-    id="178bbe8a"/>
+    name="Engångslösenordshangerare"
+    id="178bbe8a"
+    documentation="En implementation av engångslösenord är att använda sig av mobiltelefonklienter (i dagligt tal ”appar”) för att räkna fram en kontrollsumma. Både Microsoft och Google har utvecklat appar för att skapa kontrollsummor vilka finns tillgängliga för installation utan kostnad. SUNET har via eduID tagit fram en kontrolltjänst som är kompatibel med Microsofts och Googles appar. Microsoft och Google tillhandahåller givetvis också kontrollfunktioner men för att kunna använda de tjänsterna måste också den hemliga nyckel som är grunden för kontrollsumman lagras i deras kontrolltjänst. Om UU istället väljer att använda sig av SUNET:s tjänst är det hos SUNET den hemliga nyckeln kommer att lagras. Det innebär att nyckeln enbart finns på användarens mobiltelefon samt hos SUNET och inte distribuerad i någon s.k. molntjänst."/>

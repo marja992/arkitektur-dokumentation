@@ -1,4 +1,5 @@
 <archimate:Plateau
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stärkt autensiering med Time-based One-time Password"
-    id="864ac954"/>
+    id="864ac954"
+    documentation="Föreslagen arkiektur som innebär en tvåfaktorsautensiering för webbaserade tillämpningar i syfte att vara förberett för de säkerhetskrav som bedöms ställas på myndigheten inom en snar framtid. Förslaget baseras på en arkitekturdesign som står i enlighet med hur SWAMID ser på tvåfaktorsautensiering. Förslaget innebär att UU:s IT-användare frivilligt får ansluta sig och att användandet av den ytterligare faktorn för autensiering i första skedet används vid det tillfälle som anslutna till tjänsten byter lösenord i AKKA.&#xA;&#xA;Förslaget har tagits fram i samarbete med Säkerhetsavdelningen som ställer sig bakom förslaget men som också har reflekterat kring frågan i ett separat utlåtande."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student"
-    id="6c176156"/>
+    id="6c176156"
+    documentation="Student är en person som studerar vid ett lärosäte. "/>

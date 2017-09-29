@@ -1,4 +1,5 @@
 <archimate:Plateau
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lösenordsbaserad autensiering"
-    id="431a71de"/>
+    id="431a71de"
+    documentation="Nuvarande arkitektur för autensiering av IT-konto som baseras på verifiering genom lösenord."/>
