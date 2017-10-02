@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forskningsinformation"
+    name="Forsknings-information"
     id="b714aad6"
     documentation="Forskningsinformation definieras som metadata om forskning. Dessa metadata kan beskriva såväl process (ansökningar, projekt etc.) som produkt (publikation, patent etc.). Vidare kan dessa metadata beskriva såväl aktören (forskare, forskar- grupp, institution etc.) som forskningsämnet. Forskningsinformation kan därmed sägas syfta till att besvara frågan: Vem forskar om vad?&#xA;"/>
