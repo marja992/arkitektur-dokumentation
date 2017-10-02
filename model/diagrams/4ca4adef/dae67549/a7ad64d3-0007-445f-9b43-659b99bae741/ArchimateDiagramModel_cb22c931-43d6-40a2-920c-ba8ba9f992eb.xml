@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-avdelningens beslutsprocess"
     id="cb22c931-43d6-40a2-920c-ba8ba9f992eb"
-    documentation="Enda beslutsfattande instans vid IT-avdelningen är IT-avdelningens ledningsgrupp. Förutbestämda beslutsområden är:&#xA; - e-förvaltningsplaner&#xA; - projektplaner&#xA; - arkitekturstyrmodell&#xA;&#xA;Vidare finns andra oförutsedda frågor som behöver beslut vilka också via IT-avdelningens beslutsprocess kan beslutas."
+    documentation="Enda beslutsfattande instans vid IT-avdelningen är IT-avdelningens ledningsgrupp. Förutbestämda beslutsområden är:&#xA; - e-förvaltningsplaner&#xA; - projektplaner&#xA; - arkitekturstyrmodell&#xA;&#xA;Vidare finns andra oförutsedda frågor som behöver beslut vilka också via IT-avdelningens beslutsprocess kan hantera."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -19,9 +19,9 @@
           href="AssignmentRelationship_39461d24-ed3f-4540-8580-8af6711eaf5f.xml#39461d24-ed3f-4540-8580-8af6711eaf5f"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="48"
         y="600"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -31,6 +31,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b9ca83ac-3848-4406-b784-b827a1721756"
       targetConnections="00c47494-28fe-4dae-adf4-e37f595d5ac3 93728aef-5fa6-41d6-9d30-8f3b8fc03974"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffcc66"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -69,6 +71,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="49c99e7f-0325-4974-a386-7b8fbc73e07c"
       targetConnections="3c5496e8-0fae-4924-8898-39f2b09dd0a5 654daff8-f052-485a-99dd-a793acfa1b1a"
+      fillColor="#ffcc66"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -158,7 +161,7 @@
     <bounds
         x="192"
         y="84"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -180,7 +183,7 @@
     <bounds
         x="192"
         y="336"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -200,9 +203,9 @@
           href="AssignmentRelationship_0f89ee8f-66ad-4b41-a7ba-94c008da5100.xml#0f89ee8f-66ad-4b41-a7ba-94c008da5100"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="48"
         y="336"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -212,6 +215,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="67d3b6e6-5ebf-4c18-904c-83d6452ba0cd"
       targetConnections="093c5347-f409-41c0-9d26-c9596b7dda8b eaf8aa59-86a0-4a41-a807-dfe97fc802d0"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffcc66"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -281,7 +286,7 @@
     <bounds
         x="192"
         y="600"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -291,6 +296,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="85118b1b-41b4-4dda-aefe-6777bcb6c02e"
       targetConnections="a47ae644-11ba-4396-81dc-f3bde2409328 5a0be9ad-371c-4e49-afd5-a3904923cb40"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffcc66"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -550,6 +557,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c65ef814-cb9d-4648-b59f-277188bbf06d"
         targetConnections="f07f3eb0-267d-42c4-8675-bda7dd48b17a c170d54b-9b9d-42a2-b8cb-b108d4c48211"
+        font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+        fillColor="#ffcc66"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -598,7 +607,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="34ec47ce-dc00-46d9-8878-4795902211ea">
+      id="34ec47ce-dc00-46d9-8878-4795902211ea"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="93728aef-5fa6-41d6-9d30-8f3b8fc03974"
@@ -609,9 +619,9 @@
           href="AssignmentRelationship_d8dd3b2f-d1de-4e3b-9512-85d4489c1d8a.xml#d8dd3b2f-d1de-4e3b-9512-85d4489c1d8a"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="48"
         y="84"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"

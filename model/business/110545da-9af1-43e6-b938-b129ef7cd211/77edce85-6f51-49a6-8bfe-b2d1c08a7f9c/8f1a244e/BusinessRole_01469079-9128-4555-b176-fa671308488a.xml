@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="e-koordinator IT"
-    id="01469079-9128-4555-b176-fa671308488a"/>
+    name="e-förvaltnings-koordinator IT"
+    id="01469079-9128-4555-b176-fa671308488a"
+    documentation="e-förvaltningskoordinator IT ansvarar för IT-komponenterna inom ett e-område."/>
