@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Extern intressent"
-    id="8ded2cd2-72bf-4aec-9e45-ff7675be02ba"/>
+    id="8ded2cd2-72bf-4aec-9e45-ff7675be02ba"
+    documentation="Information om organisationer och individer som har ett samröre med universitetet (ex. stiftelser, leverantörer, beställare och kunder). "/>

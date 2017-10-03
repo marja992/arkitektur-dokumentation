@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anställd"
+    id="870a8c7a"
+    documentation="Generalistrollen för alla som har en anställning vid universitetet. Exempel: En lärare använder TimeEdit i rollen som lärare i sitt arbete med schema-läggning, läraren använder TimeEdit i generalistrollen anställd när vederbörande bokar lokal. Ytterligare ett exempel kan ges där en personaladministratör i generalistrollen anställd söker semester i Primula och där expertanvändarrollen personaladministratör använder Primula i ett annat syfte."/>
