@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grundläggande tjänst för datorkommunikation"
+    id="61f5bc4c-ac73-4faa-9da7-8296747a0773"
+    documentation="Denna tjänst inkluderar i alla avseenden nätverksförbindelse hela vägen från Internet till avlämningspunkt på respektive campus och i många aspekter även ut till det enskillda uttaget på arbetsplatsen eller den trådlösa anslutningen.&#xA;&#xA;Detta inkluderar ur ett tekniskt plan alla nivåerfrån nedgrävd kanalisation och fiber mellan universitetets lokaler, spridningsnät i dessa till aktiv nätverksutrusning för både fast och trådlös kommunikation.&#xA;&#xA;Nät till studentbostäder ingår för närvarande, men är under avveckling.&#xA;&#xA;Förutom kommunikation inom universitetets campus ingår även förbindelse till Internet och lokaler som ligger på annat håll, t.ex. Linneträdgårdar och forskningsstationer."/>
