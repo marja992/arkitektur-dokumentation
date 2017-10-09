@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Server"
-    id="894ad356-e272-4417-b2e8-7a3a57b9601a"/>
+    id="894ad356-e272-4417-b2e8-7a3a57b9601a"
+    documentation="IT tillhandahåller avbrottsfri serverkapacitet och funktionalitet utifrån era behov av bl a prestanda, tillgänglighet och säkerhet.&#xA;&#xA;Beskrivning av tjänsten&#xA;En specifikation görs tillsammans.&#xA;Grundnivån för lagring av data, underhåll, övervakning och backup täcker de flesta behov.&#xA;&#xA;Driften sker i en datahall som möter höga krav på driftsäkerhet, och skydd. I tjänsten ingår nödvändiga brandvägg licenser och övervakning att tjänsten är tillgänglig."/>
