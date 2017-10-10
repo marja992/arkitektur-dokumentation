@@ -20,14 +20,14 @@
       name="IT-tjänster"
       textAlignment="1">
     <bounds
-        x="32"
-        y="384"
+        x="8"
+        y="360"
         width="1692"
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="194c5548-8384-4fed-a06f-fd4346cef504"
-        targetConnections="d1e7bfff-bf5c-4542-8900-baace7366f0b 26474979-943a-4196-ad71-0ebc9731d005 0ddb9058-5d7d-4a1f-99a3-a7e3f64db9fe 3ec0b3d5-7813-4baa-873e-cc911754ea23"
+        targetConnections="d1e7bfff-bf5c-4542-8900-baace7366f0b 26474979-943a-4196-ad71-0ebc9731d005 3ec0b3d5-7813-4baa-873e-cc911754ea23"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -38,6 +38,15 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_f08d1ff6-58db-4f9c-9a4e-07ddca003e35.xml#f08d1ff6-58db-4f9c-9a4e-07ddca003e35"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="d487938b-93ca-4504-b50f-bb1a163159d1"
+          source="194c5548-8384-4fed-a06f-fd4346cef504"
+          target="29927129-c6cf-43c8-b718-541fcf38c975">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_f604f9db-5391-45ac-8c0a-5f78bfe77b3a.xml#f604f9db-5391-45ac-8c0a-5f78bfe77b3a"/>
       </sourceConnections>
       <bounds
           x="648"
@@ -51,6 +60,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="29927129-c6cf-43c8-b718-541fcf38c975"
+        targetConnections="d487938b-93ca-4504-b50f-bb1a163159d1"
         textPosition="1"
         type="1">
       <sourceConnections
@@ -75,15 +85,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_15852564-c042-4591-9157-f72a0709b8e7.xml#15852564-c042-4591-9157-f72a0709b8e7"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="0ddb9058-5d7d-4a1f-99a3-a7e3f64db9fe"
-          source="29927129-c6cf-43c8-b718-541fcf38c975"
-          target="194c5548-8384-4fed-a06f-fd4346cef504">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_68c31323-cc2d-4cbb-961b-a6544fe461e8.xml#68c31323-cc2d-4cbb-961b-a6544fe461e8"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -181,8 +182,8 @@
       name="Tjänsteleverans"
       textAlignment="1">
     <bounds
-        x="32"
-        y="660"
+        x="8"
+        y="636"
         width="1686"
         height="936"/>
     <children
@@ -724,8 +725,8 @@
       name="Avnämare"
       textAlignment="1">
     <bounds
-        x="36"
-        y="156"
+        x="12"
+        y="132"
         width="1684"
         height="180"/>
     <children
