@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Studieadminstrationssystem (N2)"
-    id="95683c00"/>
+    name="Studieadminstration (N2)"
+    id="95683c00">
+  <properties
+      key="Stadsplan, nivå"
+      value="2"/>
+</archimate:ApplicationComponent>

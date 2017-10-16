@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utbildningskatalog (N3)"
-    id="18dfc7b5">
+    name="Examination (N2)"
+    id="61bc60e2-195e-4c52-aa1a-453dc3f7a5c0">
   <properties
       key="Stadsplan, nivå"
-      value="3"/>
+      value="2"/>
 </archimate:ApplicationComponent>
