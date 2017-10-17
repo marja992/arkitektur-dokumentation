@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applikationsintegration (N3)"
-    id="798d59a4"/>
+    id="798d59a4"
+    documentation="Definition av applikationsintegration kan ges i att en tillämpning exponerar information eller funktionalitet för konsumtion av andra tillämpningar.  Exempel kan ges i exempelvis ”hämta kursinformation” eller ”fastställ utbildningsplan” som skulle kunna vara exponerade information och funktionalitet från tillämpningen Utbildningskatalog. &#xA;&#xA;Tillämpningen Applikationsintegration består av två olika typer av tillämpningar, Funktionsanrop och Tjänstebaserad integration där de i grunden har vitt skilda utgångspunkter. För funktionsanrop gäller utgångspunkten tillämpning, dvs. tillämpningen erbjuder viss informationen och funktionaliteten. För tjänstebaserad integration gäller utgångspunkten organisationen där tillämpningar helt abstraherats bort i syfte att inte begränsa integrationsmöjligheterna baserat på vilken infrastruktur som implementerar tillämpningen. En tjänstebaserad integration innebär en implementerad abstraktion av tjänster där bakomliggande tillämpning inte är känd för konsumerande tillämpning."/>

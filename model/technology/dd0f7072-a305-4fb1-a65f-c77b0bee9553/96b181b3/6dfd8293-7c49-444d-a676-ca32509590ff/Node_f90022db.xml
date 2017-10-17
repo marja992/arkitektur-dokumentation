@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meddelandeförmedling (N3)"
-    id="f90022db"/>
+    id="f90022db"
+    documentation="Ref. ATI:s referensarkitektur &quot;Message broker&quot;. Dvs. meddelandeförmedling inkluderat rutiner för exempelvis transformation och filtrering."/>

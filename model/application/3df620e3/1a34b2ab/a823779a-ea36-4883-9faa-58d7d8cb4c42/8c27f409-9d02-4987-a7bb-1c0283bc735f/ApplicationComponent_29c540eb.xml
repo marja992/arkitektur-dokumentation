@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Funktionsanrop (N4)"
-    id="29c540eb"/>
+    id="29c540eb"
+    documentation="Integrationstillämpningen &quot;Funktionsanrop&quot; (nivå 4) har helt utgångspunkten i tillämpningar, dvs. specificerad tillämpningen erbjuder viss information och/eller funktionalitet. Jämför med integrationstillämpningen (Tjänstebaserad integration&quot; (nivå 4). "/>

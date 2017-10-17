@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjänstebaserad integration (N4)"
-    id="b2d9f7cc"/>
+    id="b2d9f7cc"
+    documentation="För tjänstebaserad integration gäller utgångspunkten helheten av affärslagret sammanknutet med behovet av IT-stöd. Implementerade tillämpningar abstraherats helt bort i syfte att inte begränsa integrationsmöjligheterna baserat på vilken infrastruktur som implementerar den specifika tillämpningen. En tjänstebaserad integration innebär en implementerad abstraktion av tjänster där bakomliggande tillämpning inte är känd för konsumerande tillämpning. &#xA;"/>

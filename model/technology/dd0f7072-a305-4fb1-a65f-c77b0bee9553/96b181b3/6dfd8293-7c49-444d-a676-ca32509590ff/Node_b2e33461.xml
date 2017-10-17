@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kontrollerad applikationsintegration (N3)"
-    id="b2e33461"/>
+    name="Funktionsanrop och tjänstebaserad integration (N3)"
+    id="b2e33461"
+    documentation="Ref. ATI:s referensarkitektur &quot;RPI proxy&quot;. Dvs. en förmedling av direkta funktionsanrop innebär en mellanhand som skiljer den hårda kopplingen mellan pruducent och konsument."/>
