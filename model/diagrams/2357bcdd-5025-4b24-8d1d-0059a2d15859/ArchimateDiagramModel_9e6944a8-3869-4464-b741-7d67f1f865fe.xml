@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillämpningsarkitektur för Utbildning (N1)"
     id="9e6944a8-3869-4464-b741-7d67f1f865fe"
-    viewpoint="application_usage">
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c25fad25-83ee-4f82-8c44-1dbeae9befa7"
