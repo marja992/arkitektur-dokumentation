@@ -222,6 +222,15 @@
       id="99082d17-18b8-41a7-a714-a27b6aefb14a"
       targetConnections="346f8313-17d3-4009-b978-59b932b238ff 3f52f70f-454d-498c-a920-c0f0038bbe83 68039d10-3a63-487e-9054-6715c05d21aa"
       textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1b64279a-e4b3-4c7a-ba8c-198470496f4e"
+        source="99082d17-18b8-41a7-a714-a27b6aefb14a"
+        target="7997e7fe-cbef-4fba-a2ce-4e66c8471cae">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d89a5d0d-2128-4710-8009-146e7153843f.xml#d89a5d0d-2128-4710-8009-146e7153843f"/>
+    </sourceConnections>
     <bounds
         x="396"
         y="489"
@@ -329,7 +338,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7997e7fe-cbef-4fba-a2ce-4e66c8471cae">
+      id="7997e7fe-cbef-4fba-a2ce-4e66c8471cae"
+      targetConnections="1b64279a-e4b3-4c7a-ba8c-198470496f4e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e526157a-7ac6-4d30-8964-36350e4fb33c"
@@ -453,5 +463,16 @@
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_daddd6f1-6ad8-4731-a84b-f3446c5c334b.xml#daddd6f1-6ad8-4731-a84b-f3446c5c334b"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="083873d4-92f2-4f0b-874b-eb18c24e22f6"
+      textAlignment="1"
+      content="Lägg till målarkitekturen i förhållande till leverablerna. ">
+    <bounds
+        x="1116"
+        y="528"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -77,18 +77,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="07a4bfd0-3505-4e3c-a809-6bf7f6f53d4e">
-    <bounds
-        x="48"
-        y="236"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_89293cb9.xml#89293cb9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="39cd6204-5b09-44bb-93fe-030f567cd709">
     <bounds
         x="198"

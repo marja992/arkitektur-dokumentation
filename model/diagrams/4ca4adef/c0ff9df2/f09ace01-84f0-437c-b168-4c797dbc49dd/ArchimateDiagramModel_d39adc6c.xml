@@ -22,10 +22,10 @@
         source="18e55d65"
         target="2f45511c">
       <bendpoints
-          startX="218"
-          startY="-51"
-          endX="5"
-          endY="57"/>
+          startX="272"
+          startY="-48"
+          endX="-5"
+          endY="59"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_44ed1ee4.xml#44ed1ee4"/>
@@ -60,7 +60,7 @@
     <bounds
         x="11"
         y="336"
-        width="1478"
+        width="1622"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -201,6 +201,19 @@
           xsi:type="archimate:Principle"
           href="Principle_e50a8cb5.xml#e50a8cb5"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b1f0319b-5be6-4177-abe4-d64eb8ee9796"
+        targetConnections="bffa60b3-dd84-469e-891f-ccd4b5278c5a">
+      <bounds
+          x="1464"
+          y="46"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_95eedff2-bc39-4714-98d9-8f8e57e3717b.xml#95eedff2-bc39-4714-98d9-8f8e57e3717b"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -242,11 +255,6 @@
         id="e3992ded"
         source="2f45511c"
         target="6461e828">
-      <bendpoints
-          startX="125"
-          startY="-50"
-          endX="-17"
-          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_273698f2.xml#273698f2"/>
@@ -266,17 +274,31 @@
         source="2f45511c"
         target="638eb979">
       <bendpoints
-          startX="-115"
-          startY="-50"
+          startX="-185"
+          startY="-49"
           endX="31"
           endY="70"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_d2a2741b.xml#d2a2741b"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="bffa60b3-dd84-469e-891f-ccd4b5278c5a"
+        source="2f45511c"
+        target="b1f0319b-5be6-4177-abe4-d64eb8ee9796">
+      <bendpoints
+          startX="175"
+          startY="-37"
+          endX="-34"
+          endY="84"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_82da58a5-5696-48ec-b45d-edabb86fa254.xml#82da58a5-5696-48ec-b45d-edabb86fa254"/>
+    </sourceConnections>
     <bounds
-        x="1189"
-        y="504"
+        x="1260"
+        y="503"
         width="132"
         height="55"/>
     <archimateElement
@@ -338,7 +360,7 @@
     <bounds
         x="12"
         y="84"
-        width="1477"
+        width="1621"
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -704,7 +726,7 @@
       id="6fd79573"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, IT-avdelningen&#xA;Arkitekturprinciper&#xA;2017-09-17">
+      content="Uppsala universitet, IT-avdelningen&#xA;Arkitekturprinciper&#xA;2017-10-25">
     <bounds
         x="11"
         y="12"

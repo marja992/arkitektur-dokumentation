@@ -202,7 +202,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8780e9c0-96cf-4ab2-98c2-61cb93e3e3a2"
-        targetConnections="d5cdeeaa-7127-4377-8d6d-8fa93fb902c9">
+        targetConnections="d5cdeeaa-7127-4377-8d6d-8fa93fb902c9"
+        font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+        fillColor="#66ccff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="b499dc8e-e2c6-4a20-b314-52f044076e2d"

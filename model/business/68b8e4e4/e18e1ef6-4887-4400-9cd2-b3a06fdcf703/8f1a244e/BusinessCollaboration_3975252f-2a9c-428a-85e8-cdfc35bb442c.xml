@@ -1,17 +1,17 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Studieadministration"
-    id="10678bd3">
-  <properties
-      key="e-koordinator IT"
-      value="Eva Geigant Sintorn"/>
-  <properties
-      key="e-koordinator"
-      value="Anne Mauno"/>
+    name="Stipendiehantering"
+    id="3975252f-2a9c-428a-85e8-cdfc35bb442c">
   <properties
       key="e-områdesansvarig"
-      value="Jonas Brorsson"/>
+      value="Maria Lif"/>
+  <properties
+      key="e-koordinator IT"
+      value="Martin Ekström"/>
+  <properties
+      key="e-koordinator"
+      value="Lou Lagusson"/>
   <properties
       key="e-områdesansvarig IT"
-      value="Ann-Marie Wiberg"/>
+      value="Margitha Karlsson"/>
 </archimate:BusinessCollaboration>

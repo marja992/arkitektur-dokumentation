@@ -1,4 +1,11 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[e-område] Katalog och integration"
-    id="88a4b94c"/>
+    name="Katalog och integration"
+    id="88a4b94c">
+  <properties
+      key="e-koordinator IT"
+      value="Raul Hakkarainen"/>
+  <properties
+      key="e-områdesansvarig"
+      value="Per-Olov Andersson"/>
+</archimate:BusinessCollaboration>
