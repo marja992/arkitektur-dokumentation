@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dokumenterar"
+    id="22b74477-984a-4544-afda-90edfadb3a26">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a37ae145-2f54-4685-987c-f3d1c3fe8592.xml#a37ae145-2f54-4685-987c-f3d1c3fe8592"/>
+  <target
+      xsi:type="archimate:ServingRelationship"
+      href="ServingRelationship_b24cd03f-f7c7-4d80-a23e-09bd60778055.xml#b24cd03f-f7c7-4d80-a23e-09bd60778055"/>
+</archimate:AssociationRelationship>

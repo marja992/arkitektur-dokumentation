@@ -80,9 +80,9 @@
             href="AccessRelationship_05abd2fd.xml#05abd2fd"/>
       </sourceConnections>
       <bounds
-          x="72"
+          x="60"
           y="72"
-          width="145"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessCollaboration"
@@ -111,9 +111,9 @@
             href="AccessRelationship_4ec3d0bf.xml#4ec3d0bf"/>
       </sourceConnections>
       <bounds
-          x="288"
+          x="276"
           y="69"
-          width="145"
+          width="181"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessCollaboration"
@@ -133,9 +133,9 @@
             href="AccessRelationship_a506bab3.xml#a506bab3"/>
       </sourceConnections>
       <bounds
-          x="504"
+          x="492"
           y="72"
-          width="145"
+          width="181"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessCollaboration"

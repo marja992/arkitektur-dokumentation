@@ -71,6 +71,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="38529777-4bc7-43a4-b16d-51392ca5ef25"
       targetConnections="1ce8c376-2316-4961-a55b-6fe816c3eba0 4a1a7e37-900a-4c79-bb1f-d791364e86a1"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fillColor="#ffcc66"
       textPosition="1"
       type="1">
@@ -470,10 +471,10 @@
         source="6362041b-c099-4f67-932a-68b84cdf2726"
         target="8f529f12-eafa-491f-9f42-1ac2c59b3925">
       <bendpoints
-          startX="132"
-          startY="-3"
+          startX="144"
+          startY="-2"
           endX="-108"
-          endY="380"/>
+          endY="262"/>
       <bendpoints
           startX="276"
           startY="-243"
@@ -494,7 +495,7 @@
     </sourceConnections>
     <bounds
         x="444"
-        y="996"
+        y="876"
         width="145"
         height="55"/>
     <archimateElement
@@ -507,8 +508,7 @@
       name="Exempel på situationsberoende beslutsbehov"
       textAlignment="1">
     <bounds
-        x="12"
-        y="1044"
+        y="924"
         width="648"
         height="288"/>
     <children
@@ -584,7 +584,7 @@
         id="6304b4af-8695-46d6-a977-e843d3a13c42"
         targetConnections="de0469d8-486d-4f29-97f1-3628272018fa ce220a26-6881-430f-981e-a146f2b1252a">
       <bounds
-          x="432"
+          x="444"
           y="180"
           width="144"
           height="55"/>

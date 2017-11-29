@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arkitekturstyrning, Metodbeskrivning"
+    name="Arkitekturstyrning, Metodbeskrivning (deprecated)"
     id="b3d8bd17"
     documentation="Organisationens arkitekturmetamodell baseras på metodbeskrivning samt hur arkitekturlandskapet innehållsmässigt ska delas upp och beskrivas. Det här är den arbetsmetod som arkitekturarbetet ska bedrivas med."
     viewpoint="business_process_cooperation">
@@ -416,7 +416,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c89dde1b-9abf-485b-8932-a29763f697f3"
-      targetConnections="b9c7cd95 933fb3eb ddbe23b6 0454f4ac">
+      targetConnections="b9c7cd95 933fb3eb 0454f4ac ddbe23b6">
     <bounds
         x="504"
         y="168"
