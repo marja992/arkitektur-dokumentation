@@ -9,7 +9,7 @@
       id="1894fc1d-d8ae-454a-8dc2-669c70b83d52"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, IT-avdelningen&#xA;Integrationsarkitektur, Integrationsteknik, Mjukvara och komponenter&#xA;2017-11-30">
+      content="Uppsala universitet, IT-avdelningen&#xA;Integrationsarkitektur, Integrationsteknik, Mjukvara och komponenter&#xA;2017-12-01">
     <bounds
         x="12"
         y="12"
@@ -202,7 +202,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="5bc547d2-7a9c-4c50-b02c-435f12ab6a55"
-          targetConnections="20d03e18-aac2-443e-8a19-c5039f3a9b63 24567cde-4108-41be-a922-287c8bd09536 42f15e99-c38e-42bd-b679-24c2cc791b62 9de71c01-b975-486d-9fa2-ecc7c769bdf5">
+          targetConnections="20d03e18-aac2-443e-8a19-c5039f3a9b63 24567cde-4108-41be-a922-287c8bd09536 42f15e99-c38e-42bd-b679-24c2cc791b62 9de71c01-b975-486d-9fa2-ecc7c769bdf5 0b05186b-0cba-4cf1-afc7-957874c07bfb">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="56689b33-454b-42db-9d3e-1353ec0c8268"
@@ -261,7 +261,8 @@
         </children>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="71b66c7c">
+            id="71b66c7c"
+            fillColor="#ffff66">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="24567cde-4108-41be-a922-287c8bd09536"
@@ -279,6 +280,28 @@
           <archimateElement
               xsi:type="archimate:SystemSoftware"
               href="SystemSoftware_b432c03e.xml#b432c03e"/>
+        </children>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="45754c19-fd19-489a-bf5d-ef99203c5247"
+            fillColor="#ffff66">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="0b05186b-0cba-4cf1-afc7-957874c07bfb"
+              source="45754c19-fd19-489a-bf5d-ef99203c5247"
+              target="5bc547d2-7a9c-4c50-b02c-435f12ab6a55">
+            <archimateRelationship
+                xsi:type="archimate:AssignmentRelationship"
+                href="AssignmentRelationship_2e74deb5-5f22-4b57-a265-15d6db6e949a.xml#2e74deb5-5f22-4b57-a265-15d6db6e949a"/>
+          </sourceConnections>
+          <bounds
+              x="156"
+              y="108"
+              width="120"
+              height="55"/>
+          <archimateElement
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_27f32b00-0dca-4b3f-93d2-5931b1154771.xml#27f32b00-0dca-4b3f-93d2-5931b1154771"/>
         </children>
         <archimateElement
             xsi:type="archimate:TechnologyFunction"
@@ -983,7 +1006,8 @@
             height="108"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
-            id="60a7ac55">
+            id="60a7ac55"
+            fillColor="#ffff66">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="5f4cc52f-01ea-4ed4-94da-4439b6545d4a"
