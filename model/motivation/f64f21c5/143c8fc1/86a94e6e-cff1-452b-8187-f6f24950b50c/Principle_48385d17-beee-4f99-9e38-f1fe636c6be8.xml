@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asynkron integration framför synkron"
+    id="48385d17-beee-4f99-9e38-f1fe636c6be8"
+    documentation="Asynkron integration är en typ av förmedlad integration. På samma sätt som för förmedlad integration generellt uppnås arkitekturmålet oberoende integrerade system genom att en integration inte behöver följas av ett direkt svar utan istället kan invänta ett meddelande som ger svaret. Finns möjligheten att designa en asynkron integration bör integrationen implementeras på det sättet i syfte att nå en stabil IT-miljö."/>

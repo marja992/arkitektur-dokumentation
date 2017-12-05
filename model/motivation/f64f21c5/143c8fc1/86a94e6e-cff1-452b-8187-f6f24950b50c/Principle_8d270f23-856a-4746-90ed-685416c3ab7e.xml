@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undvik integrationsstilen delad databas"
+    id="8d270f23-856a-4746-90ed-685416c3ab7e"
+    documentation="När två eller flera tillämpningar delar lagring i en databas är kopplingen inte bara hård utan också väldigt känslig för förändringar. Om behovet i en tillämpning kräver en strukturell förändring av lagringen kommer övriga tillämpningar direkt att påverkas eftersom att de delar lagringsstruktur. För att slippa ett osunt hårt och förändringskänsligt förhållande mellan olika tillämpningar bör integrationsstilen delad databas absolut undvikas."/>

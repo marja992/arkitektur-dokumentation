@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedlad integration framför direkt"
+    id="c8178f13-1173-42bd-bd91-872c46c91d9a"
+    documentation="Hårt knutna integrationer mellan olika tillämpningar ger en stor påverkan mellan tillämpningarna framför allt gällande tillgänglighet. Får tillgängligheten i en tillämpning konsekvenser för tillgängligheten för en annan finns ett förhållande mellan tillämpningarna som direkt motverkar arkitekturmålet oberoende integrerade system. Det innebär att förmedlad integration mellan olika tillämpningar bör finnas överallt där tillgänglighetskraven för en tillämpning är hög."/>

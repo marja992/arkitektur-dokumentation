@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0cbc1a8a-2058-4edb-adb8-4143c016fb97"
+    documentation="Det här handlar om förvaltningsbarhet."
+    strength="++">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_fb92a25e.xml#fb92a25e"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_0e9782a7.xml#0e9782a7"/>
+</archimate:InfluenceRelationship>

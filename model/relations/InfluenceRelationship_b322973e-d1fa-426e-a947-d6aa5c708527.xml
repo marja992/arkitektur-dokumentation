@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b322973e-d1fa-426e-a947-d6aa5c708527"
+    documentation="En separat sammanhållen lösning är per definition en särlösning. I UU:s IT-miljö finns generella komponenter där samma rutiner kan utföras. Sammanhållna separata lösningar leder till fler IT-system för användarna att hantera vilket direkt motverkar bra service där användare förväntar sig att UU:s IT-miljö är en sammanhållen i den totala bilden och inte för enskilda företeelser."
+    strength="--">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_593e26bb.xml#593e26bb"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_16a1e2d2.xml#16a1e2d2"/>
+</archimate:InfluenceRelationship>

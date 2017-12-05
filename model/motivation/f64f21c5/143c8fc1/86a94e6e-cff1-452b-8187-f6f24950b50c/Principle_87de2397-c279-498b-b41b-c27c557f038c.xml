@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Använd standardiserade gränssnitt och informationsstandarder för kommunikation"
+    id="87de2397-c279-498b-b41b-c27c557f038c"
+    documentation="Oberoende av vilken integrationsstil som ligger till grund för en implementerad integrationspunkt måste tekniskt gränssnitt och informationsstruktur definieras. Kan standardiserade tekniska gränssnitt och informationsstandarder användas ökar möjligheterna avsevärt att kunna återanvända integrationspunkten för att även integrera andra tillämpningar som stöder samma uppsättning standarder.  "/>
