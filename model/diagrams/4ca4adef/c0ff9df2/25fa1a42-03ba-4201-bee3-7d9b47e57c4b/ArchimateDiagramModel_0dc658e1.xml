@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Målbild för integrationsarkitektur vid UU"
     id="0dc658e1"
+    documentation="Målarkitekturen kan huvudsakligen beskrivas som motsats till ad-hoc-utvecklade punkt-till-punkt-integrationer genom en strukturerad centraliserad hantering av integrationer.  Strukturerad ska i sammanhanget utläsas som att varje integrationspunkt är genomtänkt i förhållande till ett större sammanhang till skillnad från ad hoc, centraliserad genom att utpekade komponenter och teknik ska utgöra plattform för implementerade integrationer. Med hantering avses i sammanhanget att integrationer ska handhas genom en fördefinierad organisation och roller."
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -298,6 +299,15 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2fb02ad9"
         targetConnections="375d30f0-9498-4694-a9d5-3b055bcbcf4b">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="12cab329-a565-4a14-9e33-30dd52eef683"
+          source="2fb02ad9"
+          target="c987df67">
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_a3511037-419a-4f95-896c-4185634e131d.xml#a3511037-419a-4f95-896c-4185634e131d"/>
+      </sourceConnections>
       <bounds
           x="49"
           y="84"
@@ -415,7 +425,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c987df67"
-        targetConnections="e2efcb07 9f90f538-feec-4238-8504-96fdf3220462">
+        targetConnections="e2efcb07 9f90f538-feec-4238-8504-96fdf3220462 12cab329-a565-4a14-9e33-30dd52eef683">
       <bounds
           x="48"
           y="108"
@@ -597,5 +607,17 @@
         y="36"
         width="205"
         height="115"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="967eee5d-e24f-401d-80ad-abefa1c94aaa"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Uppsala universitet, IT-avdelningen&#xA;Målbild för integrationsarkitektur&#xA;2017-12-05">
+    <bounds
+        x="12"
+        y="12"
+        width="241"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
