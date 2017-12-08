@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informationsflödesadministration (N3)"
+    name="Informationsflöde (N3)"
     id="1a27f7b3"
     documentation="Begreppet informationsintegration definieras av behovet att spegla information över gränserna för tillämpningar inom en organisation. Det är mycket vanligt att information från en informationsdomän måste existera och hanteras av flera olika tillämpningar – utbildningsinformation måste exempelvis hanteras av tillämpningarna utbildningskatalog och studiedokumentation tillämpningar som definierats i &quot;Stadsplan för lärosäten&quot;."/>
