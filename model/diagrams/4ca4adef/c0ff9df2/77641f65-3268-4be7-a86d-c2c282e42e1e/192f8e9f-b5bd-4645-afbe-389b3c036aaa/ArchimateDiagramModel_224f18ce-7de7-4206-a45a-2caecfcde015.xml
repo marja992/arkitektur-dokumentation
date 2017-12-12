@@ -2131,4 +2131,16 @@
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_cfbba4f8.xml#cfbba4f8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="51dd39b3-a190-4f64-967e-eda2f83413ce"
+      fillColor="#008040">
+    <bounds
+        y="1860"
+        width="1956"
+        height="721"/>
+    <archimateElement
+        xsi:type="archimate:Path"
+        href="Path_9dec4bee-bc20-410e-a7bc-9aa113662ab5.xml#9dec4bee-bc20-410e-a7bc-9aa113662ab5"/>
+  </children>
 </archimate:ArchimateDiagramModel>
