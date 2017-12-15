@@ -1,12 +1,11 @@
-<archimate:AssociationRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="avser"
-    id="4c55ec64-15df-45f9-8b60-f6daa3f3352d">
+    id="177f9d1d-fa1e-45ea-bf22-1b39f4f46a5e">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_6b72ecf7-d0af-4114-86be-60a6ac64ef24.xml#6b72ecf7-d0af-4114-86be-60a6ac64ef24"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_894ad356-e272-4417-b2e8-7a3a57b9601a.xml#894ad356-e272-4417-b2e8-7a3a57b9601a"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_8142cb48-3c4e-4dfa-8556-c088c8617279.xml#8142cb48-3c4e-4dfa-8556-c088c8617279"/>
-</archimate:AssociationRelationship>
+</archimate:ServingRelationship>
