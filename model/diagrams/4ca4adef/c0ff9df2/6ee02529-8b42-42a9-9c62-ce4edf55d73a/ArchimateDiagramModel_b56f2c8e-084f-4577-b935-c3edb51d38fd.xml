@@ -505,7 +505,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="eeedd9af-a462-4a35-8b33-86d08d94ec98"
         textAlignment="1"
-        content="IT-betställning är en tillämpningstjänst som måste förvaltas. Tillämpningstjänsten har inte en egen tillämpning utan är en tillämpningscollaboration där det handlar om att förvalta de faktiska formulären (inte en generell formulärkomponent) som utvecklas och publiceras i MP, dessutom de konfigurerade flöden (inte Easit generellt) som finns i Easit. Därtill kommer en integration som inte syns i bilden men de elektroniska formulären handlar in i en inkorg (kanske borde vara en logisk komponent) och där de också finns en lös koppling genom en integration mellan komponenterna. ">
+        content="IT-betställning är en tillämpningstjänst som måste förvaltas. Tillämpningstjänsten har inte en egen tillämpning utan är ett samspel av befintliga tillämpningar där det handlar om att förvalta de faktiska formulären (inte en generell formulärkomponent) som utvecklas och publiceras i MP, dessutom de konfigurerade flöden (inte Easit generellt) som finns i Easit. Därtill kommer en integration som inte syns i bilden men de elektroniska formulären handlar in i en inkorg (kanske borde vara en logisk komponent) och där de också finns en lös koppling genom en integration mellan komponenterna. ">
       <sourceConnections
           id="a943287a-b7d8-4377-a6d4-f4c9b487a27f"
           source="eeedd9af-a462-4a35-8b33-86d08d94ec98"

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Easit Business Process Suite"
-    id="a284cca0"/>
+    name="Hantering av IT-ärenden"
+    id="a284cca0"
+    documentation="Tillämpningen relaterar till hela implementationen Easit Business Process Suite."/>
