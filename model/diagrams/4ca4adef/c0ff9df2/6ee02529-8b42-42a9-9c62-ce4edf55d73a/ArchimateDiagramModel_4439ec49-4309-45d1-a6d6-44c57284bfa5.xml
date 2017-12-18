@@ -9,7 +9,7 @@
       id="1e8ff5fc-5c71-4669-9e95-5fc8da86ceba"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänster, Server, Infrastruktur&#xA;2017-12-16">
+      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänster, Server och Databas, Infrastruktur&#xA;2017-12-18">
     <bounds
         x="12"
         y="12"
@@ -374,9 +374,9 @@
             target="1723b892-f724-4b1b-aa42-4dc9f6c34ca9">
           <bendpoints
               startX="120"
-              startY="-2"
-              endX="-24"
-              endY="94"/>
+              startY="-4"
+              endX="-23"
+              endY="93"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_47d7a493-58c2-4ad2-aeba-bc2a50b70c47.xml#47d7a493-58c2-4ad2-aeba-bc2a50b70c47"/>
