@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Operations Control (ITIL)"
-    id="c8847448-e4a3-4419-99a5-06839ec658ae"/>
+    name="IT Operations Control (ITIL)"
+    id="c8847448-e4a3-4419-99a5-06839ec658ae"
+    documentation="Process Objective: To monitor and control the IT services and their underlying infrastructure. The process IT Operations Control executes day-to-day routine tasks related to the operation of infrastructure components and applications. This includes job scheduling, backup and restore activities, print and output management, and routine maintenance."/>

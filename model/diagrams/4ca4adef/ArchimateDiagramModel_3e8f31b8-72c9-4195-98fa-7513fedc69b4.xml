@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisationsarkitektur"
+    id="3e8f31b8-72c9-4195-98fa-7513fedc69b4"
+    viewpoint="organization">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="33600e79-0f0f-4cb5-a0d5-04c66bb133d6">
+    <bounds
+        x="231"
+        y="185"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_a44d2c48-0217-47ca-8d8b-a9178729ea80.xml#a44d2c48-0217-47ca-8d8b-a9178729ea80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="48c65ccf-7db5-4f7b-9391-35f72b54c1a9">
+    <bounds
+        x="384"
+        y="185"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_6e146f65-175a-445a-8e03-bc00caa65131.xml#6e146f65-175a-445a-8e03-bc00caa65131"/>
+  </children>
+</archimate:ArchimateDiagramModel>
