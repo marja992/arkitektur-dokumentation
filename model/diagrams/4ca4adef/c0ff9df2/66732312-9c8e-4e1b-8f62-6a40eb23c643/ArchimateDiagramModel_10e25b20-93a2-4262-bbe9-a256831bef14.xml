@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kontohanteringssystem, Studiedokumentation sambandsvy"
+    name="Kontohanteringssystem och Studiedokumentation, informationsförsörjning, logisk modell"
     id="10e25b20-93a2-4262-bbe9-a256831bef14">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

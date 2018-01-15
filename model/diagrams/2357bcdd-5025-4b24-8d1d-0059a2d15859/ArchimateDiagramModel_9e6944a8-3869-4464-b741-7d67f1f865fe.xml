@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tillämpningsarkitektur för Utbildning (N1)"
+    name="Utbildning (N1)"
     id="9e6944a8-3869-4464-b741-7d67f1f865fe"
     viewpoint="application_cooperation">
   <children
@@ -298,11 +298,20 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_6843a1b6-9f29-4d9f-93d6-e32e1d2163ff.xml#6843a1b6-9f29-4d9f-93d6-e32e1d2163ff"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="7d06da26-ee07-4cf5-af89-237943f4ac6f"
+          source="202a16d9-13e4-4ab1-bc0e-04b04f2975b8"
+          target="9b1c8501-a73f-4623-b33e-d8dd9cdc845a">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_b34457ed-b4d1-429f-9dee-a594fbc67514.xml#b34457ed-b4d1-429f-9dee-a594fbc67514"/>
+      </sourceConnections>
       <bounds
           x="48"
           y="456"
           width="385"
-          height="352"/>
+          height="373"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="972ccd46-0af0-42bc-a8fd-373b736cbe22"
@@ -368,6 +377,19 @@
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_14835cf6-2a22-4f4e-b443-98ffcc7e0d85.xml#14835cf6-2a22-4f4e-b443-98ffcc7e0d85"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="9b1c8501-a73f-4623-b33e-d8dd9cdc845a"
+          targetConnections="7d06da26-ee07-4cf5-af89-237943f4ac6f">
+        <bounds
+            x="36"
+            y="300"
+            width="157"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_110b9519.xml#110b9519"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_95683c00.xml#95683c00"/>
@@ -428,7 +450,7 @@
           x="456"
           y="660"
           width="385"
-          height="148"/>
+          height="169"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="6fa40605-7296-4fe3-8ee4-e8eb16fb34bd"

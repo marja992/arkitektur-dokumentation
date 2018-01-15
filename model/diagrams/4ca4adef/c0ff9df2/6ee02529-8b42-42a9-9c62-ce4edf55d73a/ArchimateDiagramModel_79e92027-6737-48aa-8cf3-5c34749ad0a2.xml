@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beställ IT-tjänst, implementerat IT-stöd"
     id="79e92027-6737-48aa-8cf3-5c34749ad0a2"
-    viewpoint="technology_usage">
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="cd358b23-b376-43e1-a9cf-11382734d9f1"

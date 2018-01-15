@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reaktion"
     id="15c77c7b-bbcb-4552-abb4-10fc620302c6">
   <source
       xsi:type="archimate:TechnologyService"

@@ -222,9 +222,9 @@
         targetConnections="604c39f3-951c-4421-b0d9-afea912acd98 7327529f-72e0-4991-8ac8-ba81c8a7658e dcb39664-d25e-4102-a06c-c2780a1f4527 59b2d85c-3ab4-4d87-9e43-9a3f0006e4df"
         textPosition="1">
       <bounds
-          x="324"
+          x="288"
           y="108"
-          width="120"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Målbild för centraliserad grupphantering"
     id="40d2f16f"
-    viewpoint="motivation">
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fc6126f6"
