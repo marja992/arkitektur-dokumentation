@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrationsplattform"
-    id="f9972f06-4c2c-476f-a4cb-cc9d0d401532"/>
+    id="f9972f06-4c2c-476f-a4cb-cc9d0d401532"
+    documentation="The application platform (as defined in [TOGAF]) is the collection of technology components of hardware and software that provide the services used to support applications.&#xA;&#xA;http://www.opengroup.org/openplatform3.0/op3-snapshot/p6.htm"/>

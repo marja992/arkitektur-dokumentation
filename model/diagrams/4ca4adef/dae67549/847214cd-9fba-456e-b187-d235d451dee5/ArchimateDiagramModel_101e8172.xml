@@ -18,8 +18,8 @@
           href="TriggeringRelationship_0c63e888.xml#0c63e888"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="468"
+        x="76"
+        y="400"
         width="151"
         height="55"/>
     <archimateElement
@@ -42,8 +42,8 @@
           href="FlowRelationship_551c144c.xml#551c144c"/>
     </sourceConnections>
     <bounds
-        x="600"
-        y="455"
+        x="520"
+        y="387"
         width="139"
         height="81"/>
     <archimateElement
@@ -57,8 +57,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1344"
-        y="468"
+        x="1264"
+        y="400"
         width="169"
         height="55"/>
     <archimateElement
@@ -78,8 +78,8 @@
           href="AssignmentRelationship_ba10d1c4.xml#ba10d1c4"/>
     </sourceConnections>
     <bounds
-        x="1129"
-        y="92"
+        x="1049"
+        y="24"
         width="139"
         height="55"/>
     <archimateElement
@@ -99,8 +99,8 @@
           href="AssignmentRelationship_82323e57.xml#82323e57"/>
     </sourceConnections>
     <bounds
-        x="644"
-        y="92"
+        x="564"
+        y="24"
         width="139"
         height="55"/>
     <archimateElement
@@ -120,8 +120,8 @@
           href="AssignmentRelationship_7af6625f.xml#7af6625f"/>
     </sourceConnections>
     <bounds
-        x="897"
-        y="92"
+        x="817"
+        y="24"
         width="139"
         height="55"/>
     <archimateElement
@@ -141,8 +141,8 @@
           href="AssignmentRelationship_25e6b2a8.xml#25e6b2a8"/>
     </sourceConnections>
     <bounds
-        x="412"
-        y="92"
+        x="332"
+        y="24"
         width="139"
         height="55"/>
     <archimateElement
@@ -165,8 +165,8 @@
           href="FlowRelationship_2e62f643.xml#2e62f643"/>
     </sourceConnections>
     <bounds
-        x="1107"
-        y="455"
+        x="1027"
+        y="387"
         width="139"
         height="81"/>
     <archimateElement
@@ -182,8 +182,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="672"
-        y="583"
+        x="592"
+        y="515"
         width="333"
         height="117"/>
     <archimateElement
@@ -233,8 +233,8 @@
           href="AssociationRelationship_008656dd-32fb-470e-bea3-170ed600aad2.xml#008656dd-32fb-470e-bea3-170ed600aad2"/>
     </sourceConnections>
     <bounds
-        x="113"
-        y="247"
+        x="33"
+        y="179"
         width="1550"
         height="187"/>
     <children

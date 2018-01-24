@@ -138,6 +138,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="98afa193-0e8c-4464-bec7-cc4f5115b145"
           targetConnections="b6463970-0593-40a9-b8d9-9542b0dd4756 930b9caf-d743-4ddf-adf2-565c1b9325f1 e67f0a7b-fea8-42b4-844c-f8041f90b32e fed50e0a-7b56-4dae-95e4-9459aadd68ac"
+          font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
           textPosition="1"
           type="1">
         <bounds
