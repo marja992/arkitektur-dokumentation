@@ -256,15 +256,6 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4ade4cce"
-        source="072c5c40"
-        target="4acd71bf">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_66da001b.xml#66da001b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="034513f0"
         source="072c5c40"
         target="6fc1d7f1">
@@ -279,30 +270,8 @@
         height="219"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="4acd71bf"
-        targetConnections="4ade4cce">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="c9b6f98e"
-          source="4acd71bf"
-          target="6fc1d7f1">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_20b48083.xml#20b48083"/>
-      </sourceConnections>
-      <bounds
-          x="60"
-          y="146"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_bcb8cfaf.xml#bcb8cfaf"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="6fc1d7f1"
-        targetConnections="c9b6f98e 034513f0">
+        targetConnections="034513f0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="47a8019e"
