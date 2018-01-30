@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalisering av innehåll"
+    id="6db8d865-d244-411e-acae-62ef4e084d06"
+    documentation="The ability to enable content administrators and business users to direct relevant content and information to anonymous (non-logged-in) audiences, based on context cues such as location awareness, type of device and browser history.&#xA;&#xA;The ability to enable personalization through a variety of static user-centric attributes, dynamic session-centric attributes, collaborative filtering or social relationships."/>

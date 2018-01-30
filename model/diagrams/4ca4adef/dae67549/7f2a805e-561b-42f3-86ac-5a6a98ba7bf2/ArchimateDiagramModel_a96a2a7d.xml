@@ -81,12 +81,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="567f14cd-6023-415c-beaf-496c45473ecc"
+        id="fc461e9f-b229-4789-af6f-6e963b816c77"
         source="de2d81ea"
-        target="3329dc34">
+        target="f182cb2c-c185-4fda-a925-229dc208cb0b">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_e7c442b4-31b8-41f4-a3fc-64a9efcdc8f3.xml#e7c442b4-31b8-41f4-a3fc-64a9efcdc8f3"/>
+          href="CompositionRelationship_f6a84897-5172-4811-9e6e-23d6bccb7c3e.xml#f6a84897-5172-4811-9e6e-23d6bccb7c3e"/>
     </sourceConnections>
     <bounds
         x="108"
@@ -258,7 +258,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e02536de"
-        targetConnections="26c875db 89fc9da9 02d9c633-c724-4baa-a859-80700ca273d0">
+        targetConnections="89fc9da9 02d9c633-c724-4baa-a859-80700ca273d0 db1a9ab7-ba8f-491e-aa93-da8823b02d3c">
       <bounds
           x="525"
           y="36"
@@ -301,25 +301,25 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="3329dc34"
-        targetConnections="567f14cd-6023-415c-beaf-496c45473ecc">
+        id="f182cb2c-c185-4fda-a925-229dc208cb0b"
+        targetConnections="fc461e9f-b229-4789-af6f-6e963b816c77">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="26c875db"
-          source="3329dc34"
+          id="db1a9ab7-ba8f-491e-aa93-da8823b02d3c"
+          source="f182cb2c-c185-4fda-a925-229dc208cb0b"
           target="e02536de">
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_a6e13ada.xml#a6e13ada"/>
+            href="AssignmentRelationship_a2e10962-1266-40b1-8a40-d22d07f77683.xml#a2e10962-1266-40b1-8a40-d22d07f77683"/>
       </sourceConnections>
       <bounds
           x="530"
-          y="180"
+          y="146"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_2c60cee8.xml#2c60cee8"/>
+          href="ApplicationInterface_c20915f9.xml#c20915f9"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"

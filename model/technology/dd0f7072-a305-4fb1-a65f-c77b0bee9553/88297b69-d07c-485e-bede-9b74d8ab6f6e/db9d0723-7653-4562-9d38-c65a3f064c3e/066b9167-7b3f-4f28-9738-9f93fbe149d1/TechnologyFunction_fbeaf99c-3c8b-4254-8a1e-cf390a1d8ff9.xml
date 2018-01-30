@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitorering och analys av webbplatsbesök"
+    id="fbeaf99c-3c8b-4254-8a1e-cf390a1d8ff9"
+    documentation="The ability to provide analytics geared to monitoring, measuring and improving the business outcomes of DXP efforts.&#xA;&#xA;The ability to provide or support optimization techniques such as split A/B testing and multivariate testing."/>

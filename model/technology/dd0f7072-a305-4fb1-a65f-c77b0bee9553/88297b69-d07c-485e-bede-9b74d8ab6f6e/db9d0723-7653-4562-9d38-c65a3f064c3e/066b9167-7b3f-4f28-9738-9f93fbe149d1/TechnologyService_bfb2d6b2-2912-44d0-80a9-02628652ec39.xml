@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hantering av innehåll"
+    id="bfb2d6b2-2912-44d0-80a9-02628652ec39"
+    documentation="The ability to create, organize and publish content assets, including text, images and rich media, in the context of the digital experience.&#xA;&#xA;The ability to configure workflow for content review, approval, scheduling and publishing.&#xA;&#xA;"/>

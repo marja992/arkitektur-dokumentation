@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Säkerhets-administration"
+    id="897a959d-185d-4f73-83a1-4323a946440c"
+    documentation="The ability to manage access rights and privileges by individual, group or role.&#xA;&#xA;The ability to provide single sign-on for access to aggregated and/or linked applications, resources and services."/>
