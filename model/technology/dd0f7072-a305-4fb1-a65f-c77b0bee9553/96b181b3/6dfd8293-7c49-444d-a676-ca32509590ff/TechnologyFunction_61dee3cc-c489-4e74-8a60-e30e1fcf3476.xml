@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Egenutvecklat datauttag/insättning (N4)"
-    id="61dee3cc-c489-4e74-8a60-e30e1fcf3476"/>
+    name="Rutin för datauttag/insättning (N4)"
+    id="61dee3cc-c489-4e74-8a60-e30e1fcf3476"
+    documentation="Rutin för datauttag/insättning är översatt från &quot;Import&quot; and &quot;Export&quot; från integrationsstilen &quot;File Transfer&quot; -> http://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html."/>

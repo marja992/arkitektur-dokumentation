@@ -1,4 +1,9 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Central grupphantering för studenter försörjt av UPPDOK"
-    id="12cb732d"/>
+    id="12cb732d"
+    documentation="https://jira.its.uu.se/jira/issues/?jql=Project%20%3D%20LTI%20and%20type%20%3D%20Epic%20and%20fixVersion%20%3D%20%221%20CGH%20Ladok2%2FUPPDOK%20(%5C%22Fas%201%5C%22)%22">
+  <properties
+      key="Jira Board"
+      value="https://jira.its.uu.se/jira/issues/?jql=Project%20%3D%20LTI%20and%20type%20%3D%20Epic%20and%20fixVersion%20%3D%20%221%20CGH%20Ladok2%2FUPPDOK%20(%5C%22Fas%201%5C%22)%22"/>
+</archimate:WorkPackage>

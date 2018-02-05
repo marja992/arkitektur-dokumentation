@@ -1,4 +1,9 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Distribution av studiedokumentationshändelser"
-    id="a44c925c-b89d-4702-bd50-4f3eed833db0"/>
+    name="Distribution av studiedokumentations-händelser"
+    id="a44c925c-b89d-4702-bd50-4f3eed833db0"
+    documentation="https://jira.its.uu.se/jira/browse/LTI-138">
+  <properties
+      key="Jira Epic"
+      value="https://jira.its.uu.se/jira/browse/LTI-138"/>
+</archimate:Deliverable>

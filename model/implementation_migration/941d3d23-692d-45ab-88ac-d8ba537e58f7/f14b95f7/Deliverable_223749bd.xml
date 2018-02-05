@@ -1,4 +1,8 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Händelseanpassning för UPPDOK"
-    id="223749bd"/>
+    id="223749bd">
+  <properties
+      key="Jira Epic"
+      value="https://jira.its.uu.se/jira/browse/LTI-136"/>
+</archimate:Deliverable>
