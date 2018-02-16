@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beställ IT-tjänst, problembild med flera olika implementationer"
+    name="IT-tjänst, Beställ IT-tjänst, Service blueprint"
     id="b56f2c8e-084f-4577-b935-c3edb51d38fd"
     viewpoint="service_realization">
   <children
@@ -134,10 +134,10 @@
           source="dec8b916-fed5-4cea-ab47-a38f2c048a93"
           target="fa2adc15-3a94-4c49-a6f7-bba1ea7ad9f5">
         <bendpoints
-            startX="-17"
-            startY="142"
-            endX="247"
-            endY="-2"/>
+            startX="-16"
+            startY="147"
+            endX="248"
+            endY="2"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_7d9446c7-f6a3-4ea4-94b1-f8b4a4fa734b.xml#7d9446c7-f6a3-4ea4-94b1-f8b4a4fa734b"/>
@@ -218,9 +218,9 @@
           source="2a7db67c-9c73-4456-a32a-66c586023a44"
           target="cf2af11c-18b1-4a75-84d5-a09c62d1f4ac">
         <bendpoints
-            startX="-5"
+            startX="-7"
             startY="-50"
-            endX="-245"
+            endX="-247"
             endY="-2"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -275,9 +275,8 @@
           target="2a7db67c-9c73-4456-a32a-66c586023a44">
         <bendpoints
             startX="-245"
-            startY="-2"
             endX="-5"
-            endY="142"/>
+            endY="145"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_3eac29ed-c217-49ba-80e9-d4bb4220c386.xml#3eac29ed-c217-49ba-80e9-d4bb4220c386"/>
@@ -852,9 +851,9 @@
           source="5c1a769a-6ae5-4f86-999a-d0be9f5e98b7"
           target="6df782bd-54e3-495f-8659-dc75c97536f8">
         <bendpoints
-            startX="-4"
-            startY="-74"
-            endX="-132"
+            startX="2"
+            startY="-73"
+            endX="-125"
             endY="154"/>
         <bendpoints
             startX="128"
@@ -882,7 +881,7 @@
       id="3dd3c768-8a0d-4462-b832-b4be0d1c0395"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänster, Beställ IT-tjänst, Problembild med flera olika implementationer&#xA;2017-12-16">
+      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänst, Beställ IT-tjänst, Service blueprint&#xA;2017-12-16">
     <bounds
         x="12"
         y="12"

@@ -1,12 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bidrar till och beslutar"
+    name="beslutar"
     id="e9716d9b">
   <source
       xsi:type="archimate:BusinessCollaboration"
       href="BusinessCollaboration_f40e081b.xml#f40e081b"/>
   <target
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_60384b0f-c107-478a-83cb-9911b85f4328.xml#60384b0f-c107-478a-83cb-9911b85f4328"/>
+      xsi:type="archimate:Contract"
+      href="Contract_8016b6c4-234c-4ee0-9565-097e74b55e58.xml#8016b6c4-234c-4ee0-9565-097e74b55e58"/>
 </archimate:AccessRelationship>

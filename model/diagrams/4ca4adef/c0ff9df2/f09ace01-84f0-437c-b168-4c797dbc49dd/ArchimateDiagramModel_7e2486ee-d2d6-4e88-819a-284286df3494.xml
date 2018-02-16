@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT-avdelningens beslutsprocess inkl. strategiskt IT-arbete"
+    name="IT-avdelningens beslutsprocess"
     id="7e2486ee-d2d6-4e88-819a-284286df3494"
     documentation="Enda beslutsfattande instans vid IT-avdelningen är IT-avdelningens ledningsgrupp. Förutbestämda beslutsområden är:&#xA; - e-förvaltningsplaner&#xA; - projektplaner&#xA; - arkitekturstyrmodell&#xA;&#xA;Vidare finns andra oförutsedda frågor som behöver beslut vilka också via IT-avdelningens beslutsprocess kan hantera."
     viewpoint="business_process_cooperation">
