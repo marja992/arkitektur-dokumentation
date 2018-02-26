@@ -120,7 +120,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e898cf64"
-        targetConnections="767ceda7 4a069bef">
+        targetConnections="4a069bef">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2f9b7770"
@@ -197,15 +197,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="abb0fcc5"
         targetConnections="58e7bebe-aa39-4c12-891d-a195a8461d35">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="767ceda7"
-          source="abb0fcc5"
-          target="e898cf64">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_c98c123e.xml#c98c123e"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="868ba7ef"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beställ IT-tjänst"
+    name="IT-tjänst, Beställ IT-tjänst, Tjänstedesign"
     id="6308f363-a2b2-43f7-9591-75c73430cb96"
     viewpoint="service_realization">
   <children
@@ -173,9 +173,9 @@
         textPosition="1"
         type="1">
       <bounds
-          x="276"
+          x="264"
           y="48"
-          width="156"
+          width="168"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -304,9 +304,9 @@
             href="AssociationRelationship_86b72dba-f762-4716-a682-fb947102cca4.xml#86b72dba-f762-4716-a682-fb947102cca4"/>
       </sourceConnections>
       <bounds
-          x="276"
+          x="264"
           y="132"
-          width="156"
+          width="168"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -874,7 +874,7 @@
       id="4ab6be54-2958-461b-a9e2-0214f4128bdb"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänster, Beställ IT-tjänst&#xA;2017-12-16">
+      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänst, Beställ IT-tjänst, Tjänstedesign&#xA;2017-12-16">
     <bounds
         x="12"
         y="12"

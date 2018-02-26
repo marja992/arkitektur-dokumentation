@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Catalogue (ITIL)"
-    id="55cdbda7-9922-41c9-acdb-f40ada87e42c"/>
+    name="Universitetsgemensamma IT-tjänster (ITIL)"
+    id="55cdbda7-9922-41c9-acdb-f40ada87e42c"
+    documentation="I ITIL benämnd som Service Catalogue.&#xA;&#xA;Delegationen för området definieras i arbetsordningen enligt:&#xA;- utarbeta strategier och svara för utveckling, utbyggnad, drift och underhåll av gemensamma IT-tjänster och IT-infrastruktur"/>

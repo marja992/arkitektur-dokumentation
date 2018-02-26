@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT-tjänst, Beställ IT-tjänst, Service blueprint"
+    name="IT-tjänst, Beställ IT-tjänst, Tjänstedesign"
     id="b56f2c8e-084f-4577-b935-c3edb51d38fd"
     viewpoint="service_realization">
   <children
@@ -881,7 +881,7 @@
       id="3dd3c768-8a0d-4462-b832-b4be0d1c0395"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänst, Beställ IT-tjänst, Service blueprint&#xA;2017-12-16">
+      content="Uppsala universitet, IT-avdelningen&#xA;IT-tjänst, Beställ IT-tjänst, Tjänstedesign&#xA;2017-12-16">
     <bounds
         x="12"
         y="12"
