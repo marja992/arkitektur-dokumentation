@@ -1,4 +1,5 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stabil IT-miljö"
-    id="0d928fcb"/>
+    id="0d928fcb"
+    documentation="En grundsten för en högkvalitativ leverans av IT-tjänster är en stabil IT-miljö - en IT-miljö utan oplanerade driftsstopp, minimal planerad otillgänglighet samt förväntade följdeffekter vid förändringar. Design och implementation av IT-infrastruktur och IT-tjänster ska alltid beakta IT-miljöns stabilitet."/>

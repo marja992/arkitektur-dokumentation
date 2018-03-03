@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Model (ITIL)"
+    id="690a8d05-39e5-4738-bd61-e09aad9e7639"
+    documentation="A Service Model is a high-level description of a service and the components required to deliver that service. The main purpose of Service Models is to facilitate an understanding of what service components, assets and other resources are necessary to create the service, including their interactions. Service Models are a valuable tool for understanding the impact of proposed new or changed services on other services at an early stage. (Note: New output in ITIL 2011.)"/>

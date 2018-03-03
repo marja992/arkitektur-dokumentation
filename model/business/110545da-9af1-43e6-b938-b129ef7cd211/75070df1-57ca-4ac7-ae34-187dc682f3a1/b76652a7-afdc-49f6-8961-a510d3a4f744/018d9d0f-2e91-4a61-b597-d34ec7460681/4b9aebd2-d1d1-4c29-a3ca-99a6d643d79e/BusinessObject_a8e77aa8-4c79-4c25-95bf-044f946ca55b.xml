@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Charter (ITIL)"
+    id="a8e77aa8-4c79-4c25-95bf-044f946ca55b"
+    documentation="The Service Charter is a high-level description of a new or substantially changed service and the approach to build that service. In particular, the Service Charter outlines the deliverables to be created during the service implementation project, the required resources, and an initial project schedule. Service Charters are passed to Service Design to initiate the detailed design of the new or changed service. (Note: New output in ITIL 2011.)"/>

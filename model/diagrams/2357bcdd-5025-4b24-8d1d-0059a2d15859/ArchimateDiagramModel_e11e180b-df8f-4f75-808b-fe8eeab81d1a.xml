@@ -88,15 +88,15 @@
         href="ApplicationComponent_56228f55.xml#56228f55"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e96beead-0703-48f9-8bcc-faf774ccdfb1">
+      xsi:type="archimate:DiagramModelReference"
+      id="3c98b61a-5c34-4de6-9425-1bfb2ae8685f">
     <bounds
         x="348"
         y="236"
         width="120"
         height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_ad70728b.xml#ad70728b"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_9e6944a8-3869-4464-b741-7d67f1f865fe.xml#9e6944a8-3869-4464-b741-7d67f1f865fe"/>
   </children>
 </archimate:ArchimateDiagramModel>

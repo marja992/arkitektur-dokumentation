@@ -1920,9 +1920,9 @@
             href="AggregationRelationship_9bc53674-796e-4b66-a272-a780f8239721.xml#9bc53674-796e-4b66-a272-a780f8239721"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="768"
           y="48"
-          width="169"
+          width="217"
           height="97"/>
       <archimateElement
           xsi:type="archimate:Plateau"

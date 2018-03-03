@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT-användare"
+    name="elektronisk identitet"
     id="97045bc2"
     documentation="Informationsområdet definieras av digital identitetsinformation (ex. användarnamn, lösenord etc.) för personer och system som använder IT vid universitet kopplat till vad identiteten får göra i IT-miljön (ex. behörighet etc.) samt historik för användning (ex. inloggningar etc.)."/>

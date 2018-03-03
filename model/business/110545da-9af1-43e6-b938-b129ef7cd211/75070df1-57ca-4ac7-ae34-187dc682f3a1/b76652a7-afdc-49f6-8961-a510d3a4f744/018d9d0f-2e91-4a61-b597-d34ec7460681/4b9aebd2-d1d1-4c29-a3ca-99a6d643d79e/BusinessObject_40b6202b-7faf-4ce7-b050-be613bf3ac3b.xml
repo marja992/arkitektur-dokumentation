@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Proposal (ITIL)"
+    id="40b6202b-7faf-4ce7-b050-be613bf3ac3b"
+    documentation="A Change Proposal describes a proposed major Change, like the introduction of a new service or a substantial change to an existing service. The purpose of Change Proposals is to communicate a proposed major Change and assess its risk, impact and feasibility before design activities begin. Change Proposals are typically created in Service Portfolio Management."/>
