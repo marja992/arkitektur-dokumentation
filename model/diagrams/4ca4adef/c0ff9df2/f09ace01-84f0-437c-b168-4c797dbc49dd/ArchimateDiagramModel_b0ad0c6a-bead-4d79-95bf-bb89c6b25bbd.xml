@@ -305,25 +305,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="43dd3e02-77c3-4ac5-986c-fcdf60e99223"
-        source="63c4d22b-f526-4b69-b84d-78172ffc7792"
-        target="7353a3ff-139f-4726-b23e-1f251b18a3f6">
-      <bendpoints
-          startX="112"
-          startY="-14"
-          endX="-156"
-          endY="22"/>
-      <bendpoints
-          startX="160"
-          startY="-38"
-          endX="-107"
-          endY="-2"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_d7c7f1fb-af8d-4b88-a852-494c3a279841.xml#d7c7f1fb-af8d-4b88-a852-494c3a279841"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="e3506c5c-9bd1-4dc2-b95e-f094034fc3c1"
         source="63c4d22b-f526-4b69-b84d-78172ffc7792"
         target="f369f7b0-b9b7-4e0e-b05e-a9f5a781c141">
@@ -548,7 +529,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7353a3ff-139f-4726-b23e-1f251b18a3f6"
-      targetConnections="43dd3e02-77c3-4ac5-986c-fcdf60e99223"
       textPosition="1"
       type="1">
     <bounds

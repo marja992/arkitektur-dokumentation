@@ -22,8 +22,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="84"
-        y="792"
+        x="48"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -133,8 +133,8 @@
           href="RealizationRelationship_f7934454-e3b1-4e36-bd07-f93e37ffe544.xml#f7934454-e3b1-4e36-bd07-f93e37ffe544"/>
     </sourceConnections>
     <bounds
-        x="72"
-        y="912"
+        x="36"
+        y="468"
         width="1621"
         height="193"/>
     <archimateElement
@@ -184,8 +184,8 @@
           href="AggregationRelationship_f6076bf4-f02b-47c0-b74f-ccf3c11c1cbd.xml#f6076bf4-f02b-47c0-b74f-ccf3c11c1cbd"/>
     </sourceConnections>
     <bounds
-        x="875"
-        y="672"
+        x="839"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -199,8 +199,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="804"
-        y="792"
+        x="768"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -214,8 +214,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="948"
-        y="792"
+        x="912"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -228,8 +228,8 @@
       textAlignment="1"
       content="Från &quot;verksamhetsplanen&quot; för IT-staben:&#xD;&#xA;IT-staben är en avdelningsövergripande enhet vid IT-avdelningen med huvudfokus på beslutsstöd, leveransstöd och metodstöd. IT-stabens uppdrag är att driva utformningen av dessa områden, vägleda utifrån beslutade strategier och riktlinjer samt stödja i form av metodstöd och processer. Utöver detta arbetar vi även med resursförstärkning.&#xD;&#xA;&#xD;&#xA;Beslutsstöd: &#xA; - IT-portfölj, &#xA; - IT-tjänster, &#xA; - IT-arkitektur och &#xA; - IT-avdelningens beslutsprocess (administration?). &#xA;&#xA;Leveransstöd:&#xA; - avrops -och upphandlingsstöd, &#xA; - avtals- och licenshantering samt &#xA; - uppdragslåda. &#xA;&#xA;Metodstöd:&#xA; - e-förvaltning, &#xA; - metodportfölj och &#xA; - QA-process (kvalitetssäkring).&#xD;&#xA;">
     <bounds
-        x="1164"
-        y="60"
+        x="660"
+        y="696"
         width="442"
         height="409"/>
   </children>
@@ -239,8 +239,8 @@
       textAlignment="1"
       content="Från arbetsordningen:&#xA;&#xD;&#xA;- ha metodansvar för beslutad systemförvaltningsmodell, projektmetod och ramverk&#xD;&#xA;- utarbeta strategier för gemensamma IT-tjänster och IT-infrastruktur&#xD;&#xA;">
     <bounds
-        x="36"
-        y="84"
+        x="48"
+        y="696"
         width="601"
         height="80"/>
   </children>
@@ -250,8 +250,8 @@
       textAlignment="1"
       content="Från arbetsordningen:&#xA;&#xA;Generellt ges uppgiften till respektive avdelning att för sitt sakområde:&#xD;&#xA;&#xD;&#xA; - utforma riktlinjer och rutiner samt erbjuda utbildning och löpande information &#xD;&#xA; - ansvara för vidareutveckling, uppföljning och utvärdering&#xD;&#xA;">
     <bounds
-        x="36"
-        y="180"
+        x="48"
+        y="792"
         width="601"
         height="121"/>
   </children>
@@ -305,8 +305,8 @@
           href="AggregationRelationship_12d92eac-5e2f-4d5b-ad86-6f4819bd3daa.xml#12d92eac-5e2f-4d5b-ad86-6f4819bd3daa"/>
     </sourceConnections>
     <bounds
-        x="227"
-        y="672"
+        x="191"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -320,8 +320,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="228"
-        y="792"
+        x="192"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -367,8 +367,8 @@
           href="AggregationRelationship_d26d13ae-adc9-4d0d-b52a-13999b33a754.xml#d26d13ae-adc9-4d0d-b52a-13999b33a754"/>
     </sourceConnections>
     <bounds
-        x="588"
-        y="672"
+        x="552"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -382,8 +382,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="516"
-        y="792"
+        x="480"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -397,8 +397,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="660"
-        y="792"
+        x="624"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -443,8 +443,8 @@
           href="AggregationRelationship_deadab86-b79e-4e71-8451-1e50427b8929.xml#deadab86-b79e-4e71-8451-1e50427b8929"/>
     </sourceConnections>
     <bounds
-        x="1452"
-        y="552"
+        x="1416"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -457,8 +457,8 @@
       targetConnections="5057224a-c0bd-4346-8bc1-80db73e04d74 659ac319-68cc-4404-bdc3-90dc3cbf3e65"
       type="1">
     <bounds
-        x="1380"
-        y="792"
+        x="1344"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -471,8 +471,8 @@
       targetConnections="8749eade-d15c-4247-8f93-a04bc7b07b33 2760caf4-3d1e-4e54-992b-ae4805a03435"
       type="1">
     <bounds
-        x="1524"
-        y="792"
+        x="1488"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -485,8 +485,8 @@
       targetConnections="c61894fb-140d-4ed3-a0f8-1261ab8b0143 5767310a-8f7d-4070-ac13-4b23ea8ceac8"
       type="1">
     <bounds
-        x="372"
-        y="792"
+        x="336"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -532,8 +532,8 @@
           href="AggregationRelationship_386f9973-7fd9-4f4b-a834-b5adb9351be5.xml#386f9973-7fd9-4f4b-a834-b5adb9351be5"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="552"
+        x="372"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -579,8 +579,8 @@
           href="AggregationRelationship_3ff70107-a19e-4aec-ae19-529fab251e21.xml#3ff70107-a19e-4aec-ae19-529fab251e21"/>
     </sourceConnections>
     <bounds
-        x="1164"
-        y="672"
+        x="1128"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -626,8 +626,8 @@
           href="AggregationRelationship_36cd2042-52eb-4e99-ba11-8afcdd3e7e9f.xml#36cd2042-52eb-4e99-ba11-8afcdd3e7e9f"/>
     </sourceConnections>
     <bounds
-        x="1008"
-        y="552"
+        x="972"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -641,8 +641,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1092"
-        y="792"
+        x="1056"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -656,8 +656,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1236"
-        y="792"
+        x="1200"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
