@@ -1,5 +1,0 @@
-<archimate:Driver
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tillförlitliga medlemmar"
-    id="20a98801"
-    documentation="SWAMID ställer krav på alla ingående parter i identitetsfederationen för att identiteter inom federationen ska vara pålitliga. Det innebär exempelvis ett regelverk som definierar tillitsnivåer 1-3 (Assurance Level AL) och vad respektive ingående IdP måste uppfylla för de olika nivåerna."/>

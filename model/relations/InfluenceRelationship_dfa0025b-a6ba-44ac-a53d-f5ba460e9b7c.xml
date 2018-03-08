@@ -7,6 +7,6 @@
       xsi:type="archimate:Principle"
       href="Principle_66567945.xml#66567945"/>
   <target
-      xsi:type="archimate:Driver"
-      href="Driver_20a98801.xml#20a98801"/>
+      xsi:type="archimate:Requirement"
+      href="Requirement_0d29d811-0ac8-465f-b227-1da1c9ea9a98.xml#0d29d811-0ac8-465f-b227-1da1c9ea9a98"/>
 </archimate:InfluenceRelationship>
