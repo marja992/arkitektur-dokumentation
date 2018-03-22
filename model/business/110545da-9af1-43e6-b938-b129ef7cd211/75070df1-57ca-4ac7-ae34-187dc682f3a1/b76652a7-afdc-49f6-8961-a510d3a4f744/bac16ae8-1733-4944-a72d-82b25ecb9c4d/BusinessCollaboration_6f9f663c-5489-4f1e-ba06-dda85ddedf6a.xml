@@ -1,4 +1,8 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT Steering Group"
-    id="6f9f663c-5489-4f1e-ba06-dda85ddedf6a"/>
+    id="6f9f663c-5489-4f1e-ba06-dda85ddedf6a">
+  <properties
+      key="sv Name"
+      value="ansvarig"/>
+</archimate:BusinessCollaboration>

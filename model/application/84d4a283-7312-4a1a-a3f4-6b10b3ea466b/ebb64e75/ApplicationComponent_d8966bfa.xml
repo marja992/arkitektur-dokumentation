@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ekonomisystem"
-    id="d8966bfa"/>
+    id="d8966bfa">
+  <properties
+      key="Systemnamn"
+      value="Raindance"/>
+</archimate:ApplicationComponent>

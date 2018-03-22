@@ -1,4 +1,11 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisations- och personalkatalog (N3)"
-    id="db01c03a"/>
+    id="db01c03a">
+  <properties
+      key="label"
+      value="${property:${model:property:applang} Name}"/>
+  <properties
+      key="system Name"
+      value="AKKA"/>
+</archimate:ApplicationComponent>

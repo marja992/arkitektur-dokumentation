@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-avdelningen, Funktionen IT-support"
-    id="c13002e6-6dbe-4495-a8a4-ec18d167e26b">
+    id="c13002e6-6dbe-4495-a8a4-ec18d167e26b"
+    viewpoint="outcome_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="87426ae8-bfd5-4fc6-9eb5-e349ec93d54a"
@@ -68,7 +69,7 @@
         x="287"
         y="288"
         width="193"
-        height="193"/>
+        height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5ec176fc-45fa-4cad-80be-aa6e1219ce2f"
@@ -82,11 +83,20 @@
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_afe6389d-69e5-4b8f-a618-52f910ec0112.xml#afe6389d-69e5-4b8f-a618-52f910ec0112"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="24221323-2598-4caf-9e9f-21464c861ad3"
+          source="5ec176fc-45fa-4cad-80be-aa6e1219ce2f"
+          target="2e6ce27e-ac6b-46b8-9ddd-274a3b219ac9">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf.xml#8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf"/>
+      </sourceConnections>
       <bounds
           x="36"
           y="36"
           width="120"
-          height="55"/>
+          height="133"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_aece24e8-b027-4c0d-8c04-16bc48ca1fe3.xml#aece24e8-b027-4c0d-8c04-16bc48ca1fe3"/>
@@ -97,29 +107,20 @@
         targetConnections="93cf39c9-d173-4aa8-89a7-cd190a3fc522">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="24221323-2598-4caf-9e9f-21464c861ad3"
-          source="187ad9f6-29bf-4736-9cd1-45309aab20da"
-          target="2e6ce27e-ac6b-46b8-9ddd-274a3b219ac9">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf.xml#8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="1e8c6ad1-4181-426a-ad57-1e2c438d1183"
           source="187ad9f6-29bf-4736-9cd1-45309aab20da"
           target="c5440cf2-3a3b-4bfb-adb6-cca61d7e0556">
         <bendpoints
-            startX="-202"
+            startX="-203"
             startY="-3"
-            endY="189"/>
+            endY="261"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_7ec6bbb7-e295-4e50-99e3-bbd770421759.xml#7ec6bbb7-e295-4e50-99e3-bbd770421759"/>
       </sourceConnections>
       <bounds
-          x="35"
-          y="108"
+          x="36"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -166,7 +167,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2e6ce27e-ac6b-46b8-9ddd-274a3b219ac9"
-      targetConnections="24221323-2598-4caf-9e9f-21464c861ad3 475e5629-1357-4f58-b1d4-309abc439a9f"
+      targetConnections="475e5629-1357-4f58-b1d4-309abc439a9f 24221323-2598-4caf-9e9f-21464c861ad3"
       textPosition="1"
       type="1">
     <bounds
@@ -219,5 +220,16 @@
         y="12"
         width="361"
         height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1f785040-8207-4881-8501-be0056e074c2"
+      textAlignment="1"
+      content="Servicedesk&#xD;&#xA;-&#x9;OC/Incident&#xD;&#xA;-&#x9;1&#xD;&#xA;-&#x9;2&#xD;&#xA;-&#x9;Fältsupport UFV&#xD;&#xA;Klientstöd&#xD;&#xA;-&#x9;Fältsupport EP&#xD;&#xA;-&#x9;Klienthantering&#xD;&#xA;-&#x9;AV/VC-stöd&#xD;&#xA;Systemstöd&#xD;&#xA;-&#x9;Systemstöd&#xD;&#xA;-&#x9;Change&#xD;&#xA;-&#x9;Webbsupport&#xD;&#xA;E-lärande&#xD;&#xA;-&#x9;E-lärandestöd&#xD;&#xA;-&#x9;Laborativa lärosalen&#xD;&#xA;-&#x9;Lärande och utb.&#xD;&#xA;Teleservice&#xD;&#xA;-&#x9;Telefonisupport&#xD;&#xA;-&#x9;Debitering/avtal&#xD;&#xA;-&#x9;Telefoniprojekt&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="816"
+        y="48"
+        width="445"
+        height="709"/>
   </children>
 </archimate:ArchimateDiagramModel>

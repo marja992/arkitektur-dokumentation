@@ -3,4 +3,12 @@
     name="Uppsala universitet"
     id="7789a1d0"
     purpose="Beskriver Uppsala universitet som en arkitektur."
-    version="4.0.0"/>
+    version="4.0.0">
+  <properties
+      key="language"
+      value="sv"/>
+  <properties
+      key="applang"
+      value="system"/>
+  <metadata/>
+</archimate:ArchimateModel>

@@ -195,6 +195,19 @@
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_0a50c63b-63b5-4c99-8cfc-1ec12e632267.xml#0a50c63b-63b5-4c99-8cfc-1ec12e632267"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="93af84f0-d40d-4f0b-b2a7-b09ba33f4ed9"
+          fillColor="#b5ffff">
+        <bounds
+            x="372"
+            y="216"
+            width="25"
+            height="25"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_b56f2c8e-084f-4577-b935-c3edb51d38fd.xml#b56f2c8e-084f-4577-b935-c3edb51d38fd"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_f612e676-4bfb-449b-a224-f8411b2d039c.xml#f612e676-4bfb-449b-a224-f8411b2d039c"/>

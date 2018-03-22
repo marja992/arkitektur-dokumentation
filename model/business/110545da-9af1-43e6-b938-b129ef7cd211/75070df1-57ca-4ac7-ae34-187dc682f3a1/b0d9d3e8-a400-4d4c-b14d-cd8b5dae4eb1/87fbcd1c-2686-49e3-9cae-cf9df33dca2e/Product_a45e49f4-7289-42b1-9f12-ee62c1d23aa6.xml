@@ -1,4 +1,17 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Styrning vid IT-avdelningen (N2)"
-    id="a45e49f4-7289-42b1-9f12-ee62c1d23aa6"/>
+    id="a45e49f4-7289-42b1-9f12-ee62c1d23aa6">
+  <properties
+      key="label"
+      value="${property:${model:property:language} Name}"/>
+  <properties
+      key="en Name"
+      value="engelskt namn"/>
+  <properties
+      key="sv Name"
+      value="Styrning vid IT-avdelningen (N2)"/>
+  <properties
+      key="Nivå i stadsplan"
+      value="N2"/>
+</archimate:Product>

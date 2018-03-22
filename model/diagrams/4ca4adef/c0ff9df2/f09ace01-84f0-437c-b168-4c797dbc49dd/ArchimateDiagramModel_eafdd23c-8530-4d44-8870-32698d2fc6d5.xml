@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-avdelningen, Arbetsordning"
-    id="eafdd23c-8530-4d44-8870-32698d2fc6d5">
+    id="eafdd23c-8530-4d44-8870-32698d2fc6d5"
+    viewpoint="outcome_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fd2c7cab-89f3-4e32-b930-f9f19259a931"
@@ -476,6 +477,18 @@
         y="510"
         width="181"
         height="97"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="309badc5-6373-451c-a740-b1fbb247f7fe"
+        fillColor="#ffffb5">
+      <bounds
+          y="19"
+          width="25"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_7e2486ee-d2d6-4e88-819a-284286df3494.xml#7e2486ee-d2d6-4e88-819a-284286df3494"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_8f525209-8578-45c7-8baa-c240a815e6e1.xml#8f525209-8578-45c7-8baa-c240a815e6e1"/>
@@ -526,10 +539,22 @@
       targetConnections="f6083203-9d87-481a-a6a5-d976ee987081"
       textPosition="1">
     <bounds
-        x="300"
+        x="288"
         y="576"
-        width="133"
-        height="61"/>
+        width="157"
+        height="97"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="014c7fa8-1c7a-4adb-905d-76cdc96925d7"
+        fillColor="#ffffb5">
+      <bounds
+          y="12"
+          width="25"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_b0ad0c6a-bead-4d79-95bf-bb89c6b25bbd.xml#b0ad0c6a-bead-4d79-95bf-bb89c6b25bbd"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_8016b6c4-234c-4ee0-9565-097e74b55e58.xml#8016b6c4-234c-4ee0-9565-097e74b55e58"/>

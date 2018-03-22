@@ -273,7 +273,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="63ddeb55-93ad-483d-bcba-553cde18594c"
-          targetConnections="dc19bfcb-3e9e-48d1-841f-7190f5e1dd22 79271790-df59-4880-b409-b23cd180391c 85444b69-076f-414b-bbaa-81c54f88c53d"
+          targetConnections="79271790-df59-4880-b409-b23cd180391c 85444b69-076f-414b-bbaa-81c54f88c53d dc19bfcb-3e9e-48d1-841f-7190f5e1dd22"
           font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
           textPosition="1"
           type="1">
@@ -291,15 +291,6 @@
           id="11ef1bb0-699d-422e-9e71-5a4cbce32218"
           targetConnections="2a67e519-4de7-461e-8d3a-4bb32a694ad4"
           fillColor="#ffcc66">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="dc19bfcb-3e9e-48d1-841f-7190f5e1dd22"
-            source="11ef1bb0-699d-422e-9e71-5a4cbce32218"
-            target="63ddeb55-93ad-483d-bcba-553cde18594c">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf.xml#8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf"/>
-        </sourceConnections>
         <bounds
             x="552"
             y="264"
@@ -331,6 +322,15 @@
           <archimateRelationship
               xsi:type="archimate:AggregationRelationship"
               href="AggregationRelationship_45b8b698-ff5b-414f-822b-dfa54e2cb6bb.xml#45b8b698-ff5b-414f-822b-dfa54e2cb6bb"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="dc19bfcb-3e9e-48d1-841f-7190f5e1dd22"
+            source="0d555bf4-2b7b-4e92-b4ae-a5451a5165dd"
+            target="63ddeb55-93ad-483d-bcba-553cde18594c">
+          <archimateRelationship
+              xsi:type="archimate:RealizationRelationship"
+              href="RealizationRelationship_8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf.xml#8e3038b0-d3eb-42ac-bcf7-8b5ee3a2f4cf"/>
         </sourceConnections>
         <bounds
             x="67"

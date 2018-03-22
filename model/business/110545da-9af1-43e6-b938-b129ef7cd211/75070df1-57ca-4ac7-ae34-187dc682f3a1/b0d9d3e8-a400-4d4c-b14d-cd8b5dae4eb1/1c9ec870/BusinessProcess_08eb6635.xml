@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uppföljning och övervakning av behörighet i IT-system"
-    id="08eb6635"/>
+    name="Maintenance of Catalogue of User Roles and Access Profiles (ITIL)"
+    id="08eb6635">
+  <properties
+      key="sv_label"
+      value="Uppföljning och övervakning av behörighet i IT-system"/>
+</archimate:BusinessProcess>

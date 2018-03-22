@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ITIL, Huvudprocesser"
+    name="IT, Huvudprocesser (ITIL)"
     id="a44d2c48-0217-47ca-8d8b-a9178729ea80"
     viewpoint="business_process_cooperation">
   <children
@@ -33,8 +33,8 @@
         source="fdfa6b4c-2279-46c1-b22f-8b1112edb901"
         target="9762e4c4-52d5-4aa5-9a2f-1f45370c2678"/>
     <bounds
-        x="450"
-        y="417"
+        x="354"
+        y="393"
         width="181"
         height="103"/>
     <archimateElement
@@ -70,8 +70,8 @@
         source="10b4f7b6-8fda-4255-afaa-355bb592f8fb"
         target="796ac640-c8dc-4ee4-8338-0034ae705780"/>
     <bounds
-        x="744"
-        y="417"
+        x="648"
+        y="393"
         width="181"
         height="103"/>
     <archimateElement
@@ -103,10 +103,22 @@
         source="91dbcca7-1c61-482f-9f44-3b754b4d4d57"
         target="317dd6ce-cbcc-4e0e-b34a-aae9cbdb37e7"/>
     <bounds
-        x="1056"
-        y="417"
+        x="960"
+        y="393"
         width="181"
         height="103"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="1c88e998-b644-4a65-a82e-484b54e4cf87"
+        fillColor="#ffffb5">
+      <bounds
+          y="20"
+          width="25"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784.xml#f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_00309633-1a8f-4911-b0ec-d06797aca576.xml#00309633-1a8f-4911-b0ec-d06797aca576"/>
@@ -127,10 +139,22 @@
           href="FlowRelationship_23618fb2-afbc-40fc-9cb4-d7f56c1c2fd5.xml#23618fb2-afbc-40fc-9cb4-d7f56c1c2fd5"/>
     </sourceConnections>
     <bounds
-        x="120"
-        y="417"
+        x="24"
+        y="393"
         width="181"
         height="103"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="045c130d-bf6a-4beb-b68b-2791438664de"
+        fillColor="#ffffb5">
+      <bounds
+          y="20"
+          width="25"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_28e6ddfb-97ef-44d8-8a02-7401c0f7cb23.xml#28e6ddfb-97ef-44d8-8a02-7401c0f7cb23"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_d9eb5168-5ab2-4f69-a7d4-14f82e201b29.xml#d9eb5168-5ab2-4f69-a7d4-14f82e201b29"/>
@@ -179,10 +203,10 @@
           href="FlowRelationship_cc4fe4e7-2863-4a01-aaf4-d5fc7a526f5a.xml#cc4fe4e7-2863-4a01-aaf4-d5fc7a526f5a"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="132"
+        x="312"
+        y="72"
         width="877"
-        height="103"/>
+        height="193"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_b447fd70-516c-42e2-8f36-c130e3688e6b.xml#b447fd70-516c-42e2-8f36-c130e3688e6b"/>
@@ -209,8 +233,8 @@
         source="7c5618ce-a568-49d2-b3c3-7e9523772c4f"
         target="955745ee-c859-48ef-87f9-f17883db5816"/>
     <bounds
-        x="118"
-        y="576"
+        x="22"
+        y="552"
         width="183"
         height="80"/>
   </children>
@@ -221,8 +245,8 @@
       textAlignment="1"
       content="Vilka IT-provider services behövs, vilka finns och vilka måste tillföras?">
     <bounds
-        x="448"
-        y="576"
+        x="352"
+        y="552"
         width="177"
         height="80"/>
   </children>
@@ -233,8 +257,8 @@
       textAlignment="1"
       content="Dagligt arbete med att leverera enligt SLA.">
     <bounds
-        x="1056"
-        y="576"
+        x="960"
+        y="552"
         width="181"
         height="80"/>
   </children>
@@ -245,33 +269,9 @@
       textAlignment="1"
       content="Allt arbete som behöver genomföras för att baserat å en fastslagen design driftsätta en ny tjänst.">
     <bounds
-        x="742"
-        y="576"
+        x="646"
+        y="552"
         width="185"
         height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="1c88e998-b644-4a65-a82e-484b54e4cf87">
-    <bounds
-        x="1080"
-        y="672"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784.xml#f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="045c130d-bf6a-4beb-b68b-2791438664de">
-    <bounds
-        x="150"
-        y="684"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_28e6ddfb-97ef-44d8-8a02-7401c0f7cb23.xml#28e6ddfb-97ef-44d8-8a02-7401c0f7cb23"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lokaltillträde och Studiedokumentation, informationsförsörjning, logisk modell"
-    id="e9d17e0c-4860-435d-b6a7-ab83f9ebf7f8">
+    id="e9d17e0c-4860-435d-b6a7-ab83f9ebf7f8"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d8c80af2-9a3f-46f2-b4d2-d4f66b833dbb"
@@ -403,4 +404,7 @@
         xsi:type="archimate:DataObject"
         href="DataObject_d941201f.xml#d941201f"/>
   </children>
+  <properties
+      key="must replace labels"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

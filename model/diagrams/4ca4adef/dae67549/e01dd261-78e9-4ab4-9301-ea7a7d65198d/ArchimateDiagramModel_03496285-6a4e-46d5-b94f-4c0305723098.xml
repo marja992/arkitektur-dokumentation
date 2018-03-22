@@ -54,16 +54,16 @@
           href="AccessRelationship_2d9f84aa-ddfe-488c-a109-6ae7b8abd2d9.xml#2d9f84aa-ddfe-488c-a109-6ae7b8abd2d9"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="36"
         y="96"
-        width="721"
+        width="697"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c422a9b9-2873-4160-bdbb-c3d40dd7906c"
         targetConnections="fac2621b-dbf5-43e3-ab22-3f062fc986d8 741c0700-2099-4dba-a9f6-93b541a37050">
       <bounds
-          x="84"
+          x="60"
           y="48"
           width="241"
           height="55"/>
@@ -76,7 +76,7 @@
         id="4c077252-5463-4e32-b9b5-80a6e7f5e9c0"
         targetConnections="e4cae66b-ae1b-45a3-8e5a-bc489fdf8b0a f3c4a5db-2d5e-4e49-a58a-e3271e6ce6d0 69c19f9b-6846-4ffc-a764-6e3bdf85b513">
       <bounds
-          x="432"
+          x="408"
           y="48"
           width="241"
           height="55"/>

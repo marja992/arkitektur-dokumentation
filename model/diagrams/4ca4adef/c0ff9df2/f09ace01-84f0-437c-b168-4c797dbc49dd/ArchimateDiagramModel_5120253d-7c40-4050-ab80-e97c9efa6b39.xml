@@ -192,15 +192,20 @@
         id="af73ba61-e152-498c-89f6-a55dd0ed4123"
         source="f38fa7ce-1f00-4801-929e-d7fc40c7efc8"
         target="2fd6478a-2f4a-499f-b3ee-bbf1fee33b17">
+      <bendpoints
+          startX="293"
+          startY="-1"
+          endX="-296"
+          endY="2"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_e1c1a72b-2d5d-40cd-8bb7-587c300d75b2.xml#e1c1a72b-2d5d-40cd-8bb7-587c300d75b2"/>
     </sourceConnections>
     <bounds
         x="95"
-        y="432"
+        y="420"
         width="120"
-        height="55"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_d9eb5168-5ab2-4f69-a7d4-14f82e201b29.xml#d9eb5168-5ab2-4f69-a7d4-14f82e201b29"/>

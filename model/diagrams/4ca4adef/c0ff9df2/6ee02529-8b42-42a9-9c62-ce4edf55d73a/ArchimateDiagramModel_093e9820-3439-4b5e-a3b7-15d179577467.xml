@@ -2,7 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="UU, ITIL, Service Strategy, Service Portfolio Mangement, Define and Analyze new or changed Services"
-    id="093e9820-3439-4b5e-a3b7-15d179577467">
+    id="093e9820-3439-4b5e-a3b7-15d179577467"
+    documentation="Vyn beskriver UU:s implementation av ITIL-processen &quot;Define and Analyze New or Changed Services&quot;. "
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="7aba1e2a-f002-4708-9ac0-c223a42b926c"
@@ -451,4 +453,7 @@
         width="169"
         height="80"/>
   </children>
+  <properties
+      key="must replace labels"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

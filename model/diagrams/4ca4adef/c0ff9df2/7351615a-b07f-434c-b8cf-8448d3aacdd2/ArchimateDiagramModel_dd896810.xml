@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilldelning av behörighet i IT-system"
+    name="Tilldelning av behörighet i IT-system, Access Management (ITIL)"
     id="dd896810">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -273,4 +273,31 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="06c60034-9c3a-4e43-9ed6-429661d58cb3"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Uppsala universitet, IT-avdelningen&#xA;ITIL, Service Strategy, Service Operations, Access Management&#xA;2018-03-03">
+    <bounds
+        x="12"
+        y="12"
+        width="469"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="f2afb08c-bb9d-41c5-a550-a5a4151aad36">
+    <bounds
+        x="492"
+        y="12"
+        width="204"
+        height="36"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784.xml#f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784"/>
+  </children>
+  <properties
+      key="sv_label"
+      value="Tilldelning av behörighet i IT-system"/>
 </archimate:ArchimateDiagramModel>

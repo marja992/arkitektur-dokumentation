@@ -1,4 +1,11 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lokaltillträde (N3)"
-    id="bef411c3"/>
+    id="bef411c3">
+  <properties
+      key="system Name"
+      value="SESAM"/>
+  <properties
+      key="label"
+      value="${property:${model:property:applang} Name}"/>
+</archimate:ApplicationComponent>

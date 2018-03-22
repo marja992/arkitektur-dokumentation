@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ITIL, Service Strategy, Service Portfolio Management"
-    id="b095daaf-f457-4b67-bb8b-24c0074dbbc3">
+    id="b095daaf-f457-4b67-bb8b-24c0074dbbc3"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5d9a9951-5d84-4da7-8caf-de4488030d5d"
@@ -66,6 +67,18 @@
           y="168"
           width="193"
           height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="c2435fa9-c20d-4629-893a-450dd45dbd69"
+          fillColor="#ff9300">
+        <bounds
+            y="21"
+            width="25"
+            height="25"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_093e9820-3439-4b5e-a3b7-15d179577467.xml#093e9820-3439-4b5e-a3b7-15d179577467"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_3ae41220-8ab9-422a-86f3-b003f88de3eb.xml#3ae41220-8ab9-422a-86f3-b003f88de3eb"/>
@@ -160,18 +173,6 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_3262d8fd-6408-4cce-b7c2-b68c67c9019d.xml#3262d8fd-6408-4cce-b7c2-b68c67c9019d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="c2435fa9-c20d-4629-893a-450dd45dbd69">
-      <bounds
-          x="12"
-          y="36"
-          width="361"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_093e9820-3439-4b5e-a3b7-15d179577467.xml#093e9820-3439-4b5e-a3b7-15d179577467"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

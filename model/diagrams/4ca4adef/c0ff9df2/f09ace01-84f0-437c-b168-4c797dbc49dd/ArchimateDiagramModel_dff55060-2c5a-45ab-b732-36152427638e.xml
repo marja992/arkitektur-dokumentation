@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-avdelningen, Funktionen Drift"
-    id="dff55060-2c5a-45ab-b732-36152427638e">
+    id="dff55060-2c5a-45ab-b732-36152427638e"
+    viewpoint="outcome_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="41507feb-8dbd-40e4-b45b-d1af289d9fda"

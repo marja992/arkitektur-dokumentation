@@ -5,4 +5,10 @@
   <properties
       key="Stadsplan, nivå"
       value="3"/>
+  <properties
+      key="label"
+      value="${property:${model:property:applang} Name}"/>
+  <properties
+      key="system Name"
+      value="Nya Ladok"/>
 </archimate:ApplicationComponent>
