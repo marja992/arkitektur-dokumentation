@@ -1,0 +1,88 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Styrning och ledning"
+    id="d388812a-bb38-48e3-886b-be59591927aa">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bb5fa94b-8cdb-44c2-a213-52aa0eb8939e"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Uppsala universitet, Stadsplan&#xA;Funktionsarkitektur, Utbildning och ledning&#xA;2018-03-22">
+    <bounds
+        x="12"
+        y="12"
+        width="361"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="630352b8-d4a0-4829-ac15-4c680628fea6"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffffb5">
+    <bounds
+        x="36"
+        y="120"
+        width="229"
+        height="205"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_cc270338-cd6c-4a21-b639-333bef99ebe2.xml#cc270338-cd6c-4a21-b639-333bef99ebe2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b7ad540f-b1e5-42f2-8735-b879bdb98338"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffffb5">
+    <bounds
+        x="276"
+        y="120"
+        width="229"
+        height="205"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_b8df7bf3-9445-49d0-9910-ab741313a5bd.xml#b8df7bf3-9445-49d0-9910-ab741313a5bd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4105a02b-ccdc-4854-b95c-cd640670d71d"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffffb5">
+    <bounds
+        x="516"
+        y="120"
+        width="229"
+        height="205"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_d0f33398-cf3d-4ef1-80ce-872aa2bdb480.xml#d0f33398-cf3d-4ef1-80ce-872aa2bdb480"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="749fd0e8-da5e-4aba-ab80-b2bfdef63b9c"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffffb5">
+    <bounds
+        x="996"
+        y="120"
+        width="229"
+        height="205"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_8299080c-681c-4a87-bce3-d98ac8f5d384.xml#8299080c-681c-4a87-bce3-d98ac8f5d384"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="618a583b-91c2-4398-8f16-591da17cafae"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#ffffb5">
+    <bounds
+        x="756"
+        y="120"
+        width="229"
+        height="205"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_741cd814-81f4-431a-a8e1-588c83f2ed95.xml#741cd814-81f4-431a-a8e1-588c83f2ed95"/>
+  </children>
+</archimate:ArchimateDiagramModel>

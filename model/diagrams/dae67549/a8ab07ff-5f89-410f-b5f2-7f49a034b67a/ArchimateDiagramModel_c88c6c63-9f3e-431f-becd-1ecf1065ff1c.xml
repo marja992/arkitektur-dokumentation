@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-portfölj, Kommunikationsstöd och samverkan"
+    id="c88c6c63-9f3e-431f-becd-1ecf1065ff1c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0c6524c7-bea4-4247-a221-f8991b93e28b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="61c381c8-85cc-4cc8-b80c-6216f2034fb9"
+        source="0c6524c7-bea4-4247-a221-f8991b93e28b"
+        target="47b08da7-408e-46b2-aa59-a08945a91930">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_dc205c1e-2a47-4d38-aab8-9f0e5ea04858.xml#dc205c1e-2a47-4d38-aab8-9f0e5ea04858"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="48"
+        width="168"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_23d8aa4c-a12f-4b53-a7c0-5dd26f4a92df.xml#23d8aa4c-a12f-4b53-a7c0-5dd26f4a92df"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="47b08da7-408e-46b2-aa59-a08945a91930"
+      targetConnections="61c381c8-85cc-4cc8-b80c-6216f2034fb9">
+    <bounds
+        x="83"
+        y="204"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_f3a33e25-1630-43b5-8467-0ff805f70772.xml#f3a33e25-1630-43b5-8467-0ff805f70772"/>
+  </children>
+</archimate:ArchimateDiagramModel>
