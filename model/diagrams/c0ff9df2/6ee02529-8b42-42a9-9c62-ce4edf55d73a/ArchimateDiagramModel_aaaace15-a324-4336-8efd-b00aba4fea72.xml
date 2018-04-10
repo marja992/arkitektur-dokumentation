@@ -6,7 +6,8 @@
     viewpoint="outcome_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b3ddaf5d-a33c-45af-a032-bb90fc4d3856">
+      id="b3ddaf5d-a33c-45af-a032-bb90fc4d3856"
+      targetConnections="c4f6cdb4-cf97-4a99-aa8c-0b6fe862beca">
     <bounds
         x="156"
         y="624"
@@ -247,6 +248,15 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_dc0a95c2-e0a1-4423-aa32-df449952b0f5.xml#dc0a95c2-e0a1-4423-aa32-df449952b0f5"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c4f6cdb4-cf97-4a99-aa8c-0b6fe862beca"
+        source="44df1b08-1add-4b89-9e51-d2be5e56ae59"
+        target="b3ddaf5d-a33c-45af-a032-bb90fc4d3856">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_f3000c44-3ffc-447c-9e76-5b7dc4eb21ab.xml#f3000c44-3ffc-447c-9e76-5b7dc4eb21ab"/>
     </sourceConnections>
     <bounds
         x="204"

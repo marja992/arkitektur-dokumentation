@@ -602,6 +602,18 @@
         y="372"
         width="145"
         height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="514ce6e0-7f8d-4b3e-ad16-08464de827ea"
+        fillColor="#ffffb5">
+      <bounds
+          x="120"
+          width="25"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_0568d76b-4279-4c47-a447-82d3ce7d9911.xml#0568d76b-4279-4c47-a447-82d3ce7d9911"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_8e4acb1e-9f9c-4bef-8e4f-8e365720285f.xml#8e4acb1e-9f9c-4bef-8e4f-8e365720285f"/>
