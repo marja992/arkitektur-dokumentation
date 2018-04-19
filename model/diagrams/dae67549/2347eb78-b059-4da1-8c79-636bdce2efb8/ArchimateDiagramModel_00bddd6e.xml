@@ -2258,11 +2258,6 @@
           id="9e83ad66"
           source="751c9f98"
           target="6572f8c5">
-        <bendpoints
-            startX="35"
-            startY="104"
-            endX="-3"
-            endY="-71"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_e06cbeb0.xml#e06cbeb0"/>

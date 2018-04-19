@@ -173,7 +173,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3ceed446"
-      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#75d5ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cd429a46"
@@ -269,7 +270,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a07ae16d"
-      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#75d5ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d89e010b"
@@ -364,7 +366,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ac952e64"
-      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#75d5ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="92fa516d"
@@ -460,7 +463,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cc137424"
-      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold">
+      font="1|Lucida Grande|13.0|1|COCOA|1|LucidaGrande-Bold"
+      fillColor="#75d5ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1200db24"

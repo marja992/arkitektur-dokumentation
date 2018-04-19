@@ -69,15 +69,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="27e30d59-8b46-496c-9169-7fc9b1aabf01"
-        source="002f85ed"
-        target="cbe34cb9">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_60ccf2ca-94ab-4005-9045-930bd835b063.xml#60ccf2ca-94ab-4005-9045-930bd835b063"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="a76172be-5952-44f8-bf36-1a28e3e8e426"
         source="002f85ed"
         target="fbd8d2c5-f8a2-46da-9064-f3ba1902b206">
@@ -112,15 +103,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="61f7d6e0"
         targetConnections="4b55c4df-2aad-4b31-8835-add73a6b701f">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="81f95045"
-          source="61f7d6e0"
-          target="cbe34cb9">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_97f23355.xml#97f23355"/>
-      </sourceConnections>
       <bounds
           x="525"
           y="303"
@@ -134,15 +116,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1d2160ee"
         targetConnections="c377c95e-f2a1-472b-b0e9-f2e523ef68de">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="ca5bf9b5"
-          source="1d2160ee"
-          target="cbe34cb9">
-        <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_674d2b6f.xml#674d2b6f"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ab2cf7d0"
@@ -199,19 +172,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_7bddef1a.xml#7bddef1a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="cbe34cb9"
-        targetConnections="81f95045 27e30d59-8b46-496c-9169-7fc9b1aabf01 ca5bf9b5">
-      <bounds
-          x="525"
-          y="384"
-          width="130"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_4bd107b2.xml#4bd107b2"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
