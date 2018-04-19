@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="e-område, Katalog och integration"
-    id="0568d76b-4279-4c47-a447-82d3ce7d9911">
+    id="0568d76b-4279-4c47-a447-82d3ce7d9911"
+    viewpoint="outcome_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2e9cc05f-0f3c-4508-8f0c-48355353b123"

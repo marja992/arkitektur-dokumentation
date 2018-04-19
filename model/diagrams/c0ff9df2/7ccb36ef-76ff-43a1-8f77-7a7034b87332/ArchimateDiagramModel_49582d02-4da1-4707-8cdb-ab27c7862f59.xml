@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lärplattform, sambandsvy"
-    id="49582d02-4da1-4707-8cdb-ab27c7862f59">
+    id="49582d02-4da1-4707-8cdb-ab27c7862f59"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="df42a89a-0964-470a-8228-ea43bdfdfad1">

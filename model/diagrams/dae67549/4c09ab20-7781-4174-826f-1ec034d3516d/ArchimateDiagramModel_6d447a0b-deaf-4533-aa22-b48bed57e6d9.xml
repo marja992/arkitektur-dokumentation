@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schemaläggning, Sambandsvy"
-    id="6d447a0b-deaf-4533-aa22-b48bed57e6d9">
+    id="6d447a0b-deaf-4533-aa22-b48bed57e6d9"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cde1e79e-e33b-417b-a964-15e2a65be8c7"

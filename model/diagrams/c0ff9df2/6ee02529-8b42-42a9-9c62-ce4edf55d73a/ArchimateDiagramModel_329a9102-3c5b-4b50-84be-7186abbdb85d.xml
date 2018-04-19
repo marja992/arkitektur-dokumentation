@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-tjänst, Elektronisk identitet och behörighet"
-    id="329a9102-3c5b-4b50-84be-7186abbdb85d">
+    id="329a9102-3c5b-4b50-84be-7186abbdb85d"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="7c14f09e-6d40-4fcb-b2cb-c59ef990cc1c"

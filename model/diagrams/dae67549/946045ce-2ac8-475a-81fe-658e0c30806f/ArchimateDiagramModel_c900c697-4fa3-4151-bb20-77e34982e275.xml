@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Roller definierade i &quot;Systeminventering 2012&quot;"
     id="c900c697-4fa3-4151-bb20-77e34982e275"
-    documentation="En redaktör bestämmer och/eller redigerar informationsinnehåll i förmedlande media som exempelvis trycksaker, webb, Twitter etc.">
+    documentation="En redaktör bestämmer och/eller redigerar informationsinnehåll i förmedlande media som exempelvis trycksaker, webb, Twitter etc."
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8071464a-074e-4b52-b483-6aff8bb6faf3">

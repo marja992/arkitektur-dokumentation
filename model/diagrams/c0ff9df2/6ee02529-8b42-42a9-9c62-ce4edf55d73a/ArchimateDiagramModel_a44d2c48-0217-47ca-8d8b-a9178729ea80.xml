@@ -46,7 +46,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="10b4f7b6-8fda-4255-afaa-355bb592f8fb"
       targetConnections="2dad2b0b-6c2b-4b22-8112-7a13226d85c0 f0f8b0a1-84e8-4431-8699-9eeac97f6a3c"
-      fillColor="#feffff"
+      fillColor="#ffffb5"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -76,6 +76,18 @@
         y="393"
         width="181"
         height="103"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="80899d8c-634f-4066-9de9-be09a612d25c"
+        fillColor="#ffffb5">
+      <bounds
+          y="20"
+          width="25"
+          height="25"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_22690e71-6cc8-4275-8484-dd5cc6147074.xml#22690e71-6cc8-4275-8484-dd5cc6147074"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_0870ebe1-fef6-4e01-a315-62ce201e0673.xml#0870ebe1-fef6-4e01-a315-62ce201e0673"/>

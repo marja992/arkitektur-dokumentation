@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="UFV:s e-förvaltningsportfölj"
     id="6e146f65-175a-445a-8e03-bc00caa65131"
-    viewpoint="outcome_realization">
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="ac963e1b-aa0e-4ff9-8edd-d80b3bd9ea1d"

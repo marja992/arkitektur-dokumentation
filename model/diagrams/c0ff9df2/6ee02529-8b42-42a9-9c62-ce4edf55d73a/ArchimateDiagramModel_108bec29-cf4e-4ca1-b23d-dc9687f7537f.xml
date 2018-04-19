@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IT-tjänst, IT-infrastruktur"
-    id="108bec29-cf4e-4ca1-b23d-dc9687f7537f">
+    id="108bec29-cf4e-4ca1-b23d-dc9687f7537f"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="d47c043e-4c68-4334-ab77-8acee5c12bf4"

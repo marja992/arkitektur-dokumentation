@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="e-portfölj, Infrastruktur och säkerhet"
-    id="d75bf079-2535-4b9b-a52b-454dcec401af">
+    id="d75bf079-2535-4b9b-a52b-454dcec401af"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7e7b4a52-b38c-44a2-b234-ccbfbbc050ed">

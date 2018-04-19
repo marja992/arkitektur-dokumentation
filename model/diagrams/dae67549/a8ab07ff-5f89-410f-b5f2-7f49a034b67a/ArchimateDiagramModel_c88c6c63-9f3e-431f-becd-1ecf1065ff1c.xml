@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="e-portfölj, Kommunikationsstöd och samverkan"
-    id="c88c6c63-9f3e-431f-becd-1ecf1065ff1c">
+    id="c88c6c63-9f3e-431f-becd-1ecf1065ff1c"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0c6524c7-bea4-4247-a221-f8991b93e28b">
