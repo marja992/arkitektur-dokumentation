@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Webb"
+    name="Webb (N2)"
     id="896318f9-e64a-457a-aed4-78f3db52e2a7">
   <children
       xsi:type="archimate:DiagramModelReference"

@@ -235,6 +235,10 @@
         id="64bc5ab4-07dc-4bea-bda3-c556acc659a9"
         source="95e07cf2-fc1e-4cce-9d45-013c4b702a50"
         target="c1fc4680-deb8-40d8-9886-e67369184a02"/>
+    <sourceConnections
+        id="bc621b8f-004a-465b-946b-ca2de93b17b0"
+        source="95e07cf2-fc1e-4cce-9d45-013c4b702a50"
+        target="7642ca01-b438-4b05-ae3c-ac2e896e9e4a"/>
     <bounds
         x="377"
         y="191"
@@ -697,6 +701,10 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_c4da24cd-26fb-47c9-bed6-0af656a96252.xml#c4da24cd-26fb-47c9-bed6-0af656a96252"/>
     </sourceConnections>
+    <sourceConnections
+        id="2f750ab1-605f-4f65-9407-55de65b145e5"
+        source="d3b52213-cb6e-4900-8a7a-be9506235cff"
+        target="d59c5dc2-1ceb-4823-9021-5d8791d7774f"/>
     <bounds
         x="412"
         y="504"
@@ -772,5 +780,29 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_b447e41b-9a58-4fa6-9df6-6922af1558fe.xml#b447e41b-9a58-4fa6-9df6-6922af1558fe"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d59c5dc2-1ceb-4823-9021-5d8791d7774f"
+      targetConnections="2f750ab1-605f-4f65-9407-55de65b145e5"
+      textAlignment="1"
+      content="Om det här istället är en process ”e-förvaltningsarbete” så servar produkterna den. Den realisear fortfarande tjänsterna. ">
+    <bounds
+        x="599"
+        y="504"
+        width="185"
+        height="116"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7642ca01-b438-4b05-ae3c-ac2e896e9e4a"
+      targetConnections="bc621b8f-004a-465b-946b-ca2de93b17b0"
+      textAlignment="1"
+      content="Bör kanske tas bort och istället flytta upp grupperingen.">
+    <bounds
+        x="624"
+        y="96"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

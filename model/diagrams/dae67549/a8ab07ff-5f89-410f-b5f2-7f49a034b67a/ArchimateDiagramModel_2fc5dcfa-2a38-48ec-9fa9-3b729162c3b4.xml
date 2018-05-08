@@ -75,9 +75,8 @@
         source="42f2e00d-d0f3-43b9-88ce-5cbb01bd07ae"
         target="27f86bf6-e8ba-46da-87f5-73028f82a0d8">
       <bendpoints
-          startX="8"
           startY="-142"
-          endX="-156"
+          endX="-164"
           endY="-2"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
@@ -636,5 +635,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_002d0c80-63dd-4a67-8e55-c327bfc4fe6f.xml#002d0c80-63dd-4a67-8e55-c327bfc4fe6f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3afdd9a4-66f8-4245-9dfe-f88914039ca6"
+      textAlignment="1"
+      content="Modellen behöver arbetas om gällande definition av ”e-område”, ”e-portfölj” och ”UFS:s e-förvaltningsportfölj” ang. vad som är produkter, tjänster och business interactions.">
+    <bounds
+        x="645"
+        y="24"
+        width="309"
+        height="98"/>
   </children>
 </archimate:ArchimateDiagramModel>

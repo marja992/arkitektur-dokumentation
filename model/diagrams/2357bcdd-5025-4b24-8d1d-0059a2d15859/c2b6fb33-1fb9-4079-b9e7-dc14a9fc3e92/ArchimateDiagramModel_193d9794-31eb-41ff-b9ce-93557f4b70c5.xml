@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integration"
+    name="Integration (N2)"
     id="193d9794-31eb-41ff-b9ce-93557f4b70c5">
   <children
       xsi:type="archimate:DiagramModelReference"

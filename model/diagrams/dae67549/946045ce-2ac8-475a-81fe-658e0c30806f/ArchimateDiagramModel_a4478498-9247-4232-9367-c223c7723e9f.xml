@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informationsdomäner definierade i &quot;Systeminventering 2012&quot;"
-    id="a4478498-9247-4232-9367-c223c7723e9f">
+    id="a4478498-9247-4232-9367-c223c7723e9f"
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c54f2612-070f-4b4e-b0d6-75ab6f471130">
@@ -576,5 +577,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_a3484c4b-0f9c-4b5b-a79f-aa343fab9ae0.xml#a3484c4b-0f9c-4b5b-a79f-aa343fab9ae0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="014938b7-aa36-4931-9498-f8233176381b"
+      textAlignment="1"
+      content="Begreppet informationstyp används för informationsklassning. Där finns det ett antal olika informationstyper som det sedan går att använda för att hitta rätt informationsklass och genom det också hur information ska hanteras. Mycket rör personinformation med patientuppgifter, personalärenden, känsliga uppgifter (ras, etniskt ursprung). &#xA;&#xA;Bilaga 2 för informationsklassning finns på intranätet. ">
+    <bounds
+        x="1242"
+        y="240"
+        width="307"
+        height="180"/>
   </children>
 </archimate:ArchimateDiagramModel>

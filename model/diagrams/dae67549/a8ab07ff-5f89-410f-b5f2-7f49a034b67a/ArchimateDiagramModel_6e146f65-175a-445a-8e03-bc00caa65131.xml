@@ -644,4 +644,15 @@
         xsi:type="archimate:Product"
         href="Product_0ae5d04d-a670-4adf-a46c-fca9be7c84b5.xml#0ae5d04d-a670-4adf-a46c-fca9be7c84b5"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="342f5be1-6f2e-4b94-b981-741f7b37b5bc"
+      textAlignment="1"
+      content="Portföljerna bör nog vara en business interaction.&#xA;&#xA;Sen har man e-områdena också som business interactions.&#xA;&#xA;Då kan man få produkter på N2 som förvaltas för att aggregera olika tjänster.&#xA;&#xA;Då måste även UFV:s e-förvaltningsportölj förmodligen vara nått annat.">
+    <bounds
+        x="1044"
+        y="-36"
+        width="185"
+        height="241"/>
+  </children>
 </archimate:ArchimateDiagramModel>
