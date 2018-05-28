@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Själv-försörjande tillämpningar"
-    id="0274b5be-d0b0-447e-b012-37d8bb34fbab"/>
+    id="0274b5be-d0b0-447e-b012-37d8bb34fbab"
+    documentation="I syfte att styra mot ett minskat fysiskt beroende mellan olika tillämpningar i IT-miljön ska arkitekturprincipen självförsörjande tillämpningar vara vägledande. Självförsörjande framför allt gällande den information en tillämpning behöver för att kunna fungera på ett förväntat sätt. &#xA;&#xA;Historiskt sett har det strategiska valet att en typ av information enbart ska lagras på ett ställe gjorts. Det har givit täta beroenden mellan de olika delarna i IT-miljön där de olika delarna delar informationsresurser. Operativa mål ska genom arkitekturprincipen leda IT-miljön mot den styrande värderingen stabil IT-miljö. &#xA;&#xA;Arkitekturprincipen ställer krav på att även arkitekturprincipen hög informationskvalitet appliceras för replikering av data.&#xA;"/>

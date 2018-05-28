@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definierade ansvars-förhållanden"
     id="e50a8cb5"
-    documentation="Aktörer, roller och organisation."/>
+    documentation="Den styrande värderingen tydlig organisation kan konkretiseras genom arkitekturprincipen definierade ansvarsförhållanden. Ett ansvar måste utgå från en organisation (linje, e-förvaltning eller projekt) och de roller som knyts till organisationen. Ansvarsförhållandet tydliggörs genom att relatera ansvaret till de organisationer som har en naturlig koppling till ansvarsområdet. &#xA;&#xA;I såväl det taktiska som operativa arbetet ska principen vara styrande och där nya eller förändrade IT-tjänster påverkar ansvarsförhållanden måste de definieras och tydligt kommuniceras.&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hög informations-kvalitet"
-    id="66567945"/>
+    id="66567945"
+    documentation="Många uppgifter och beslut i organisationen baseras på information som samlats in och bearbetats. Informationen kan initialt samlas in i en del av organisationen baserat med hjälp av IT-stöd för att sedan i olika steg förflyttas eller replikeras till andra delar av organisationen med helt annat IT-stöd. Såväl vid insamling, bearbetning eller transport måste informationskvaliteten säkerställas så att inte uppgifts- och beslutsunderlag blir felaktiga och genom det riskerar att leda till felaktigt utförda uppgifter och beslut. &#xA;&#xA;Att IT-arbete görs baserat på arkitekturprincipen hög informationskvalitet ger ett uppfyllande av de styrande värderingarna tillförlitliga medlemmar och rättssäker myndighetsutövning.&#x9;&#xA;"/>

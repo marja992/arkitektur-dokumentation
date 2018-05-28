@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Designa för övervaknings-barhet"
+    name="Designa för test- och övervaknings-barhet"
     id="72fa2657"
-    documentation="Vi måste kunna identifiera eventuella fel eller början till fel för att förhindra incidenter. "/>
+    documentation="Som ingående del i arbete med att uppnå en stabil och säker IT-miljö finns uppgiften att ha kontroll på förväntade beteenden i driftssituationen. Den kontrollen implementeras genom tester och övervakning. Genom kontinuerliga tester och fungerande övervakning kan eventuella fel eller intrång i ett tidigt skede identifieras vilket leder till att eventuella fel och brister kan rättas redan innan användare upplevt bekymmer eller ett intrång fått negativa konsekvenser. &#xA;&#xA;För att kunna säkerställa IT-miljön måste de ingående delarna kunna testas och övervakas vilket ger att designa för test- och övervakningsbarhet måste vara vägledande för alla nya eller förändrade IT-tjänster och underliggande bidragande komponenter. &#xA;"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT-infrastruktur (N2)"
+    name="Teknisk infrastruktur (N2)"
     id="613e7021-0393-4b36-b859-6e99a6f332ca"
     viewpoint="product">
   <children
@@ -10,7 +10,7 @@
       fillColor="#ffffb5"
       textPosition="1">
     <bounds
-        x="96"
+        x="612"
         y="156"
         width="144"
         height="73"/>
@@ -35,7 +35,7 @@
       id="1836b689-382e-4718-8f90-5bc6d224325a"
       textPosition="1">
     <bounds
-        x="96"
+        x="612"
         y="72"
         width="144"
         height="73"/>
@@ -54,5 +54,100 @@
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_5bcb5a29-0acb-4d48-a22b-e631bff6fb22.xml#5bcb5a29-0acb-4d48-a22b-e631bff6fb22"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8ab732e9-bd42-449c-af90-e762f3777960"
+      textAlignment="1"
+      content="Utgångspunkten här borde vara de olika ingående delarna och inte direkta tjänster även om det vore bra att hitta dom också.">
+    <bounds
+        x="780"
+        y="108"
+        width="185"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="427c9d98-2541-4800-acd0-a42850c5f46e">
+    <bounds
+        x="24"
+        y="102"
+        width="529"
+        height="85"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_869341f5-b806-40da-9726-ca4d6b9fff67.xml#869341f5-b806-40da-9726-ca4d6b9fff67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="7f76f1b6-9f64-4d80-b03b-61e2328d99d8">
+    <bounds
+        x="24"
+        y="192"
+        width="529"
+        height="85"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_7636bacb-e68b-4832-855b-30c541407d56.xml#7636bacb-e68b-4832-855b-30c541407d56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="128fc5e7-1e4c-4d38-860c-2ccd4ff341d3"
+      font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      content="Uppsala universitet, IT-avdelningen&#xA;Arkitektur för teknisk infrastruktur&#xA;2018-05-09">
+    <bounds
+        x="12"
+        y="12"
+        width="313"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="ac8c691a-9f8b-4506-8a9b-47f9c05afa9d">
+    <bounds
+        x="24"
+        y="282"
+        width="529"
+        height="85"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_b81f3eed-cd65-4150-a57b-c6f528f67e1a.xml#b81f3eed-cd65-4150-a57b-c6f528f67e1a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="cb2f1af0-9a70-46fd-bfa0-7b674eb56498">
+    <bounds
+        x="24"
+        y="372"
+        width="529"
+        height="85"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_17f5681a-668d-482f-ac0a-bd7d23a9f279.xml#17f5681a-668d-482f-ac0a-bd7d23a9f279"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="fb7fcd07-f381-49eb-a257-103ad35f0d8e">
+    <bounds
+        x="24"
+        y="462"
+        width="529"
+        height="85"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_2afeba3c-8b2b-476f-9fd0-0d24b9dcc8c3.xml#2afeba3c-8b2b-476f-9fd0-0d24b9dcc8c3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="0751d77e-098e-4b34-b2d5-5e524a2cf462">
+    <bounds
+        x="24"
+        y="552"
+        width="529"
+        height="85"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_332eff7b-d4ea-4396-a0dc-9a30b99b8387.xml#332eff7b-d4ea-4396-a0dc-9a30b99b8387"/>
   </children>
 </archimate:ArchimateDiagramModel>

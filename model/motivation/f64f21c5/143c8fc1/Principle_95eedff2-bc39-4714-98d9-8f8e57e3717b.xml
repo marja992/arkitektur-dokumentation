@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Designa för inbyggd integritet"
-    id="95eedff2-bc39-4714-98d9-8f8e57e3717b"/>
+    id="95eedff2-bc39-4714-98d9-8f8e57e3717b"
+    documentation="I såväl personuppgiftslagen som dataskyddsförordningen beskrivs att implementation av IT-stöd måste beakta personlig integritet gällande de personuppgifter som behandlas av IT-stödet. I syfte att undvika direkta lagbrott och eventuell korrigering i efterhand uppges arkitekturprincipen designa för inbyggd integritet som möjliggörare. Arkitekturprincipen kan konkretiseras genom att inte samla in information som det inte finns en direkt användning av, att informationen inte sparas i större utsträckning än den behövs och att den används till de ändamål som den samlats in för. &#xA;&#xA;Noterbart är att myndighetsutövning ger rättslig grund för insamling, behandling och arkivering av viss typ av data. Det finns även lagar och förordningar som ger organisationer skyldighet att i efterhand kunna påvisa fakta. Dessa måste direkt ställas mot den personliga integriteten. &#xA;&#xA;Helheten i arkitekturprincipen bidrar till att organisationen ger en rättssäker myndighetsutövning.&#xA;"/>

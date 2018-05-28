@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integration (N2)"
-    id="193d9794-31eb-41ff-b9ce-93557f4b70c5">
+    id="193d9794-31eb-41ff-b9ce-93557f4b70c5"
+    viewpoint="strategy">
   <children
       xsi:type="archimate:DiagramModelReference"
       id="1b7a7c88-9782-401b-94da-8b615715367c">

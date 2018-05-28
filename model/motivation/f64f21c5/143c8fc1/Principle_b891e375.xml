@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Designa och utnyttja åter-användbart"
-    id="b891e375"/>
+    id="b891e375"
+    documentation="Ett steg i att uppnå kostnadseffektivt IT-arbete är att göra det möjligt för annat IT-arbete att kunna återanvända befintliga delar i IT-miljön, dvs. att designa och utnyttja återanvändbart. I syfte att det ska vara enkelt för andra att kunna återanvända en befintlig komponent behöver komponenten designas utifrån ett mer generaliserat perspektiv än det perspektiv som ges ur en uppkommen situation. Likaså behöver IT-komponenterna vara kända och dokumenterade på ett förståeligt sätt.&#xA;&#xA;Åtföljs principen och arkitekturfunktion tillsammans med operativt arbete gör det tydligt vilka komponenter som finns och hur de ska kunna återanvändas bidrar arbetet till att styra mot värderingen kostnadseffektivt IT-arbete.&#xA;"/>

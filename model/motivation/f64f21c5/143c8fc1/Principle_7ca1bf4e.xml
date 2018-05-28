@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Elektronisk (spårbar) process"
-    id="7ca1bf4e"/>
+    id="7ca1bf4e"
+    documentation="Generellt sett utgörs väldigt stor del av en IT-miljö av informationssystem. Dvs. IT-stöd utvecklade ur ett informationscentriskt perspektiv innehållande väldigt lite stöd för de processer som omger insamling, bearbetning och analys av informationen. Verksamhetsprocesser spänner ofta också över flera IT-stöd och ibland hanteras informationen genom manuella rutiner, ibland med automatiserade överföringar – integrationer. &#xA;&#xA;Att kunna följa och automatisera processer genom IT-stöd och automatiserade integrationer blir en allt viktigare del i arbetet med digitalisering. Att låta målen i det operativa arbetet bidra till att uppfylla arkitekturprincipen elektronisk (spårbar) process styrker organisationen gällande de styrande värderingarna effektiv administration och rättssäker myndighetsutövning.&#xA;"/>

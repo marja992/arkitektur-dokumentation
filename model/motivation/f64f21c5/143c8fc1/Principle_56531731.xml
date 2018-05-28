@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hög IT-säkerhet vid behov"
-    id="56531731"/>
+    id="56531731"
+    documentation="IT-säkerhet är en viktig ingående del i en IT-miljö men är i sig inte den drivande faktorn för IT. Det gäller därför att skapa förutsättningar för att använda anpassad IT-säkerhet i de situationer och den skala som verksamheten bedöms vara mest betjänt av samt de förutsättningar som ges genom exempelvis myndighetsutövning.&#xA;&#xA;Att applicera hög säkerhet vid behov bidrar till en säker IT-miljö och genom det även till en rättssäker myndighetsutövning.&#xA;"/>

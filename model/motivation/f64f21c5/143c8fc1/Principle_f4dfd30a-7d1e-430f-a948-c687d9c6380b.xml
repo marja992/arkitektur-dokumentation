@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Designa tillgängliga IT-system"
+    id="f4dfd30a-7d1e-430f-a948-c687d9c6380b"
+    documentation="Universitetets arbete gällande tillgänglighet ska primärt vägledas genom förordningen 2001:521 ang. myndigheters ansvar för att funktionshinderspolitiken. Vidare konkretiseras funktionshinderpolitikens implementation i IT genom EU-direktivet för tillgänglighetskrav vid upphandling (EN 301 549) samt ISO-standarden 40500:2012 som riktar in sig på tillgänglighet för webbaserade tillämpningar. &#xA;&#xA;För att styra mot bra service och rättssäker myndighetsutövning måste universitetets implementationer säkerställa tillgänglighet vilket görs genom att applicera arkitekturprincipen designa för tillgängliga system.&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitala doku-ment framför papper"
-    id="4a2f4fb3"/>
+    id="4a2f4fb3"
+    documentation="Enligt bakgrunden för arkitekturprincipen responsiv IT-miljö beskrivs det generellt ökade förväntan på IT som helhet. Samma förväntningar finns gällande elektronisk kommunikation med organisationen i alla former vilket i sin tur förutsätter digitala dokument framför papper.&#xA;&#xA;Genom digitala dokument skapas möjligheten till digital kommunikation och automatiserade rutiner som gemensamt bidrar till uppfyllelsen av de styrande värderingarna bra service och effektiv administration.&#xA;"/>

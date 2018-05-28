@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Responsiv IT-miljö"
     id="6f96717a"
-    documentation="Komponenterna i IT-miljön kan inte agera som enskilda komponenter utan som delar i en helhet. Händer någonting i ett IT-system måste andra IT-system kunna reagera på händelser. "/>
+    documentation="Förväntan på IT har kommit att förändras genom att IT fått en allt mer utbredd användning i både privata och jobbrelaterade sammanhang. Kraven finns på IT som helhet och inte på enskilda delarna som tillsammans utgör helheten. Det gör att komponenterna i en IT-miljö inte kan agera som enskilda komponenter utan måste göra det som delar i en helhet. Händer någonting i del måste andra delar momentant kunna reagera. På samma sätt behöver de olika delarna göra funktioner tillgängliga i syfte att kunna integrera och automatisera på ett sätt som knyter de olika delarna samman. &#xA;&#xA;Arkitekturprincipen responsiv IT-miljö syftar till att styra mot bra service.&#xA;"/>
