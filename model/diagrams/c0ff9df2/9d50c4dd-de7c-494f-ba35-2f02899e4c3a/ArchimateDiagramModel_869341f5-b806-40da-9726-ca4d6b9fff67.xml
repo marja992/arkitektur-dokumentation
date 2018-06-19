@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lastbalansering"
-    id="869341f5-b806-40da-9726-ca4d6b9fff67"/>
+    id="869341f5-b806-40da-9726-ca4d6b9fff67">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="6c8c7cf0-8d13-49c5-b722-9c9080e85d03">
+    <bounds
+        x="132"
+        y="72"
+        width="301"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_242a421d-7c55-4a3c-b4ef-10bd15e25352.xml#242a421d-7c55-4a3c-b4ef-10bd15e25352"/>
+  </children>
+</archimate:ArchimateDiagramModel>
