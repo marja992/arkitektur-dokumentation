@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="group-ad-adapter (N4)"
+    id="cd41e0b0-47b4-457d-97f6-e5a0347e84ea"
+    documentation="Systemadapter som konsumerar gruppinformationsmeddelanden och översätter och utför systemanrop mot Active Directory genom LDAP-anrop via Active Adapter for BizTalk. "/>

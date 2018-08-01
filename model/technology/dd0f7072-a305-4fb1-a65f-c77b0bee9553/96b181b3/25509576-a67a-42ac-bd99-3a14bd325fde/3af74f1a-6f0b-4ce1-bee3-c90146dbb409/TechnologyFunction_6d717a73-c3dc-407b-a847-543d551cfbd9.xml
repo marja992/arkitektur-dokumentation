@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sd-group-adapter (N4)"
+    id="6d717a73-c3dc-407b-a847-543d551cfbd9"
+    documentation="Systemadapter som konsumerar studiedokumentationsmeddelanden och översätter till ett meddelandeformat för förmedling av gruppinformation i UU:s meddelandebaserade integrationsteknik. "/>

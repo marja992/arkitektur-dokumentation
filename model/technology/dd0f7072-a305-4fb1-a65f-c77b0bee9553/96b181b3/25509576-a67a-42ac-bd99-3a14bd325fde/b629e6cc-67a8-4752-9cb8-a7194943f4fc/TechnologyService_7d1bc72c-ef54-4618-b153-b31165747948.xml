@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedla gruppinformation till AD (N4)"
+    id="7d1bc72c-ef54-4618-b153-b31165747948"
+    documentation="Implementerad tjänst för att baserat på händelser i grupphanteringen publicera såväl studentgrupper som gruppmedlemsskap i Active Directory."/>

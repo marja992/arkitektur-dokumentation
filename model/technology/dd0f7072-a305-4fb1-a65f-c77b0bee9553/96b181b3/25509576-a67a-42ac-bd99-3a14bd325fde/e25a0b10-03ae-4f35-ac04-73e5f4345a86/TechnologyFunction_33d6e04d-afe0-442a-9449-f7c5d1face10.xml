@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="esb-identity-distribution (N4)"
+    id="33d6e04d-afe0-442a-9449-f7c5d1face10"
+    documentation="Rutin som förmedlar identitetsinformation till definierade konsumenter. "/>

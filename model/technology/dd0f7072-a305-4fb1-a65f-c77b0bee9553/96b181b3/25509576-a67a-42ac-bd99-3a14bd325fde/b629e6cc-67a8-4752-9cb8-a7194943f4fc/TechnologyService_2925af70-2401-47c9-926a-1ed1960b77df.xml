@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedla utbildningstillfälle för schemaläggning (N4)"
+    id="2925af70-2401-47c9-926a-1ed1960b77df"
+    documentation="Implementerad tjänst för att baserat på händelser i studiedokumentationen informationsförsörja schemaläggning med utbildningsinformation."/>

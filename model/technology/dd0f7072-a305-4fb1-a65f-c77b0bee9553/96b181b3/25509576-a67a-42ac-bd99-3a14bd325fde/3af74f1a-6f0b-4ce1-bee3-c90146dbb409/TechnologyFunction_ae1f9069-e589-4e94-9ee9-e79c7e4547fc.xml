@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ladok2-sd-adapter (N4)"
+    id="ae1f9069-e589-4e94-9ee9-e79c7e4547fc"
+    documentation="Systemadapter för Ladok v2 som anpassar systemet till att producera händelser. "/>

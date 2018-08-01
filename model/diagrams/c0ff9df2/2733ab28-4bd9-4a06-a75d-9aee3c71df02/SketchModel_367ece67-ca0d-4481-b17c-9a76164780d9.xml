@@ -9,17 +9,17 @@
       name="Sticky"
       targetConnections="d658a8f2-f6ef-4cce-825c-02773c515812"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#ffffb5"
-      content="Svensk examen (UU)&#xA;">
+      content="Examen från UU sistaårs-programstudent&#xA;&#xA;"
+      textPosition="1">
     <sourceConnections
         id="eabfddc6-caaf-462c-888d-685ac0111d06"
         source="af8dbadb-3cda-4bd9-bdc8-1240bebef991"
-        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
+        target="6fa52573-d7cf-4fd8-99d8-2ae9ce5615a7"
         type="1"/>
     <bounds
-        x="348"
-        y="84"
+        x="312"
+        y="156"
         width="157"
         height="70"/>
   </children>
@@ -29,17 +29,17 @@
       name="Sticky"
       targetConnections="7dd41a51-25e8-43ca-9eec-9161233936f1"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#ffffb5"
-      content="Bedömd berhörighet&#xA;">
+      content="Bedömd berhörighet&#xA;"
+      textPosition="1">
     <sourceConnections
         id="ac4c0f85-5b49-486b-9ef8-fbbe0bbe5ed4"
         source="69b67869-fa9e-45d5-b390-6225b0fcb533"
-        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
+        target="6fa52573-d7cf-4fd8-99d8-2ae9ce5615a7"
         type="1"/>
     <bounds
-        x="348"
-        y="224"
+        x="312"
+        y="296"
         width="157"
         height="70"/>
   </children>
@@ -47,18 +47,13 @@
       xsi:type="archimate:SketchModelSticky"
       id="bc157f4b-bcbb-42e7-8220-985c2e88f017"
       name="Sticky"
-      targetConnections="eabfddc6-caaf-462c-888d-685ac0111d06 ac4c0f85-5b49-486b-9ef8-fbbe0bbe5ed4 38638c5f-88ad-48d8-a65e-d72eaa614eb9 0ec45087-3ab1-4f1c-82a0-b53d9e4f2ef9 06708e62-e7fd-42b5-851d-c131f1f4deeb"
+      targetConnections="38638c5f-88ad-48d8-a65e-d72eaa614eb9 0ec45087-3ab1-4f1c-82a0-b53d9e4f2ef9 06708e62-e7fd-42b5-851d-c131f1f4deeb 73f71790-5aab-4372-bc18-e6bc55f42a47 fba4619b-e315-4605-bc6c-bc433589f18a c8e48eb1-8901-43ab-9051-78be10b27f28 652beba2-e13c-41e8-844a-4704a1261441 87c269a0-412e-4d99-bc89-5bfa1762769a 1bfaa131-2922-48df-a14b-f5b7f04e812e"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#ffc400"
-      content="Alumni-system&#xA;">
-    <sourceConnections
-        id="df952525-1a43-4e1e-bf02-ab942c91f793"
-        source="bc157f4b-bcbb-42e7-8220-985c2e88f017"
-        target="01adbbfc-e3f1-47c4-8cea-1fe5e5c3c9fa"/>
+      content="Alumnisystem&#xA;">
     <bounds
-        x="600"
-        y="72"
+        x="732"
+        y="144"
         width="181"
         height="373"/>
     <children
@@ -82,7 +77,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#c9e7b7"
-        content="Dynamics">
+        content="Dynamics&#xA; - REST">
       <bounds
           x="24"
           y="120"
@@ -123,7 +118,6 @@
       id="515343b2-5008-486c-9b43-ffe9a5db9eaa"
       name="Sticky"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#60ff60"
       content="Nya Ladok&#xA;">
     <sourceConnections
@@ -142,8 +136,8 @@
         target="c34d24a9-7ca8-4d6b-8d84-1ae589c63ff4"
         type="3"/>
     <bounds
-        x="60"
-        y="72"
+        x="24"
+        y="144"
         width="181"
         height="373"/>
   </children>
@@ -152,7 +146,6 @@
       id="23562834-6c50-42b9-b170-adbc47f013fe"
       name="Sticky"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#60ff60"
       content="Navet?">
     <sourceConnections
@@ -161,8 +154,8 @@
         target="c34d24a9-7ca8-4d6b-8d84-1ae589c63ff4"
         type="3"/>
     <bounds
-        x="336"
-        y="492"
+        x="300"
+        y="564"
         width="181"
         height="70"/>
   </children>
@@ -172,17 +165,17 @@
       name="Sticky"
       targetConnections="4846293f-ebbf-404e-8274-18cef162441b 09bc72d0-ede7-404e-9770-040a84d81327"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#ffffb5"
-      content="Personinformation">
+      content="Personinformation"
+      textPosition="1">
     <sourceConnections
         id="38638c5f-88ad-48d8-a65e-d72eaa614eb9"
         source="c34d24a9-7ca8-4d6b-8d84-1ae589c63ff4"
         target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
         type="1"/>
     <bounds
-        x="348"
-        y="360"
+        x="312"
+        y="432"
         width="157"
         height="70"/>
   </children>
@@ -192,12 +185,11 @@
       name="Sticky"
       targetConnections="df952525-1a43-4e1e-bf02-ab942c91f793"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#60ff60"
-      content="Autensiering och auktorisation">
+      content="AKKA (SAML2, LDAP) ?&#xA;">
     <bounds
-        x="600"
-        y="492"
+        x="828"
+        y="744"
         width="181"
         height="70"/>
   </children>
@@ -208,15 +200,15 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Drift?&#xA; - inget livsuppehållande system">
+      content="Drift?&#xA; - inget livsuppehållande system!&#xA; - moln eller on-premise?">
     <sourceConnections
         id="0ec45087-3ab1-4f1c-82a0-b53d9e4f2ef9"
         source="2cfdba89-12f9-4be3-bda3-657fda2866f3"
         target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
         type="3"/>
     <bounds
-        x="900"
-        y="228"
+        x="984"
+        y="296"
         width="229"
         height="70"/>
   </children>
@@ -225,7 +217,6 @@
       id="fb08dfd1-bd50-403b-9bee-86c9c6ba1261"
       name="Sticky"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#60ff60"
       content="Betalningsportal&#xA;">
     <sourceConnections
@@ -234,8 +225,8 @@
         target="496f466e-7716-499d-8242-5dd45a54f8f0"
         type="3"/>
     <bounds
-        x="876"
-        y="492"
+        x="1008"
+        y="564"
         width="181"
         height="70"/>
   </children>
@@ -245,18 +236,243 @@
       name="Sticky"
       targetConnections="aac1f4ef-d353-4590-9402-d5906fd04ef5"
       lineColor="#5c5c5c"
-      textAlignment="1"
       fillColor="#ffffb5"
-      content="Gåva">
+      content="Gåva"
+      textPosition="1">
     <sourceConnections
         id="06708e62-e7fd-42b5-851d-c131f1f4deeb"
         source="496f466e-7716-499d-8242-5dd45a54f8f0"
         target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
         type="1"/>
     <bounds
-        x="899"
-        y="360"
+        x="1031"
+        y="432"
         width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="1e51f5ca-69eb-4e50-980a-0006a874f01d"
+      name="Administration vid UU">
+    <sourceConnections
+        id="73f71790-5aab-4372-bc18-e6bc55f42a47"
+        source="1e51f5ca-69eb-4e50-980a-0006a874f01d"
+        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"/>
+    <bounds
+        x="738"
+        y="24"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="a3f2d29c-18c8-457e-9c47-b1ca8c014d0f"
+      name="Administration för grupp">
+    <sourceConnections
+        id="c8e48eb1-8901-43ab-9051-78be10b27f28"
+        source="a3f2d29c-18c8-457e-9c47-b1ca8c014d0f"
+        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"/>
+    <bounds
+        x="948"
+        y="24"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="c9219a7b-6124-45dd-bb45-d5b6ec25fdc0"
+      name="Alumn">
+    <sourceConnections
+        id="fba4619b-e315-4605-bc6c-bc433589f18a"
+        source="c9219a7b-6124-45dd-bb45-d5b6ec25fdc0"
+        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"/>
+    <sourceConnections
+        id="db658a48-7f19-4a93-b623-56ffa3659466"
+        source="c9219a7b-6124-45dd-bb45-d5b6ec25fdc0"
+        target="6fa52573-d7cf-4fd8-99d8-2ae9ce5615a7"/>
+    <bounds
+        x="511"
+        y="24"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="6fa52573-d7cf-4fd8-99d8-2ae9ce5615a7"
+      name="Sticky"
+      targetConnections="eabfddc6-caaf-462c-888d-685ac0111d06 ac4c0f85-5b49-486b-9ef8-fbbe0bbe5ed4 db658a48-7f19-4a93-b623-56ffa3659466"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5"
+      content="Inbjudan"
+      textPosition="1">
+    <sourceConnections
+        id="652beba2-e13c-41e8-844a-4704a1261441"
+        source="6fa52573-d7cf-4fd8-99d8-2ae9ce5615a7"
+        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
+        type="1"/>
+    <bounds
+        x="528"
+        y="204"
+        width="135"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="4dc712ef-b07d-464e-be88-c1391a8852fc"
+      name="Legend">
+    <bounds
+        x="24"
+        y="657"
+        width="325"
+        height="157"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="bce9eca9-71d3-4eaa-b3b5-322d7b1139c9"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#60ff60"
+        content="Externa system">
+      <bounds
+          x="24"
+          y="36"
+          width="135"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="5663cc2b-77d2-4c43-bf44-95b9871b1b1d"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5"
+        content="Informationsobjekt&#xA;">
+      <bounds
+          x="24"
+          y="72"
+          width="135"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="b7d737a9-5a54-40a5-9ebe-f42d684a2a7e"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffff00"
+        content="Målsystem">
+      <bounds
+          x="168"
+          y="36"
+          width="135"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="b353c679-75dd-4cea-aa1f-603bb9f960ee"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        content="Huvudspår&#xA;">
+      <bounds
+          x="168"
+          y="72"
+          width="135"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="aaa7496c-7a38-4513-b9aa-2dd34dd1e363"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffff"
+        content="Sidospår">
+      <bounds
+          x="168"
+          y="108"
+          width="135"
+          height="24"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="15e6e0dc-4af0-4a20-b4ff-0653be8579a3"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffc400"
+        content="Oklar status&#xA;">
+      <bounds
+          x="24"
+          y="108"
+          width="135"
+          height="24"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="72c21912-2e12-48c4-81fe-70307446e45f"
+      name="Sticky"
+      targetConnections="9599db10-bffe-4eef-bf71-97c25c2de739"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5"
+      content="Personinformation"
+      textPosition="1">
+    <sourceConnections
+        id="87c269a0-412e-4d99-bc89-5bfa1762769a"
+        source="72c21912-2e12-48c4-81fe-70307446e45f"
+        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
+        type="1"/>
+    <bounds
+        x="636"
+        y="624"
+        width="157"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="665f3e42-d88f-45ef-b8c7-667fae56f6cd"
+      name="Sticky"
+      targetConnections="65fe32eb-3733-4ad9-be34-36f3274639ca"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5"
+      content="Tillträde"
+      textPosition="1">
+    <sourceConnections
+        id="df952525-1a43-4e1e-bf02-ab942c91f793"
+        source="665f3e42-d88f-45ef-b8c7-667fae56f6cd"
+        target="01adbbfc-e3f1-47c4-8cea-1fe5e5c3c9fa"/>
+    <sourceConnections
+        id="1bfaa131-2922-48df-a14b-f5b7f04e812e"
+        source="665f3e42-d88f-45ef-b8c7-667fae56f6cd"
+        target="bc157f4b-bcbb-42e7-8220-985c2e88f017"
+        type="1"/>
+    <bounds
+        x="840"
+        y="624"
+        width="157"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="0db14a50-be99-4249-bc8f-13fde250e63b"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      fillColor="#60ff60"
+      content="LinkedIn (OpenID)">
+    <sourceConnections
+        id="9599db10-bffe-4eef-bf71-97c25c2de739"
+        source="0db14a50-be99-4249-bc8f-13fde250e63b"
+        target="72c21912-2e12-48c4-81fe-70307446e45f"/>
+    <sourceConnections
+        id="65fe32eb-3733-4ad9-be34-36f3274639ca"
+        source="0db14a50-be99-4249-bc8f-13fde250e63b"
+        target="665f3e42-d88f-45ef-b8c7-667fae56f6cd"/>
+    <bounds
+        x="624"
+        y="744"
+        width="181"
         height="70"/>
   </children>
 </archimate:SketchModel>

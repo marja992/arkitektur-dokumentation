@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ladok3-sd-adapter (N4)"
+    id="b2385c3f-b6f1-49ce-b908-afe472fca462"
+    documentation="Systemadapter för Ladok v3 som förmedlar alla händelser till UU:s meddelandebaserade integration."/>

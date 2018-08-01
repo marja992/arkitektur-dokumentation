@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sd-vfu-adapter (N4)"
+    id="2dc3b86a-842e-4396-bd7e-0cc1d9c33833"
+    documentation="Systemadapter som konsumerar studiedokumentationsmeddelanden och översätter och utför systemanrop mot Verksamhetsförlagd utbildnings REST API. "/>

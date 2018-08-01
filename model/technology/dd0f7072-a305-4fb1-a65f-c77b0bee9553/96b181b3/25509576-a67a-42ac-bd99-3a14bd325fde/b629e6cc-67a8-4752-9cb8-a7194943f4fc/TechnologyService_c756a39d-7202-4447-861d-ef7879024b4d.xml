@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedla studiedokumentations-händelser till Uppsala studentkårs medlemsregister (N4)"
+    id="c756a39d-7202-4447-861d-ef7879024b4d"
+    documentation="Implementerad tjänst för att baserat på händelser i studiedokumentationen informationsförsörja Uppsala studentkårs medlemsregister med såväl utbildningsinformation som studiedeltagande."/>

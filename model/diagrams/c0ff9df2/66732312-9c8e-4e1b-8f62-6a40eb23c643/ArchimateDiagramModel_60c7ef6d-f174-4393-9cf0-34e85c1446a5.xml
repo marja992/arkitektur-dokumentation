@@ -134,15 +134,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0653a84d-192f-4bd1-91a2-9426a42a37ea"
-        source="e80dc077-9cdd-4214-bb6f-2705ee2e66e0"
-        target="3d4518cd-c536-4e0c-bd72-5cbd6a45042f">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_c4cca963.xml#c4cca963"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="d132f673-d970-4783-9c20-1081a032690a"
         source="e80dc077-9cdd-4214-bb6f-2705ee2e66e0"
         target="dea722df-75c9-4c38-8901-0b9f38a223db">
@@ -176,7 +167,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3d4518cd-c536-4e0c-bd72-5cbd6a45042f"
-        targetConnections="0653a84d-192f-4bd1-91a2-9426a42a37ea"
         textPosition="1"
         type="1">
       <sourceConnections

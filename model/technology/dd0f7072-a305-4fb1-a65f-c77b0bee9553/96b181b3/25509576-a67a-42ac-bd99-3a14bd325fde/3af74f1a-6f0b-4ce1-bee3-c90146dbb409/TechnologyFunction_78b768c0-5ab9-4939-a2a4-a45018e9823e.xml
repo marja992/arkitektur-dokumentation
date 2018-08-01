@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sd-usmr-adapter (N4)"
+    id="78b768c0-5ab9-4939-a2a4-a45018e9823e"
+    documentation="Systemadapter som konsumerar studiedokumentationsmeddelanden och översätter till ett filbaserat format som Uppsala studentkårs medlemsregister förstår. "/>

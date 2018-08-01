@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedla studiedeltagande till grupphantering (N4)"
+    id="319a354a-3438-42c5-9ec5-79b877d87968"
+    documentation="Implementerad tjänst för att baserat på händelser i studiedokumentationen informationsförsörja central grupphantering med såväl utbildningsinformation som studiedeltagande."/>

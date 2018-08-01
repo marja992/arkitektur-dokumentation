@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedla studiedokumentations-händelser till VFU (N4)"
+    id="21a2fdf1-4006-49e7-aea9-3b1dec509025"
+    documentation="Implementerad tjänst för att baserat på händelser i studiedokumentationen informationsförsörja verksamhetsförlagd utbildning med såväl utbildningsinformation som studiedeltagande."/>

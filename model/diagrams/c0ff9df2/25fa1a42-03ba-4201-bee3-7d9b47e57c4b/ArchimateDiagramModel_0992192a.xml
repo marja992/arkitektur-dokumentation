@@ -641,7 +641,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="1aa1b707-3831-4973-8395-dea445f3933e"
-          targetConnections="2f422ae8-b4c2-4f4c-babe-d5916ae56acb 31f8461d-03d7-4088-996e-7468382d3c7f">
+          targetConnections="2f422ae8-b4c2-4f4c-babe-d5916ae56acb 31f8461d-03d7-4088-996e-7468382d3c7f 9a0632cd-1998-4071-8e03-232a25b58088">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="0d3e702d-4f38-4476-922a-965fbd2a7ceb"
@@ -676,6 +676,27 @@
           <archimateElement
               xsi:type="archimate:SystemSoftware"
               href="SystemSoftware_e8f28d52.xml#e8f28d52"/>
+        </children>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="c9072c1a-7674-4932-a904-1a74786d1374">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="9a0632cd-1998-4071-8e03-232a25b58088"
+              source="c9072c1a-7674-4932-a904-1a74786d1374"
+              target="1aa1b707-3831-4973-8395-dea445f3933e">
+            <archimateRelationship
+                xsi:type="archimate:AssignmentRelationship"
+                href="AssignmentRelationship_b3fcb07e-ea63-4ab8-a41f-6d014fc6679e.xml#b3fcb07e-ea63-4ab8-a41f-6d014fc6679e"/>
+          </sourceConnections>
+          <bounds
+              x="156"
+              y="36"
+              width="120"
+              height="55"/>
+          <archimateElement
+              xsi:type="archimate:SystemSoftware"
+              href="SystemSoftware_8203fdb3.xml#8203fdb3"/>
         </children>
         <archimateElement
             xsi:type="archimate:TechnologyFunction"
@@ -715,6 +736,18 @@
         <archimateElement
             xsi:type="archimate:TechnologyFunction"
             href="TechnologyFunction_cdb5ea52-844e-4f10-bf4b-4a94d3ec380e.xml#cdb5ea52-844e-4f10-bf4b-4a94d3ec380e"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="6ab725a3-9c63-4fa2-a090-ef271eb104ee"
+          font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
+          fillColor="#008040">
+        <bounds
+            width="25"
+            height="25"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_39118394-e872-4b2d-b69c-0cf83225e24f.xml#39118394-e872-4b2d-b69c-0cf83225e24f"/>
       </children>
       <archimateElement
           xsi:type="archimate:Path"

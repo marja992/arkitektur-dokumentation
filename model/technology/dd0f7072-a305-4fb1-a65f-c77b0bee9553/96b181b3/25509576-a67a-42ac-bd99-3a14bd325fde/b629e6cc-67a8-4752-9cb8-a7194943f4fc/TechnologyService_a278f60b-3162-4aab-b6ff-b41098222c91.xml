@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Förmedla identitetsinformation till AKKA (N4)"
+    id="a278f60b-3162-4aab-b6ff-b41098222c91"
+    documentation="Implementerad tjänst för att baserat på händelser i studiedokumentationen informationsförsörja kontohantering med studiedeltagande."/>

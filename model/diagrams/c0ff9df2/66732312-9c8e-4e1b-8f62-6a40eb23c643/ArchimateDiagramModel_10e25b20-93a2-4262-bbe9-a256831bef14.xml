@@ -37,15 +37,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="074398ca-f0f8-4087-a0a7-5ef00d0492ae"
-        source="d8e63b11-0e22-4fc4-80bc-c829a2497f14"
-        target="7fef82cc-2cb0-479e-89bc-e187d4d8fa2a">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_37275dd1-8cf3-48c5-a176-a37f700da09d.xml#37275dd1-8cf3-48c5-a176-a37f700da09d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="3b8c1255-1960-4841-926e-6e084640217c"
         source="d8e63b11-0e22-4fc4-80bc-c829a2497f14"
         target="44c6a440-e578-438f-a6d2-3745c6d2e099">
@@ -156,7 +147,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7fef82cc-2cb0-479e-89bc-e187d4d8fa2a"
-        targetConnections="074398ca-f0f8-4087-a0a7-5ef00d0492ae 80d4032e-3221-499b-a003-a0fa16479647 abdde407-0c71-4c34-89de-772d20122a63 26b9b737-9c1b-4eb2-8d4e-eb5c5efcb1a8 26b9cd76-e9c5-4366-9e90-48fd23bdcb4d d8d26392-e934-4415-9356-37f12e6b142b"
+        targetConnections="80d4032e-3221-499b-a003-a0fa16479647 abdde407-0c71-4c34-89de-772d20122a63 26b9b737-9c1b-4eb2-8d4e-eb5c5efcb1a8 26b9cd76-e9c5-4366-9e90-48fd23bdcb4d d8d26392-e934-4415-9356-37f12e6b142b"
         textPosition="1"
         type="1">
       <sourceConnections
