@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementerad meddelandeförmedling"
-    id="39118394-e872-4b2d-b69c-0cf83225e24f">
+    id="39118394-e872-4b2d-b69c-0cf83225e24f"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cccb9c9e-480d-4234-b064-5856310dfca8"

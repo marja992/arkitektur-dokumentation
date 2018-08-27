@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verksamhetsförlagd utbildning, Studiedokumentation och Studentportal, logisk modell"
-    id="03496285-6a4e-46d5-b94f-4c0305723098">
+    id="03496285-6a4e-46d5-b94f-4c0305723098"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="06921a21-02cf-431d-9985-92231d011e47"

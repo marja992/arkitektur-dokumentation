@@ -23,15 +23,6 @@
       fillColor="#008f51">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9f2cc023-8cf0-40f4-b293-b4d18feeee87"
-        source="44b37f94-3713-47e2-a562-f1fe8ffe0971"
-        target="fd3ac69f-6c9a-417b-a170-e63f920c5928">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_e08d4616-e169-4b99-b69f-13d3084761b8.xml#e08d4616-e169-4b99-b69f-13d3084761b8"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="4427c565-5ad7-4abc-9810-84db9c9e4491"
         source="44b37f94-3713-47e2-a562-f1fe8ffe0971"
         target="b27b6002-713d-4583-9c1d-f56d22e149e9">
@@ -47,7 +38,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="fd3ac69f-6c9a-417b-a170-e63f920c5928"
-        targetConnections="9f2cc023-8cf0-40f4-b293-b4d18feeee87 e89c911b-7a61-4a09-808a-20cc6ade6d02 44d8a323-196e-4f68-9453-c1e14f6ef987"
+        targetConnections="e89c911b-7a61-4a09-808a-20cc6ade6d02 44d8a323-196e-4f68-9453-c1e14f6ef987"
         fillColor="#c9e6b7">
       <bounds
           x="48"
