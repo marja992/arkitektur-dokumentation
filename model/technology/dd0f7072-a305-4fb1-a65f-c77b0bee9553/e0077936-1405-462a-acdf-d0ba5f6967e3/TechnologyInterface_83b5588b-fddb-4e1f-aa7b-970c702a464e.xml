@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="JDBC"
-    id="83b5588b-fddb-4e1f-aa7b-970c702a464e"/>
+    id="83b5588b-fddb-4e1f-aa7b-970c702a464e">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:TechnologyInterface>

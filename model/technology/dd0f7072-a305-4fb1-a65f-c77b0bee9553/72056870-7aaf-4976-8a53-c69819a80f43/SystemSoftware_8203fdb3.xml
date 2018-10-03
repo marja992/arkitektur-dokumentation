@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Java"
-    id="8203fdb3"/>
+    id="8203fdb3">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:SystemSoftware>

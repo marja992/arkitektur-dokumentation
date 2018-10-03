@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tomcat"
-    id="2c658931"/>
+    id="2c658931">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:SystemSoftware>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stream-Insight"
     id="27ecc3c0"
-    documentation="Hur står sig StreamInsight i förhållande till NEsper och  kan ESB Toolkit erbjuda delar av CEP?"/>
+    documentation="Hur står sig StreamInsight i förhållande till NEsper och  kan ESB Toolkit erbjuda delar av CEP?">
+  <properties
+      key="status"
+      value="evaluate"/>
+</archimate:SystemSoftware>

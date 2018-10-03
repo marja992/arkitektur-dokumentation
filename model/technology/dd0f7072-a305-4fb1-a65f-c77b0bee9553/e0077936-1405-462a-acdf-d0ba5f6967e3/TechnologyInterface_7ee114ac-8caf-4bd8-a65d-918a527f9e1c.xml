@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REST"
-    id="7ee114ac-8caf-4bd8-a65d-918a527f9e1c"/>
+    id="7ee114ac-8caf-4bd8-a65d-918a527f9e1c">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:TechnologyInterface>

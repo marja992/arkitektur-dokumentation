@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AMQP"
-    id="d48cd27b"/>
+    id="d48cd27b">
+  <properties
+      key="status"
+      value="start"/>
+</archimate:TechnologyInterface>

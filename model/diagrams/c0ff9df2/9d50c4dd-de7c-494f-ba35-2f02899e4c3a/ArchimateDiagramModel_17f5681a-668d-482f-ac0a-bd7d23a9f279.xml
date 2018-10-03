@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Serverinfrastruktur"
-    id="17f5681a-668d-482f-ac0a-bd7d23a9f279"/>
+    id="17f5681a-668d-482f-ac0a-bd7d23a9f279">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="25f88af6-dee9-46be-a685-6777bddc9e7b"
+      textAlignment="1"
+      content="I det här området behöver vi initialt dokumentera serveradministration för de olika typerna av plattformar. Primärt SCCM och Satellite. ">
+    <bounds
+        x="312"
+        y="145"
+        width="289"
+        height="84"/>
+  </children>
+</archimate:ArchimateDiagramModel>

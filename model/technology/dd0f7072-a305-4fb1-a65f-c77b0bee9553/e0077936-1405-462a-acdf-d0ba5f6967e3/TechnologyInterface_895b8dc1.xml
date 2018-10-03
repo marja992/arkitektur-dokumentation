@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LDAPS"
-    id="895b8dc1"/>
+    id="895b8dc1">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:TechnologyInterface>

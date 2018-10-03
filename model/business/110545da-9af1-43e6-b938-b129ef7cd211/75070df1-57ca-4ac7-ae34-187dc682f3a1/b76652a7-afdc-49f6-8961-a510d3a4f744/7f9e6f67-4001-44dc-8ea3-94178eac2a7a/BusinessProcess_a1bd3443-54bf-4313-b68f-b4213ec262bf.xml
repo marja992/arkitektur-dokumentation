@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Request Fullfillment (ITIL)"
     id="a1bd3443-54bf-4313-b68f-b4213ec262bf"
-    documentation="Process Objective: To fulfill Service Requests, which in most cases are minor (standard) Changes (e.g. requests to change a password) or requests for information.&#xA;"/>
+    documentation="Process Objective: To fulfill Service Requests, which in most cases are minor (standard) Changes (e.g. requests to change a password) or requests for information.&#xA;">
+  <properties
+      key="drill down"
+      value="b56f2c8e-084f-4577-b935-c3edb51d38fd"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SFTP"
-    id="c613e135"/>
+    id="c613e135">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:TechnologyInterface>

@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OleDB"
-    id="38a12a0e-daa7-440a-801e-57e74a3fa68e"/>
+    id="38a12a0e-daa7-440a-801e-57e74a3fa68e">
+  <properties
+      key="status"
+      value="start"/>
+</archimate:TechnologyInterface>

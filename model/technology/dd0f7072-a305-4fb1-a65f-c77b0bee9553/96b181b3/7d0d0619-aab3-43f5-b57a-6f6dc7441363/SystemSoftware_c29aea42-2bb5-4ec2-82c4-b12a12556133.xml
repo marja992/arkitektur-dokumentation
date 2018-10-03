@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="The Very Secure FTP Daemon"
-    id="c29aea42-2bb5-4ec2-82c4-b12a12556133"/>
+    id="c29aea42-2bb5-4ec2-82c4-b12a12556133">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:SystemSoftware>

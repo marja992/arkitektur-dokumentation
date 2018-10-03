@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AKKA Client"
-    id="6f660669"/>
+    id="6f660669">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:SystemSoftware>

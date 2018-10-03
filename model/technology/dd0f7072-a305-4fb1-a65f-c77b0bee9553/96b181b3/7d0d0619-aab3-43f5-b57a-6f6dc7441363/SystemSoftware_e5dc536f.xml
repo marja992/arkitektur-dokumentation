@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ATI Ladok REST Klient"
-    id="e5dc536f"/>
+    id="e5dc536f">
+  <properties
+      key="status"
+      value="start"/>
+</archimate:SystemSoftware>

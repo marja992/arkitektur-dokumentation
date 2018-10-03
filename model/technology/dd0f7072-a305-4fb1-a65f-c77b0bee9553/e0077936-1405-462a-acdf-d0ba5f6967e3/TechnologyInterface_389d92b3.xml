@@ -1,4 +1,8 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ODBC"
-    id="389d92b3"/>
+    id="389d92b3">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:TechnologyInterface>

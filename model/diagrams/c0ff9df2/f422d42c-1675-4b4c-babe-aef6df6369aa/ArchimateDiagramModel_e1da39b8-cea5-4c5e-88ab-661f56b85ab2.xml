@@ -1426,4 +1426,15 @@
         width="529"
         height="73"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c190466c-c978-4d34-b9b6-8596980160d1"
+      textAlignment="1"
+      content="Sök måste in och relateras till tjänsten i ”Innehållshantering för webb”. &#xA;">
+    <bounds
+        x="278"
+        y="840"
+        width="251"
+        height="144"/>
+  </children>
 </archimate:ArchimateDiagramModel>

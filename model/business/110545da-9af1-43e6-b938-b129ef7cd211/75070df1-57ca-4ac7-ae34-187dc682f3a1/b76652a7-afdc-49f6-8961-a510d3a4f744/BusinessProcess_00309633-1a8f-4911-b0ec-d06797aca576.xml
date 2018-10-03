@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Operation (ITIL)"
     id="00309633-1a8f-4911-b0ec-d06797aca576"
-    documentation="Dagligt arbete med att leverera enligt SLA."/>
+    documentation="Dagligt arbete med att leverera enligt SLA.">
+  <properties
+      key="drill down"
+      value="f4ba9fb7-9c5f-4be8-a5d6-db1026fa0784"/>
+</archimate:BusinessProcess>

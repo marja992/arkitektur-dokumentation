@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Crond"
-    id="ee9c8843"/>
+    id="ee9c8843">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:SystemSoftware>

@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Strategy (ITIL)"
     id="d9eb5168-5ab2-4f69-a7d4-14f82e201b29"
-    documentation="Vilka tjänster som är relevanta för verksamheten."/>
+    documentation="Vilka tjänster som är relevanta för verksamheten.">
+  <properties
+      key="status"
+      value="Documented"/>
+  <properties
+      key="drill down"
+      value="28e6ddfb-97ef-44d8-8a02-7401c0f7cb23"/>
+</archimate:BusinessProcess>

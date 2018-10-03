@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IIS"
-    id="a096e921"/>
+    id="a096e921">
+  <properties
+      key="status"
+      value="start"/>
+</archimate:SystemSoftware>

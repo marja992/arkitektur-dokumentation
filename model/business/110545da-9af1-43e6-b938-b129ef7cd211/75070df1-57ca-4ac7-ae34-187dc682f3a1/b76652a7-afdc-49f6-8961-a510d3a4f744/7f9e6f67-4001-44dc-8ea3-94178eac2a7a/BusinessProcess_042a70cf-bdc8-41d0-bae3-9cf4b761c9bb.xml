@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Access Management (ITIL)"
     id="042a70cf-bdc8-41d0-bae3-9cf4b761c9bb"
-    documentation="Process Objective: To grant authorized users the right to use a service, while preventing access to non-authorized users. The Access Management processes essentially execute policies defined in Information Security Management. Access Management is sometimes also referred to as Rights Management or Identity Management."/>
+    documentation="Process Objective: To grant authorized users the right to use a service, while preventing access to non-authorized users. The Access Management processes essentially execute policies defined in Information Security Management. Access Management is sometimes also referred to as Rights Management or Identity Management.">
+  <properties
+      key="drill down"
+      value="dd896810"/>
+</archimate:BusinessProcess>

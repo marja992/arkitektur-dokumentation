@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Windows Scheduler"
-    id="df04989f-e7e7-4fcb-9e65-d41be9763298"/>
+    id="df04989f-e7e7-4fcb-9e65-d41be9763298">
+  <properties
+      key="status"
+      value="continue"/>
+</archimate:SystemSoftware>

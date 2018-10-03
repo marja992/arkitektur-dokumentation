@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API Management"
-    id="27f32b00-0dca-4b3f-93d2-5931b1154771"/>
+    id="27f32b00-0dca-4b3f-93d2-5931b1154771">
+  <properties
+      key="status"
+      value="evaluate"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tentamensvakt"
+    id="b9de0522-6ecb-4ff3-9242-00759a856e9b"
+    documentation="Identifierar registrerade studenter vid examinationstillfället. Övervarkar examinationen så att reglerna följs samt skriver incidentrapporter och någonting händer vid en examination.&#xA;&#xA;Ser också till att alla examinationer utförs inom schemalagd tid."/>

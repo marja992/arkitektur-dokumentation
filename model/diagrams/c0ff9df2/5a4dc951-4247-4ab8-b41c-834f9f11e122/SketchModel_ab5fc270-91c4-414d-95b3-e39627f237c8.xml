@@ -331,12 +331,16 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="Mobild &#xA;BankID">
+      content="Mobilt&#xA;BankID">
     <sourceConnections
         id="845f0250-9573-496e-bff6-ef078da91f5e"
         source="a3072354-1ee4-4c58-9aa0-1dbd33637b3d"
         target="ab6ea229-f4e1-4c0d-888c-af45f4c37403"
         type="64"/>
+    <sourceConnections
+        id="14309f2c-211e-47c4-bb83-66a576a2db71"
+        source="a3072354-1ee4-4c58-9aa0-1dbd33637b3d"
+        target="3dc8b89d-773d-45ad-a769-9d47798391b6"/>
     <bounds
         x="564"
         y="168"
@@ -535,5 +539,20 @@
           width="135"
           height="70"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="3dc8b89d-773d-45ad-a769-9d47798391b6"
+      name="Sticky"
+      targetConnections="14309f2c-211e-47c4-bb83-66a576a2db71"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Dyrt och strider med kravet om persisterad inloggning. Måste ersättas.">
+    <bounds
+        x="731"
+        y="132"
+        width="158"
+        height="106"/>
   </children>
 </archimate:SketchModel>
