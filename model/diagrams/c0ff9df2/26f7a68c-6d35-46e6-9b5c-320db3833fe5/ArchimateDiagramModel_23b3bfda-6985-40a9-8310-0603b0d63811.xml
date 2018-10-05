@@ -19,8 +19,8 @@
           endY="-87"/>
       <bendpoints
           startX="-360"
-          startY="93"
-          endY="-51"/>
+          startY="190"
+          endY="-50"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_a7e75556-7e96-417a-b45f-4dfe9266feb4.xml#a7e75556-7e96-417a-b45f-4dfe9266feb4"/>
@@ -37,7 +37,7 @@
           endY="-75"/>
       <bendpoints
           startX="360"
-          startY="93"
+          startY="189"
           endX="1"
           endY="-51"/>
       <archimateRelationship
@@ -56,8 +56,8 @@
           endY="-75"/>
       <bendpoints
           startX="-216"
-          startY="93"
-          endY="-51"/>
+          startY="190"
+          endY="-50"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_98d38ffb-7074-457d-b3d5-cfd90a3585b9.xml#98d38ffb-7074-457d-b3d5-cfd90a3585b9"/>
@@ -74,8 +74,8 @@
           endY="-63"/>
       <bendpoints
           startX="-72"
-          startY="93"
-          endY="-51"/>
+          startY="190"
+          endY="-50"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_1d800915-581f-4155-a9eb-78a7891c6341.xml#1d800915-581f-4155-a9eb-78a7891c6341"/>
@@ -92,7 +92,7 @@
           endY="-70"/>
       <bendpoints
           startX="216"
-          startY="93"
+          startY="189"
           endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
@@ -109,17 +109,25 @@
           endX="-60"
           endY="-63"/>
       <bendpoints
-          startX="71"
-          startY="87"
-          endX="-1"
-          endY="-57"/>
+          startX="72"
+          startY="189"
+          endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_ec35d531-bfbe-413d-be58-44e81cb45361.xml#ec35d531-bfbe-413d-be58-44e81cb45361"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="4a8ebb0e-9717-4308-b444-fa3bd4c1e40c"
+        source="bd3fc63f-e65a-429c-b56a-b49c51332331"
+        target="fd3bb1ea-637a-4d0d-a15e-9e14898f382a">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_ef76533b-c83e-41f9-9ba8-3f6a5bd61bef.xml#ef76533b-c83e-41f9-9ba8-3f6a5bd61bef"/>
+    </sourceConnections>
     <bounds
         x="876"
-        y="264"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -450,10 +458,6 @@
         id="b363f678-4fbd-400e-b3f6-a98213324e08"
         source="06cf141a-2906-4210-a5e3-164b2090351e"
         target="bd3fc63f-e65a-429c-b56a-b49c51332331">
-      <bendpoints
-          startX="378"
-          startY="-3"
-          endY="-99"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_187181c3-1156-445e-9f83-a569c0bd919c.xml#187181c3-1156-445e-9f83-a569c0bd919c"/>
@@ -547,7 +551,7 @@
       id="7338f5e2-08c7-457b-b476-0bc7cfa6af0a"
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      content="Uppsala universitet, Utbildning&#xA;Examinerad utbildning, Digital examination&#xA;2018-10-02">
+      content="Uppsala universitet, Utbildning&#xA;Examinerad utbildning, Digital examination&#xA;2018-10-04">
     <bounds
         x="12"
         y="12"
@@ -634,5 +638,18 @@
         y="462"
         width="157"
         height="102"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fd3bb1ea-637a-4d0d-a15e-9e14898f382a"
+      targetConnections="4a8ebb0e-9717-4308-b444-fa3bd4c1e40c">
+    <bounds
+        x="1140"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_6c176156.xml#6c176156"/>
   </children>
 </archimate:ArchimateDiagramModel>
