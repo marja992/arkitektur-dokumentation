@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrationsarkitektur - Ansvarsförhållanden"
-    id="831359ec-d5ee-4a0b-a683-4bbb878c6e5d">
+    id="831359ec-d5ee-4a0b-a683-4bbb878c6e5d"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="682d0e84-1b9d-4f14-9cce-9702e5b19367"
